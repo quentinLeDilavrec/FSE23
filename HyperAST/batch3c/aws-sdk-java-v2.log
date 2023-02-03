@@ -1,0 +1,4 @@
+[2023-01-11T22:36:17.057Z WARN] args: ["target/release/window_combination", "aws/aws-sdk-java-v2", "", "edea5de18755962cb864cb4c88652ec8748d877c", "", "batch/validity_aws-sdk-java-v2.csv", "batch/perfs_aws-sdk-java-v2.csv", "2", "Chawathe"]
+[2023-01-11T22:37:00.413Z WARN] bad CST
+thread 'main' panicked at '35 0 "#parse"', hyper_ast/src/tree_gen/mod.rs:414:13
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace

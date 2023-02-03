@@ -1,0 +1,4 @@
+[2023-01-10T13:19:37.839Z WARN] args: ["target/release/window_combination", "apache/logging-log4j2", "7e745b42bda9bf6f8ea681d38992d18036fc021e", "ebfc8945a5dd77b617f4667647ed4b740323acc8", "", "batch2/validity_logging-log4j2.csv", "batch2/perfs_logging-log4j2.csv", "2", "Chawathe"]
+[2023-01-10T13:19:38.565Z WARN] bad CST
+thread 'main' panicked at '114 55318 "reporting"', hyper_ast/src/tree_gen/mod.rs:414:13
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace

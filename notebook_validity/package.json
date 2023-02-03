@@ -1,0 +1,14 @@
+{
+  "name": "66eb8e541f31a32d",
+  "main": "66eb8e541f31a32d@617.js",
+  "version": "617.0.0",
+  "homepage": "https://observablehq.com/d/66eb8e541f31a32d",
+  "author": {
+    "name": "quentin le dilavrec",
+    "url": "https://observablehq.com/@quentinledilavrec"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

@@ -1,0 +1,3 @@
+[2023-01-09T19:20:03.563Z WARN] args: ["target/release/window_combination", "apache/maven", "138edd61fd100ec658bfa2d307c43b76940a5d7d", "be2b7f890d98af20eb0753650b6605a68a97ac05", "", "validity_maven.csv", "perfs_maven.csv", "2", "Chawathe"]
+thread 'main' panicked at '60 1286 "<![CDATA"', hyper_ast/src/tree_gen/mod.rs:414:13
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace

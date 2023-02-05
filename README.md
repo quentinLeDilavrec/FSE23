@@ -3,16 +3,14 @@
 ## Content
 
 ### notebooks used for the evaluation
-[](notebook_perfs/)
-[](gumtree_validity/)
+* `notebook_perfs/`
+* `gumtree_validity/`
 
-### snapshot of gumtree
-[](gumtree/)
+### snapshot of baseline (GumTree): `gumtree/`
 
 * Follow the normal package build of gumtree
 
-### our tool
-[](HyperAST/hyper_gumtree/)
+### our tool: `HyperAST/hyper_gumtree/`
 
 * Build with `cargo build --release`
 * Example command to run a benchmark

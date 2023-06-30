@@ -10,13 +10,6 @@
 
 * Follow the normal package build of gumtree
 
-### snapshot of baseline for simple usecase (GumTree-Spoon): `gumtreeSpoon/`
-First run the benchmark for simple usecase on our tool
-
-* clone repositories in `instance/` 
-* Follow the normal package build of gumtreeSpoon: `mvn package`
-* run the script called `simp_gts.sh` with repo name as parameter
-
 ### our tool: `HyperAST/hyper_gumtree/`
 
 * Build with `cargo build --release`
@@ -29,3 +22,10 @@ target/release/window_combination INRIA/spoon "" ee73f4376aa929d8dce950202fabb89
 #### benchmark for simple usecase
 
 * run the script called `simp_uc.sh` with repo's user and name, and commitid where it starts
+
+### snapshot of baseline for simple usecase (GumTree-Spoon): `gumtreeSpoon/`
+First run the benchmark for simple usecase on our tool
+
+* clone repositories in `instance/` 
+* Follow the normal package build of gumtreeSpoon: `mvn package`
+* run the script called `simp_gts.sh` with repo name as parameter

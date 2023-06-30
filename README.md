@@ -10,6 +10,10 @@
 
 * Follow the normal package build of gumtree
 
+### snapshot of baseline for simple usecase (GumTree-Spoon): `gumtreeSpoon/`
+
+* Follow the normal package build of gumtreeSpoon: `mvn package`
+
 ### our tool: `HyperAST/hyper_gumtree/`
 
 * Build with `cargo build --release`

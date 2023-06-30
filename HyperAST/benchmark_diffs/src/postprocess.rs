@@ -543,14 +543,18 @@ impl SimpleJsonPostProcess {
             // .src_to_dst.par_iter().enumerate().filter(|x| *x.1 != 0).map(|(src, dst)| (num_traits::cast(src).unwrap(), *dst - 1))
             .map(|(a, b)| formator(a, b))
             .collect();
+        dbg!(&hast_mappings[10000..10005]);
         let hast_m_formating_t = now.elapsed().as_secs_f64();
         dbg!(hast_m_formating_t);
         let now = Instant::now();
         dbg!(hast_mappings.len());
+        let hast_mappings = &hast_mappings[10000..10005];
         let hast_mappings: HashSet<&diff_output::Match<diff_output::Tree>> =
             hast_mappings.iter().collect();
+        let gt_mappings = &self.file.matches;
+        let gt_mappings = &gt_mappings[10000..10005];
         let gt_mappings: HashSet<&diff_output::Match<diff_output::Tree>> =
-            self.file.matches.iter().collect();
+            gt_mappings.iter().collect();
         let mappings_formating_t = now.elapsed().as_secs_f64();
         dbg!(mappings_formating_t);
         let now = Instant::now();

@@ -1,0 +1,916 @@
+56e12a0c0e0e69ea70863011b4f4ca3305e0542b
+ERROR> Previous HEAD position was 3528f1a6 fix(DefaultJavaPrettyPrinter): support for inline else if (#3088)
+ERROR> HEAD is now at 56e12a0c refactor: use StringJoiner where appropriate (#4685)
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+[inherited]:spoon-core:jar:10.2.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405292
+3acf94ce97e6f4af9eb7b69a9b9f94d4a6d5a164
+ERROR> Previous HEAD position was 56e12a0c refactor: use StringJoiner where appropriate (#4685)
+ERROR> HEAD is now at 3acf94ce chore: Start 10.2.0 dev cycle (#4687)
+[inherited]:spoon-core:jar:10.2.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405330
+3acf94ce97e6f4af9eb7b69a9b9f94d4a6d5a164 56e12a0c0e0e69ea70863011b4f4ca3305e0542b 405330 405292 14551973518 26030706629 11740315602 95
+07ab4c7629c46933b46df72f287200986b20bcfc
+ERROR> Previous HEAD position was 3acf94ce chore: Start 10.2.0 dev cycle (#4687)
+ERROR> HEAD is now at 07ab4c76 fix(deps): update dependency fr.inria.gforge.spoon:spoon-core to v10.1.0 (#4684)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405330
+07ab4c7629c46933b46df72f287200986b20bcfc 3acf94ce97e6f4af9eb7b69a9b9f94d4a6d5a164 405330 405330 12368598732 14551973518 9107087529 0
+394224589ec67a221b516c85514e917ff9579c6c
+ERROR> Previous HEAD position was 07ab4c76 fix(deps): update dependency fr.inria.gforge.spoon:spoon-core to v10.1.0 (#4684)
+ERROR> HEAD is now at 39422458 chore(deps): update actions/setup-java action to v3.1.1 (#4680)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405330
+394224589ec67a221b516c85514e917ff9579c6c 07ab4c7629c46933b46df72f287200986b20bcfc 405330 405330 11750543724 12368598732 8450513042 0
+a50d726f5f9ced0f3cd7c5c391236301889c96bb
+ERROR> Previous HEAD position was 39422458 chore(deps): update actions/setup-java action to v3.1.1 (#4680)
+ERROR> HEAD is now at a50d726f chore(deps): update actions/setup-python action to v3.1.2 (#4681)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405330
+a50d726f5f9ced0f3cd7c5c391236301889c96bb 394224589ec67a221b516c85514e917ff9579c6c 405330 405330 11985585999 11750543724 8762119580 0
+2d3a55131e0243e2f640ee041f29154b1112ddf3
+ERROR> Previous HEAD position was a50d726f chore(deps): update actions/setup-python action to v3.1.2 (#4681)
+ERROR> HEAD is now at 2d3a5513 chore(deps): update jetbrains/qodana-action action to v5.0.4 (#4683)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405330
+2d3a55131e0243e2f640ee041f29154b1112ddf3 a50d726f5f9ced0f3cd7c5c391236301889c96bb 405330 405330 12564453425 11985585999 7980810595 0
+af8bd289784a21f2191d145bcc711c335dff574c
+ERROR> Previous HEAD position was 2d3a5513 chore(deps): update jetbrains/qodana-action action to v5.0.4 (#4683)
+ERROR> HEAD is now at af8bd289 refactor: use stripTrailing over custom method (#4682)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405330
+af8bd289784a21f2191d145bcc711c335dff574c 2d3a55131e0243e2f640ee041f29154b1112ddf3 405330 405330 11404121119 12564453425 7726716012 0
+32104823d5399cf07c36c7c2ae944c10e6d7a04b
+ERROR> Previous HEAD position was af8bd289 refactor: use stripTrailing over custom method (#4682)
+ERROR> HEAD is now at 32104823 refactor: clean up `generateProcessedSourceFilesUsingCUs` method (#4672)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405361
+32104823d5399cf07c36c7c2ae944c10e6d7a04b af8bd289784a21f2191d145bcc711c335dff574c 405361 405330 11509778682 11404121119 9003542599 33
+5e15569517f6a87802cd5ed5c261b77e623f44e5
+ERROR> Previous HEAD position was 32104823 refactor: clean up `generateProcessedSourceFilesUsingCUs` method (#4672)
+ERROR> HEAD is now at 5e155695 chore(deps) Update DepClean to version 2.0.2 (#4679)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405377
+5e15569517f6a87802cd5ed5c261b77e623f44e5 32104823d5399cf07c36c7c2ae944c10e6d7a04b 405377 405361 11136022722 11509778682 9209977074 167
+5f3ac8704b789b23792e6b1bdd1e06f22dbcbe2a
+ERROR> Previous HEAD position was 5e155695 chore(deps) Update DepClean to version 2.0.2 (#4679)
+ERROR> HEAD is now at 5f3ac870 test: Do not trim surefire stacktraces (#4675)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405377
+5f3ac8704b789b23792e6b1bdd1e06f22dbcbe2a 5e15569517f6a87802cd5ed5c261b77e623f44e5 405377 405377 11472412205 11136022722 7825520003 0
+d36a0e99f95435df5aad222770667dd472c6cf49
+ERROR> Previous HEAD position was 5f3ac870 test: Do not trim surefire stacktraces (#4675)
+ERROR> HEAD is now at d36a0e99 refactor: use JDK nullOutputStream (#4676)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405377
+d36a0e99f95435df5aad222770667dd472c6cf49 5f3ac8704b789b23792e6b1bdd1e06f22dbcbe2a 405377 405377 11113392003 11472412205 7833925629 0
+9dfca3bf8bbada63f55eb5abc6643398c3358661
+ERROR> Previous HEAD position was d36a0e99 refactor: use JDK nullOutputStream (#4676)
+ERROR> HEAD is now at 9dfca3bf refactor: Use NIO to read source code (#4674)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405375
+9dfca3bf8bbada63f55eb5abc6643398c3358661 d36a0e99f95435df5aad222770667dd472c6cf49 405375 405377 10952311999 11113392003 9539532774 6
+398dcc366de592fe310c63538c62a47f2c3f881d
+ERROR> Previous HEAD position was 9dfca3bf refactor: Use NIO to read source code (#4674)
+ERROR> HEAD is now at 398dcc36 chore(deps): update dependency org.apache.maven.plugins:maven-surefire-plugin to v3.0.0-m6 (#4663)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405387
+398dcc366de592fe310c63538c62a47f2c3f881d 9dfca3bf8bbada63f55eb5abc6643398c3358661 405387 405375 11511694201 10952311999 9175347269 24
+9a43cd93c55db19ba09fcdb294a4b1f499b20fa2
+ERROR> Previous HEAD position was 398dcc36 chore(deps): update dependency org.apache.maven.plugins:maven-surefire-plugin to v3.0.0-m6 (#4663)
+ERROR> HEAD is now at 9a43cd93 chore(deps): update dependency org.kohsuke.metainf-services:metainf-services to v1.9 (#4649)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405387
+9a43cd93c55db19ba09fcdb294a4b1f499b20fa2 398dcc366de592fe310c63538c62a47f2c3f881d 405387 405387 10715795268 11511694201 7954600442 0
+97c9d0782431e53ee72fddcb444b2d892d6618b0
+ERROR> Previous HEAD position was 9a43cd93 chore(deps): update dependency org.kohsuke.metainf-services:metainf-services to v1.9 (#4649)
+ERROR> HEAD is now at 97c9d078 fix: Use thread-local caching for actual class lookup (#4671)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405387
+97c9d0782431e53ee72fddcb444b2d892d6618b0 9a43cd93c55db19ba09fcdb294a4b1f499b20fa2 405387 405387 10552777057 10715795268 7879456259 0
+f01fd63a57dfee548a4eddb6cad455b6a852c3e1
+ERROR> Previous HEAD position was 97c9d078 fix: Use thread-local caching for actual class lookup (#4671)
+ERROR> HEAD is now at f01fd63a chore(deps): update actions/cache action to v3.0.2 (#4678)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405374
+f01fd63a57dfee548a4eddb6cad455b6a852c3e1 97c9d0782431e53ee72fddcb444b2d892d6618b0 405374 405387 10690305135 10552777057 9117506786 104
+fbc22dd3d6eee0fd6b94457e9b595ddc0857f217
+ERROR> Previous HEAD position was f01fd63a chore(deps): update actions/cache action to v3.0.2 (#4678)
+ERROR> HEAD is now at fbc22dd3 fix(deps): update dependency org.apache.maven.shared:maven-invoker to v3.2.0 (#4673)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405374
+fbc22dd3d6eee0fd6b94457e9b595ddc0857f217 f01fd63a57dfee548a4eddb6cad455b6a852c3e1 405374 405374 11097467223 10690305135 7314321776 0
+ff9171045302c7de72b9fcff167cef615c642dba
+ERROR> Previous HEAD position was fbc22dd3 fix(deps): update dependency org.apache.maven.shared:maven-invoker to v3.2.0 (#4673)
+ERROR> HEAD is now at ff917104 chore(deps): update actions/setup-python action to v3.1.1 (#4670)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405374
+ff9171045302c7de72b9fcff167cef615c642dba fbc22dd3d6eee0fd6b94457e9b595ddc0857f217 405374 405374 9932408707 11097467223 7331944115 0
+ea922923d4e21ed6dcc0d6eca4c557bcbb5832b4
+ERROR> Previous HEAD position was ff917104 chore(deps): update actions/setup-python action to v3.1.1 (#4670)
+ERROR> HEAD is now at ea922923 chore(deps): update dependency org.jacoco:jacoco-maven-plugin to v0.8.8 (#4666)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405374
+ea922923d4e21ed6dcc0d6eca4c557bcbb5832b4 ff9171045302c7de72b9fcff167cef615c642dba 405374 405374 10328541985 9932408707 7302054829 0
+17e000b58363dee4ee1687e582f13ef993b387e0
+ERROR> Previous HEAD position was ea922923 chore(deps): update dependency org.jacoco:jacoco-maven-plugin to v0.8.8 (#4666)
+ERROR> HEAD is now at 17e000b5 chore: bump snapshot version to 10.1.0 (#4660)
+[inherited]:spoon-core:jar:10.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405374
+17e000b58363dee4ee1687e582f13ef993b387e0 ea922923d4e21ed6dcc0d6eca4c557bcbb5832b4 405374 405374 10976792819 10328541985 7699513039 0
+dea4ee6771ed145dc12d0b840cf3f7aa4d032870
+ERROR> Previous HEAD position was 17e000b5 chore: bump snapshot version to 10.1.0 (#4660)
+ERROR> HEAD is now at dea4ee67 refactor: replace usages of IOUtils with Java NIO API (#4657)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405374
+dea4ee6771ed145dc12d0b840cf3f7aa4d032870 17e000b58363dee4ee1687e582f13ef993b387e0 405374 405374 10377677989 10976792819 7458567049 0
+bad3d03246b8480d75379b9ae39747c728cf39ac
+ERROR> Previous HEAD position was dea4ee67 refactor: replace usages of IOUtils with Java NIO API (#4657)
+ERROR> HEAD is now at bad3d032 chore(deps): update actions/setup-python action to v3.1.0 (#4661)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405368
+bad3d03246b8480d75379b9ae39747c728cf39ac dea4ee6771ed145dc12d0b840cf3f7aa4d032870 405368 405374 9957271469 10377677989 9408864676 106
+36fc6d6980c235afa846fb397e211ff856d46390
+ERROR> Previous HEAD position was bad3d032 chore(deps): update actions/setup-python action to v3.1.0 (#4661)
+ERROR> HEAD is now at 36fc6d69 chore(deps): update actions/setup-java action to v3.1.0 (#4662)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405368
+36fc6d6980c235afa846fb397e211ff856d46390 bad3d03246b8480d75379b9ae39747c728cf39ac 405368 405368 10180805340 9957271469 7744396050 0
+6045c2645a24b60b72afd1e29a9f96b28806dc9e
+ERROR> Previous HEAD position was 36fc6d69 chore(deps): update actions/setup-java action to v3.1.0 (#4662)
+ERROR> HEAD is now at 6045c264 chore(deps): update dependency gradle to v7.4.2 (#4659)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405368
+6045c2645a24b60b72afd1e29a9f96b28806dc9e 36fc6d6980c235afa846fb397e211ff856d46390 405368 405368 10597769313 10180805340 7336170820 0
+e3d6c0852d8a72072ce62ac28123bbfc8c8c1776
+ERROR> Previous HEAD position was 6045c264 chore(deps): update dependency gradle to v7.4.2 (#4659)
+ERROR> HEAD is now at e3d6c085 refactor: make use of InputStream#transferTo where appropriate (#4655)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405368
+e3d6c0852d8a72072ce62ac28123bbfc8c8c1776 6045c2645a24b60b72afd1e29a9f96b28806dc9e 405368 405368 11279151309 10597769313 7464542144 0
+15adae32d46bf250040ae2b26413007ebc81554d
+ERROR> Previous HEAD position was e3d6c085 refactor: make use of InputStream#transferTo where appropriate (#4655)
+ERROR> HEAD is now at 15adae32 chore(deps): update actions/cache action to v3.0.1 (#4654)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+15adae32d46bf250040ae2b26413007ebc81554d e3d6c0852d8a72072ce62ac28123bbfc8c8c1776 405416 405368 10383892446 11279151309 9744624145 69
+deb42a4d128e2d2236bcf6b4894531d465253078
+ERROR> Previous HEAD position was 15adae32 chore(deps): update actions/cache action to v3.0.1 (#4654)
+ERROR> HEAD is now at deb42a4d chore(deps): update jetbrains/qodana-action action to v5 (#4650)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+deb42a4d128e2d2236bcf6b4894531d465253078 15adae32d46bf250040ae2b26413007ebc81554d 405416 405416 10729934554 10383892446 7212898876 0
+0affda999bf134bb1204f35b33c53d681616d9b3
+ERROR> Previous HEAD position was deb42a4d chore(deps): update jetbrains/qodana-action action to v5 (#4650)
+ERROR> HEAD is now at 0affda99 chore: Check reproducible state in CI (#4653)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+0affda999bf134bb1204f35b33c53d681616d9b3 deb42a4d128e2d2236bcf6b4894531d465253078 405416 405416 10157777021 10729934554 7369072254 0
+f8bba6faddcd9bfe9d22a6e55751bb7ac4f0175c
+ERROR> Previous HEAD position was 0affda99 chore: Check reproducible state in CI (#4653)
+ERROR> HEAD is now at f8bba6fa chore: Ensure assembly jar with dependencies is reproducible (#4652)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+f8bba6faddcd9bfe9d22a6e55751bb7ac4f0175c 0affda999bf134bb1204f35b33c53d681616d9b3 405416 405416 10597655457 10157777021 7419057993 0
+aeab4d1efea5e1447b74caacf69998bf04a25650
+ERROR> Previous HEAD position was f8bba6fa chore: Ensure assembly jar with dependencies is reproducible (#4652)
+ERROR> HEAD is now at aeab4d1e doc: document our versioning process (#4646)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+aeab4d1efea5e1447b74caacf69998bf04a25650 f8bba6faddcd9bfe9d22a6e55751bb7ac4f0175c 405416 405416 11532865551 10597655457 7656054142 0
+8855539d68c5a028f8510721197d17f2f1f5a80f
+ERROR> Previous HEAD position was aeab4d1e doc: document our versioning process (#4646)
+ERROR> HEAD is now at 8855539d fix(deps): update dependency com.fasterxml.jackson.core:jackson-databind to v2.13.2.2 (#4651)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+8855539d68c5a028f8510721197d17f2f1f5a80f aeab4d1efea5e1447b74caacf69998bf04a25650 405416 405416 10562050544 11532865551 7800169780 0
+3d80aa02298da7509d491d01589d80bf8355f285
+ERROR> Previous HEAD position was 8855539d fix(deps): update dependency com.fasterxml.jackson.core:jackson-databind to v2.13.2.2 (#4651)
+ERROR> HEAD is now at 3d80aa02 chore(deps): update actions/cache action to v3 (#4645)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+3d80aa02298da7509d491d01589d80bf8355f285 8855539d68c5a028f8510721197d17f2f1f5a80f 405416 405416 9967688252 10562050544 7551826015 0
+fea6155d6a7678f992424315733db64064ebfdf8
+ERROR> Previous HEAD position was 3d80aa02 chore(deps): update actions/cache action to v3 (#4645)
+ERROR> HEAD is now at fea6155d doc: add FAQ question about pretty printing (#4641)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+fea6155d6a7678f992424315733db64064ebfdf8 3d80aa02298da7509d491d01589d80bf8355f285 405416 405416 10128187838 9967688252 7561705921 0
+44fe5beef5dce5da1fde78f328f815701a04012d
+ERROR> Previous HEAD position was fea6155d doc: add FAQ question about pretty printing (#4641)
+ERROR> HEAD is now at 44fe5bee fix(deps): update dependency org.eclipse.jdt:org.eclipse.jdt.core to v3.29.0 (#4640)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+44fe5beef5dce5da1fde78f328f815701a04012d fea6155d6a7678f992424315733db64064ebfdf8 405416 405416 11959725059 10128187838 7520390696 0
+cc6d23587cf2df332d6622fd33dd30db54535569
+ERROR> Previous HEAD position was 44fe5bee fix(deps): update dependency org.eclipse.jdt:org.eclipse.jdt.core to v3.29.0 (#4640)
+ERROR> HEAD is now at cc6d2358 doc: Remove incorrect Maven usage info of spoon-control-flow (#4637)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+cc6d23587cf2df332d6622fd33dd30db54535569 44fe5beef5dce5da1fde78f328f815701a04012d 405416 405416 10753773753 11959725059 7461749040 0
+1afb4ccfcd35a1b1109af68185dd0690a65a461a
+ERROR> Previous HEAD position was cc6d2358 doc: Remove incorrect Maven usage info of spoon-control-flow (#4637)
+ERROR> HEAD is now at 1afb4ccf chore(deps): update dependency org.apache.maven.plugins:maven-dependency-plugin to v3.3.0 (#4639)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+1afb4ccfcd35a1b1109af68185dd0690a65a461a cc6d23587cf2df332d6622fd33dd30db54535569 405416 405416 10582523377 10753773753 7539301041 0
+bea4701899324c37765c93dfb9343f6a523b2dda
+ERROR> Previous HEAD position was 1afb4ccf chore(deps): update dependency org.apache.maven.plugins:maven-dependency-plugin to v3.3.0 (#4639)
+ERROR> HEAD is now at bea47018 chore(deps): update dependency org.apache.maven.plugins:maven-compiler-plugin to v3.10.1 (#4638)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+bea4701899324c37765c93dfb9343f6a523b2dda 1afb4ccfcd35a1b1109af68185dd0690a65a461a 405416 405416 10573976565 10582523377 7573307906 0
+3443644a9453a107fc4afdbb0cca52cad102c405
+ERROR> Previous HEAD position was bea47018 chore(deps): update dependency org.apache.maven.plugins:maven-compiler-plugin to v3.10.1 (#4638)
+ERROR> HEAD is now at 3443644a chore(deps): update dependency gradle to v7.4.1 (#4635)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+3443644a9453a107fc4afdbb0cca52cad102c405 bea4701899324c37765c93dfb9343f6a523b2dda 405416 405416 10716529059 10573976565 7176537825 0
+54ca920aaf3fc9ed7522409e125deb2b5e19dacd
+ERROR> Previous HEAD position was 3443644a chore(deps): update dependency gradle to v7.4.1 (#4635)
+ERROR> HEAD is now at 54ca920a fix(deps): update dependency com.fasterxml.jackson.core:jackson-databind to v2.13.2 (#4632)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+54ca920aaf3fc9ed7522409e125deb2b5e19dacd 3443644a9453a107fc4afdbb0cca52cad102c405 405416 405416 9915831856 10716529059 7536636413 0
+e097bc7e06bd97a4e98cb68586e685a74aede7d4
+ERROR> Previous HEAD position was 54ca920a fix(deps): update dependency com.fasterxml.jackson.core:jackson-databind to v2.13.2 (#4632)
+ERROR> HEAD is now at e097bc7e chore(deps): update dependency ch.qos.logback:logback-classic to v1.2.11 (#4631)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+e097bc7e06bd97a4e98cb68586e685a74aede7d4 54ca920aaf3fc9ed7522409e125deb2b5e19dacd 405416 405416 10013132874 9915831856 7251045322 0
+52eb7afe529b163804f9f2e9a40bf923ecc88b5c
+ERROR> Previous HEAD position was e097bc7e chore(deps): update dependency ch.qos.logback:logback-classic to v1.2.11 (#4631)
+ERROR> HEAD is now at 52eb7afe chore(deps): update mockito monorepo to v4.4.0 (#4634)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+52eb7afe529b163804f9f2e9a40bf923ecc88b5c e097bc7e06bd97a4e98cb68586e685a74aede7d4 405416 405416 10271169799 10013132874 7712728591 0
+173c3c52ddb19ad93adb34f02e714793b55322f5
+ERROR> Previous HEAD position was 52eb7afe chore(deps): update mockito monorepo to v4.4.0 (#4634)
+ERROR> HEAD is now at 173c3c52 chore(deps): update actions/checkout action to v3 (#4630)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+173c3c52ddb19ad93adb34f02e714793b55322f5 52eb7afe529b163804f9f2e9a40bf923ecc88b5c 405416 405416 10711478194 10271169799 7287048378 0
+52cc725843d64d439c499c0b054e6bc218c8967b
+ERROR> Previous HEAD position was 173c3c52 chore(deps): update actions/checkout action to v3 (#4630)
+ERROR> HEAD is now at 52cc7258 fix(deps): update dependency org.bitbucket.mstrobel:procyon-compilertools to v0.6.0 (#4620)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+52cc725843d64d439c499c0b054e6bc218c8967b 173c3c52ddb19ad93adb34f02e714793b55322f5 405416 405416 10361962153 10711478194 7454284008 0
+228bebf934627f9e4427cef3ad402c99c0de98f6
+ERROR> Previous HEAD position was 52cc7258 fix(deps): update dependency org.bitbucket.mstrobel:procyon-compilertools to v0.6.0 (#4620)
+ERROR> HEAD is now at 228bebf9 chore(deps): update dependency com.google.guava:guava to v31.1-jre (#4629)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+228bebf934627f9e4427cef3ad402c99c0de98f6 52cc725843d64d439c499c0b054e6bc218c8967b 405416 405416 10129255302 10361962153 7595891686 0
+557501a80a0c29c6025a2bef7030df4ca1d9d5f9
+ERROR> Previous HEAD position was 228bebf9 chore(deps): update dependency com.google.guava:guava to v31.1-jre (#4629)
+ERROR> HEAD is now at 557501a8 fix: backward compatible modeling of try-with-resource (#4625)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405416
+557501a80a0c29c6025a2bef7030df4ca1d9d5f9 228bebf934627f9e4427cef3ad402c99c0de98f6 405416 405416 10259926590 10129255302 7330986781 0
+6095f1ba4c6eb98ad5e251f9c5d0aaedff3a1637
+ERROR> Previous HEAD position was 557501a8 fix: backward compatible modeling of try-with-resource (#4625)
+ERROR> HEAD is now at 6095f1ba chore(deps): update actions/setup-python action to v3 (#4628)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405326
+6095f1ba4c6eb98ad5e251f9c5d0aaedff3a1637 557501a80a0c29c6025a2bef7030df4ca1d9d5f9 405326 405416 10479855491 10259926590 10033207153 152
+7e332f8ad5e3c85093bd906451a7729f76cdcd84
+ERROR> Previous HEAD position was 6095f1ba chore(deps): update actions/setup-python action to v3 (#4628)
+ERROR> HEAD is now at 7e332f8a refactor: provide access to JDT and Spoon parent in ParentExiter (#4624)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405326
+7e332f8ad5e3c85093bd906451a7729f76cdcd84 6095f1ba4c6eb98ad5e251f9c5d0aaedff3a1637 405326 405326 11240842559 10479855491 7604010560 0
+271cb4825faf1646a5c91562c48a70737052f177
+ERROR> Previous HEAD position was 7e332f8a refactor: provide access to JDT and Spoon parent in ParentExiter (#4624)
+ERROR> HEAD is now at 271cb482 chore(deps): update actions/setup-java action to v3 (#4627)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405329
+271cb4825faf1646a5c91562c48a70737052f177 7e332f8ad5e3c85093bd906451a7729f76cdcd84 405329 405326 10247422897 11240842559 8916245407 28
+b903918993eca0551fedab38b65f9dff63523e91
+ERROR> Previous HEAD position was 271cb482 chore(deps): update actions/setup-java action to v3 (#4627)
+ERROR> HEAD is now at b9039189 chore(deps): update dependency org.junit.jupiter:junit-jupiter to v5.8.2 (#4622)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405329
+b903918993eca0551fedab38b65f9dff63523e91 271cb4825faf1646a5c91562c48a70737052f177 405329 405329 10083130117 10247422897 7582199163 0
+3f3557e2ec95d4a2a552bdf0cc322c4e6d054725
+ERROR> Previous HEAD position was b9039189 chore(deps): update dependency org.junit.jupiter:junit-jupiter to v5.8.2 (#4622)
+ERROR> HEAD is now at 3f3557e2 test: migrate dataflow to Junit 5 (#4618)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405329
+3f3557e2ec95d4a2a552bdf0cc322c4e6d054725 b903918993eca0551fedab38b65f9dff63523e91 405329 405329 10112255765 10083130117 7342112057 0
+9b702e2c8dd35920a32aa5961a4d53b649a871b4
+ERROR> Previous HEAD position was 3f3557e2 test: migrate dataflow to Junit 5 (#4618)
+ERROR> HEAD is now at 9b702e2c chore: pin Qodana version and disable cache (#4621)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405329
+9b702e2c8dd35920a32aa5961a4d53b649a871b4 3f3557e2ec95d4a2a552bdf0cc322c4e6d054725 405329 405329 10574799385 10112255765 7468974373 0
+b01f9ec982f04f8193db055153dfa5174b32db12
+ERROR> Previous HEAD position was 9b702e2c chore: pin Qodana version and disable cache (#4621)
+ERROR> HEAD is now at b01f9ec9 chore(deps): delete junit 4 dependency (#4619)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405329
+b01f9ec982f04f8193db055153dfa5174b32db12 9b702e2c8dd35920a32aa5961a4d53b649a871b4 405329 405329 10995571097 10574799385 7924366865 0
+92f1cd9ad3d32e0afff5406292478ea6c279c3b0
+ERROR> Previous HEAD position was b01f9ec9 chore(deps): delete junit 4 dependency (#4619)
+ERROR> HEAD is now at 92f1cd9a test: migrate spoon-control-flow tests to JUnit 5 (#4615)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405329
+92f1cd9ad3d32e0afff5406292478ea6c279c3b0 b01f9ec982f04f8193db055153dfa5174b32db12 405329 405329 10441635913 10995571097 7585952460 0
+2ef1455a0fd85d17225196235e43ece88a5d917a
+ERROR> Previous HEAD position was 92f1cd9a test: migrate spoon-control-flow tests to JUnit 5 (#4615)
+ERROR> HEAD is now at 2ef1455a chore: downgrade nexus-staging-maven-plugin because of deployment regression (#4617)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405329
+2ef1455a0fd85d17225196235e43ece88a5d917a 92f1cd9ad3d32e0afff5406292478ea6c279c3b0 405329 405329 11238295861 10441635913 7490918821 0
+b68a11ffe63cc9e981c983ea4bafb5446f2544ae
+ERROR> Previous HEAD position was 2ef1455a chore: downgrade nexus-staging-maven-plugin because of deployment regression (#4617)
+ERROR> HEAD is now at b68a11ff Fix incorrect import (#4610)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405329
+b68a11ffe63cc9e981c983ea4bafb5446f2544ae 2ef1455a0fd85d17225196235e43ece88a5d917a 405329 405329 11362148515 11238295861 7560820908 0
+1eaac1035d94648cae775c6d8bd8c84196223d82
+ERROR> Previous HEAD position was b68a11ff Fix incorrect import (#4610)
+ERROR> HEAD is now at 1eaac103 refactor: remove useless toString calls (#4612)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405329
+1eaac1035d94648cae775c6d8bd8c84196223d82 b68a11ffe63cc9e981c983ea4bafb5446f2544ae 405329 405329 10391072575 11362148515 7427579907 0
+2cde38630de3db1facc1de1b80515bacdec434c9
+ERROR> Previous HEAD position was 1eaac103 refactor: remove useless toString calls (#4612)
+ERROR> HEAD is now at 2cde3863 review: doc: Update security policy with Security Advisories (#4611)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405333
+2cde38630de3db1facc1de1b80515bacdec434c9 1eaac1035d94648cae775c6d8bd8c84196223d82 405333 405329 10201576600 10391072575 9316660530 83
+f33de8f2dc8a45bd1b851cabc066bef387a275c9
+ERROR> Previous HEAD position was 2cde3863 review: doc: Update security policy with Security Advisories (#4611)
+ERROR> HEAD is now at f33de8f2 chore: Use Codescanning instead of annotations. (#4608)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405333
+f33de8f2dc8a45bd1b851cabc066bef387a275c9 2cde38630de3db1facc1de1b80515bacdec434c9 405333 405333 10235042206 10201576600 7533202658 0
+79d1724616b96b428f1ef15bb64e83b3fdb31957
+ERROR> Previous HEAD position was f33de8f2 chore: Use Codescanning instead of annotations. (#4608)
+ERROR> HEAD is now at 79d17246 chore(deps): update dependency org.sonatype.plugins:nexus-staging-maven-plugin to v1.6.11 (#4609)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405333
+79d1724616b96b428f1ef15bb64e83b3fdb31957 f33de8f2dc8a45bd1b851cabc066bef387a275c9 405333 405333 12380249358 10235042206 7770496642 0
+908cf32c591cc9b1970c6a510807037a2ea71f54
+ERROR> Previous HEAD position was 79d17246 chore(deps): update dependency org.sonatype.plugins:nexus-staging-maven-plugin to v1.6.11 (#4609)
+ERROR> HEAD is now at 908cf32c doc: Add security policy (#4606)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405333
+908cf32c591cc9b1970c6a510807037a2ea71f54 79d1724616b96b428f1ef15bb64e83b3fdb31957 405333 405333 11181688076 12380249358 7352616082 0
+f43586ba8b378f0c534e21fe1263812eb60bf428
+ERROR> Previous HEAD position was 908cf32c doc: Add security policy (#4606)
+ERROR> HEAD is now at f43586ba test(smpl): migrate SMPL tests to JUnit5 (#4598)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405333
+f43586ba8b378f0c534e21fe1263812eb60bf428 908cf32c591cc9b1970c6a510807037a2ea71f54 405333 405333 10118061387 11181688076 8039500077 0
+6e673d8442bb6b9ed7168907e66f9ca30e16bd1c
+ERROR> Previous HEAD position was f43586ba test(smpl): migrate SMPL tests to JUnit5 (#4598)
+ERROR> HEAD is now at 6e673d84 chore(deps): update dependency org.sonatype.plugins:nexus-staging-maven-plugin to v1.6.10 (#4597)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405333
+6e673d8442bb6b9ed7168907e66f9ca30e16bd1c f43586ba8b378f0c534e21fe1263812eb60bf428 405333 405333 10248315170 10118061387 7387648113 0
+af5774e1728d532b20534e0511ca35342c7d8efd
+ERROR> Previous HEAD position was 6e673d84 chore(deps): update dependency org.sonatype.plugins:nexus-staging-maven-plugin to v1.6.10 (#4597)
+ERROR> HEAD is now at af5774e1 feature: add support for first class resource in try-with-resource (#4371)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405333
+af5774e1728d532b20534e0511ca35342c7d8efd 6e673d8442bb6b9ed7168907e66f9ca30e16bd1c 405333 405333 10349054302 10248315170 7486737383 0
+ca9977e771e2021217c200d722a92c089666baa0
+ERROR> Previous HEAD position was af5774e1 feature: add support for first class resource in try-with-resource (#4371)
+ERROR> HEAD is now at ca9977e7 chore(deps): update dependency org.apache.maven.plugins:maven-compiler-plugin to v3.10.0 (#4602)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405225
+ca9977e771e2021217c200d722a92c089666baa0 af5774e1728d532b20534e0511ca35342c7d8efd 405225 405333 10799878716 10349054302 12715495340 197
+1e4b0fbbf7d2a0fb78f0ae88e6e09eadf583dfab
+ERROR> Previous HEAD position was ca9977e7 chore(deps): update dependency org.apache.maven.plugins:maven-compiler-plugin to v3.10.0 (#4602)
+ERROR> HEAD is now at 1e4b0fbb chore(deps): update dependency org.apache.maven.plugins:maven-javadoc-plugin to v3.3.2 (#4596)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405225
+1e4b0fbbf7d2a0fb78f0ae88e6e09eadf583dfab ca9977e771e2021217c200d722a92c089666baa0 405225 405225 10905974108 10799878716 7615143842 0
+cd4720a7fcd5fe162ee57ce908c6776418e64e31
+ERROR> Previous HEAD position was 1e4b0fbb chore(deps): update dependency org.apache.maven.plugins:maven-javadoc-plugin to v3.3.2 (#4596)
+ERROR> HEAD is now at cd4720a7 test: migrate decompiler to JUnit 5 (#4599)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405225
+cd4720a7fcd5fe162ee57ce908c6776418e64e31 1e4b0fbbf7d2a0fb78f0ae88e6e09eadf583dfab 405225 405225 10093615923 10905974108 7382032107 0
+33006544b3796746153279787969fd7e921cc36b
+ERROR> Previous HEAD position was cd4720a7 test: migrate decompiler to JUnit 5 (#4599)
+ERROR> HEAD is now at 33006544 test(UnresolvedBug): Replace Junit 4 Annotation with Junit 5 Annotation (#4588)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405225
+33006544b3796746153279787969fd7e921cc36b cd4720a7fcd5fe162ee57ce908c6776418e64e31 405225 405225 10539803115 10093615923 7423012190 0
+18d971de91e95b457460618851b0c6f8bf29dd0d
+ERROR> Previous HEAD position was 33006544 test(UnresolvedBug): Replace Junit 4 Annotation with Junit 5 Annotation (#4588)
+ERROR> HEAD is now at 18d971de refactor: remove unused import (#4594)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405477
+18d971de91e95b457460618851b0c6f8bf29dd0d 33006544b3796746153279787969fd7e921cc36b 405477 405225 10680103466 10539803115 9633858401 488
+9ffa09b4479cd54ff118a1e6c49bcbad0fef3338
+ERROR> Previous HEAD position was 18d971de refactor: remove unused import (#4594)
+ERROR> HEAD is now at 9ffa09b4 chore(deps): update dependency gradle to v7.4 (#4590)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405477
+9ffa09b4479cd54ff118a1e6c49bcbad0fef3338 18d971de91e95b457460618851b0c6f8bf29dd0d 405477 405477 10774609515 10680103466 7778729807 0
+21578ae8039e60218b940550935d70a5bbd8e988
+ERROR> Previous HEAD position was 9ffa09b4 chore(deps): update dependency gradle to v7.4 (#4590)
+ERROR> HEAD is now at 21578ae8 fix(deps): update dependency org.slf4j:slf4j-api to v1.7.36 (#4592)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405477
+21578ae8039e60218b940550935d70a5bbd8e988 9ffa09b4479cd54ff118a1e6c49bcbad0fef3338 405477 405477 10814228829 10774609515 7469431258 0
+9f3841d22fd65511051cb47605a69ee14beb6e78
+ERROR> Previous HEAD position was 21578ae8 fix(deps): update dependency org.slf4j:slf4j-api to v1.7.36 (#4592)
+ERROR> HEAD is now at 9f3841d2 chore: improve CI logs with test case names (#4589)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405477
+9f3841d22fd65511051cb47605a69ee14beb6e78 21578ae8039e60218b940550935d70a5bbd8e988 405477 405477 10633126176 10814228829 7986065840 0
+cabf8741a5fdb3218fcceb18e3365b0d4beb27b1
+ERROR> Previous HEAD position was 9f3841d2 chore: improve CI logs with test case names (#4589)
+ERROR> HEAD is now at cabf8741 chore(qodana): use new flag "changes" (#4584)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405255
+cabf8741a5fdb3218fcceb18e3365b0d4beb27b1 9f3841d22fd65511051cb47605a69ee14beb6e78 405255 405477 10623941397 10633126176 8021657050 222
+8b8a6ce0e58fd6d56c38ae0130f0398e8026c542
+ERROR> Previous HEAD position was cabf8741 chore(qodana): use new flag "changes" (#4584)
+ERROR> HEAD is now at 8b8a6ce0 chore(deps): update actions/setup-python action to v2.3.2 (#4586)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405255
+8b8a6ce0e58fd6d56c38ae0130f0398e8026c542 cabf8741a5fdb3218fcceb18e3365b0d4beb27b1 405255 405255 9841806788 10623941397 7084320304 0
+f71e9e6f5eeb9d8eefd660acc0209fb21efd5d78
+ERROR> Previous HEAD position was 8b8a6ce0 chore(deps): update actions/setup-python action to v2.3.2 (#4586)
+ERROR> HEAD is now at f71e9e6f fix: fix qodana warning with proper call to Array.toString() (#4536)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405255
+f71e9e6f5eeb9d8eefd660acc0209fb21efd5d78 8b8a6ce0e58fd6d56c38ae0130f0398e8026c542 405255 405255 10051239233 9841806788 7675788528 0
+6396a40d1bc910d1e815983cc231a425eff8f6d7
+ERROR> Previous HEAD position was f71e9e6f fix: fix qodana warning with proper call to Array.toString() (#4536)
+ERROR> HEAD is now at 6396a40d chore(deps): update jetbrains/qodana-action action to v4.2.5 (#4583)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405254
+6396a40d1bc910d1e815983cc231a425eff8f6d7 f71e9e6f5eeb9d8eefd660acc0209fb21efd5d78 405254 405255 11467242152 10051239233 7985690617 10
+89dfd323338547ec959c0ead10eff2438ff1b316
+ERROR> Previous HEAD position was 6396a40d chore(deps): update jetbrains/qodana-action action to v4.2.5 (#4583)
+ERROR> HEAD is now at 89dfd323 chore(deps): update jetbrains/qodana-action action to v4.2.4 (#4580)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405254
+89dfd323338547ec959c0ead10eff2438ff1b316 6396a40d1bc910d1e815983cc231a425eff8f6d7 405254 405254 10170561353 11467242152 7240902371 0
+78d88752a9f4b5bc490f5e6fb0e31dc9c2cf4bcd
+ERROR> Previous HEAD position was 89dfd323 chore(deps): update jetbrains/qodana-action action to v4.2.4 (#4580)
+ERROR> HEAD is now at 78d88752 chore(deps): update mockito monorepo to v4.3.1 (#4578)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405254
+78d88752a9f4b5bc490f5e6fb0e31dc9c2cf4bcd 89dfd323338547ec959c0ead10eff2438ff1b316 405254 405254 9590903149 10170561353 7208555195 0
+7c7f094bb22a350fa64289a94880cc3e7231468f
+ERROR> Previous HEAD position was 78d88752 chore(deps): update mockito monorepo to v4.3.1 (#4578)
+ERROR> HEAD is now at 7c7f094b fix(deps): update dependency through2 to v4 (#4459)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405254
+7c7f094bb22a350fa64289a94880cc3e7231468f 78d88752a9f4b5bc490f5e6fb0e31dc9c2cf4bcd 405254 405254 10258034554 9590903149 7115617102 0
+4acedc53a13a727be3640fe234f7e261d2609d58
+ERROR> Previous HEAD position was 7c7f094b fix(deps): update dependency through2 to v4 (#4459)
+ERROR> HEAD is now at 4acedc53 test: migrate OneCanCallSetterWithNullParameterizedTest to JUnit 5 (#4555)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405254
+4acedc53a13a727be3640fe234f7e261d2609d58 7c7f094bb22a350fa64289a94880cc3e7231468f 405254 405254 10196579582 10258034554 6982271444 0
+3c1eace74335c23d569b75be6e96b9d4290e9371
+ERROR> Previous HEAD position was 4acedc53 test: migrate OneCanCallSetterWithNullParameterizedTest to JUnit 5 (#4555)
+ERROR> HEAD is now at 3c1eace7 test: migrate InterfaceTest to JUnit 5 (#4556)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405281
+3c1eace74335c23d569b75be6e96b9d4290e9371 4acedc53a13a727be3640fe234f7e261d2609d58 405281 405254 9662636836 10196579582 7705080414 74
+23ad38acae35f4a4ab178ea0cdd52b87ddb8ec2a
+ERROR> Previous HEAD position was 3c1eace7 test: migrate InterfaceTest to JUnit 5 (#4556)
+ERROR> HEAD is now at 23ad38ac test: migrate TestInterfaceWithoutSetup to JUnit 5 (#4557)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405281
+23ad38acae35f4a4ab178ea0cdd52b87ddb8ec2a 3c1eace74335c23d569b75be6e96b9d4290e9371 405281 405281 9692256504 9662636836 8433963905 61
+d057355626633b071a99ed51d4efd7aa94cd9f5a
+ERROR> Previous HEAD position was 23ad38ac test: migrate TestInterfaceWithoutSetup to JUnit 5 (#4557)
+ERROR> HEAD is now at d0573556 test: migrate ImportBuilderTest to JUnit 5 (#4562)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405281
+d057355626633b071a99ed51d4efd7aa94cd9f5a 23ad38acae35f4a4ab178ea0cdd52b87ddb8ec2a 405281 405281 10416108485 9692256504 8205604907 2
+729d7cff7827482c03171e5dbe859de13b197873
+ERROR> Previous HEAD position was d0573556 test: migrate ImportBuilderTest to JUnit 5 (#4562)
+ERROR> HEAD is now at 729d7cff fix(deps): update dependency org.slf4j:slf4j-api to v1.7.35 (#4574)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405281
+729d7cff7827482c03171e5dbe859de13b197873 d057355626633b071a99ed51d4efd7aa94cd9f5a 405281 405281 9461118895 10416108485 8755523276 9
+6f3bba8a842117665e4fe3b9d93a0ddf7412a1ff
+ERROR> Previous HEAD position was 729d7cff fix(deps): update dependency org.slf4j:slf4j-api to v1.7.35 (#4574)
+ERROR> HEAD is now at 6f3bba8a test: migrate TestLabels to JUnit 5 (#4563)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405281
+6f3bba8a842117665e4fe3b9d93a0ddf7412a1ff 729d7cff7827482c03171e5dbe859de13b197873 405281 405281 9314191778 9461118895 6742697748 0
+19ef98b599002cd8f5be6c3a312b9f22c61059a1
+ERROR> Previous HEAD position was 6f3bba8a test: migrate TestLabels to JUnit 5 (#4563)
+ERROR> HEAD is now at 19ef98b5 test: migrate AnonymousInLambdaTest to JUnit 5 (#4564)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405281
+19ef98b599002cd8f5be6c3a312b9f22c61059a1 6f3bba8a842117665e4fe3b9d93a0ddf7412a1ff 405281 405281 9444291120 9314191778 8184689408 1
+7b12dd81fa41a6228df9f50742482f89e734ed13
+ERROR> Previous HEAD position was 19ef98b5 test: migrate AnonymousInLambdaTest to JUnit 5 (#4564)
+ERROR> HEAD is now at 7b12dd81 test: migrate SetParentTest to JUnit 5 (#4567)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405281
+7b12dd81fa41a6228df9f50742482f89e734ed13 19ef98b599002cd8f5be6c3a312b9f22c61059a1 405281 405281 9385182223 9444291120 7676050327 2
+f362f68fb5004a8f0e9b818c2726b663c97754fb
+ERROR> Previous HEAD position was 7b12dd81 test: migrate SetParentTest to JUnit 5 (#4567)
+ERROR> HEAD is now at f362f68f test: migrate Maintest to JUnit 5 (#4570)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405278
+f362f68fb5004a8f0e9b818c2726b663c97754fb 7b12dd81fa41a6228df9f50742482f89e734ed13 405278 405281 9787733557 9385182223 7724698869 90
+4a9a173c40c8b11fbeb147f7b17a20dcc5563706
+ERROR> Previous HEAD position was f362f68f test: migrate Maintest to JUnit 5 (#4570)
+ERROR> HEAD is now at 4a9a173c chore(deps): update mockito monorepo to v4.3.0 (#4572)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405335
+4a9a173c40c8b11fbeb147f7b17a20dcc5563706 f362f68fb5004a8f0e9b818c2726b663c97754fb 405335 405278 9477074054 9787733557 8242407551 62
+c8b5324fdaa8f4df268aed6dca9985997ace616e
+ERROR> Previous HEAD position was 4a9a173c chore(deps): update mockito monorepo to v4.3.0 (#4572)
+ERROR> HEAD is now at c8b5324f test: migrate ContractOnSettersParametrizedTest to JUnit 5 (#4569)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405335
+c8b5324fdaa8f4df268aed6dca9985997ace616e 4a9a173c40c8b11fbeb147f7b17a20dcc5563706 405335 405335 9880360458 9477074054 7171074420 0
+134b6c1a23f091186585df5a4f9c5d5ca90c6dd2
+ERROR> Previous HEAD position was c8b5324f test: migrate ContractOnSettersParametrizedTest to JUnit 5 (#4569)
+ERROR> HEAD is now at 134b6c1a test: migrate InvocationTest to JUnit 5 (#4558)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405327
+134b6c1a23f091186585df5a4f9c5d5ca90c6dd2 c8b5324fdaa8f4df268aed6dca9985997ace616e 405327 405335 9616502557 9880360458 8147253286 75
+e86157af3d1a0c46d3b1b2bb3500d44af5a7d72a
+ERROR> Previous HEAD position was 134b6c1a test: migrate InvocationTest to JUnit 5 (#4558)
+ERROR> HEAD is now at e86157af test: migrate AnnotationPositionTest to JUnit 5 (#4559)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405327
+e86157af3d1a0c46d3b1b2bb3500d44af5a7d72a 134b6c1a23f091186585df5a4f9c5d5ca90c6dd2 405327 405327 9513938052 9616502557 8242397617 4
+5ca5583fcbc243b0c7892f6639c25562fb2bb6cd
+ERROR> Previous HEAD position was e86157af test: migrate AnnotationPositionTest to JUnit 5 (#4559)
+ERROR> HEAD is now at 5ca5583f test: migrate SniperPrettyPrinterJavaxTest to JUnit 5 (#4560)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405327
+5ca5583fcbc243b0c7892f6639c25562fb2bb6cd e86157af3d1a0c46d3b1b2bb3500d44af5a7d72a 405327 405327 9866996537 9513938052 8530983728 6
+056dc0bf83fd942917cd928d36ca398b92ae476a
+ERROR> Previous HEAD position was 5ca5583f test: migrate SniperPrettyPrinterJavaxTest to JUnit 5 (#4560)
+ERROR> HEAD is now at 056dc0bf test: migrate JarTest to JUnit 5 (#4561)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405327
+056dc0bf83fd942917cd928d36ca398b92ae476a 5ca5583fcbc243b0c7892f6639c25562fb2bb6cd 405327 405327 9294054461 9866996537 8316245757 1
+8b62115b2364f411c5f15ad1ab10e5b2afe28db2
+ERROR> Previous HEAD position was 056dc0bf test: migrate JarTest to JUnit 5 (#4561)
+ERROR> HEAD is now at 8b62115b test: migrate LambdaTest to JUnit 5 (#4565)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405327
+8b62115b2364f411c5f15ad1ab10e5b2afe28db2 056dc0bf83fd942917cd928d36ca398b92ae476a 405327 405327 9527890210 9294054461 7958317906 4
+3714abdd1394b29546b809e9521d5dee8c815b5e
+ERROR> Previous HEAD position was 8b62115b test: migrate LambdaTest to JUnit 5 (#4565)
+ERROR> HEAD is now at 3714abdd test: migrate InternalTest to JUnit 5 (#4566)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405327
+3714abdd1394b29546b809e9521d5dee8c815b5e 8b62115b2364f411c5f15ad1ab10e5b2afe28db2 405327 405327 9613105659 9527890210 8136208678 57
+ce09a6b4c235b7d39280da48ba5394c4bbb4217f
+ERROR> Previous HEAD position was 3714abdd test: migrate InternalTest to JUnit 5 (#4566)
+ERROR> HEAD is now at ce09a6b4 test: move test Java source to ./src/test/resources/ (#4568)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405327
+ce09a6b4c235b7d39280da48ba5394c4bbb4217f 3714abdd1394b29546b809e9521d5dee8c815b5e 405327 405327 9762678972 9613105659 8409881458 2
+7ab9542c4c01c3a62d844023e391a52fcf37a3f3
+ERROR> Previous HEAD position was ce09a6b4 test: move test Java source to ./src/test/resources/ (#4568)
+ERROR> HEAD is now at 7ab9542c test: migrate MethodOverriddingTest to JUnit 5 (#4550)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405382
+7ab9542c4c01c3a62d844023e391a52fcf37a3f3 ce09a6b4c235b7d39280da48ba5394c4bbb4217f 405382 405327 9569696652 9762678972 8522678600 60
+afc1d982ca36b106ddece1c0e59c717db13c89bf
+ERROR> Previous HEAD position was 7ab9542c test: migrate MethodOverriddingTest to JUnit 5 (#4550)
+ERROR> HEAD is now at afc1d982 test: migrate MethodTest to JUnit 5 (#4551)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405382
+afc1d982ca36b106ddece1c0e59c717db13c89bf 7ab9542c4c01c3a62d844023e391a52fcf37a3f3 405382 405382 10507129456 9569696652 9316331300 8
+b001e6a8a4073d4da2d54d57413f186ca4afdbaa
+ERROR> Previous HEAD position was afc1d982 test: migrate MethodTest to JUnit 5 (#4551)
+ERROR> HEAD is now at b001e6a8  test: migrate LoopTest to JUnit 5 (#4552)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405382
+b001e6a8a4073d4da2d54d57413f186ca4afdbaa afc1d982ca36b106ddece1c0e59c717db13c89bf 405382 405382 10027343585 10507129456 8483378122 12
+bfe7f7aeddd18081c535f548b1a1e27bf5fb2de8
+ERROR> Previous HEAD position was b001e6a8  test: migrate LoopTest to JUnit 5 (#4552)
+ERROR> HEAD is now at bfe7f7ae test: migrate UnicodeBugTest to JUnit 5 (#4553)
+[inherited]:spoon-core:jar:10.0.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/spoon/src/main/java]
+[/home/qledilav/hyperAST/instances/spoon/src/test/java]
+[spoon]
+==============size=======405382
+bfe7f7aeddd18081c535f548b1a1e27bf5fb2de8 b001e6a8a4073d4da2d54d57413f186ca4afdbaa 405382 405382 9836616993 10027343585 8230452209 3
+User:
+4536.54
+Sys:
+303.37
+Elapsed:
+31:04.62
+Cpu:
+259%
+MaxMem:
+11441092
+major page_faults:
+0
+minor page_faults:
+63409777

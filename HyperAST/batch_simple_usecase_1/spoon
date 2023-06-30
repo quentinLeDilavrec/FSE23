@@ -1,0 +1,266 @@
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:514] match_init_t = 1.3474e-5
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:233] &ambiguous_mappings.len() = 0
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_matcher_t = 0.057576618
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_mappings_s = 1674740
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:60] &now.elapsed().as_secs_f64() = 0.002011031
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_matcher_t = 0.002026598
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_mappings_s = 1674740
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:79] gen_t = 1.705688184
+[benchmark_diffs/src/bin/simple_usecase.rs:87] summarized_lazy = ResultsSummary {
+    mapping_durations: PreparedMappingDurations {
+        mappings: MappingDurations(
+            [
+                0.057576618,
+                0.002026598,
+            ],
+        ),
+        preparation: [
+            0.039497617,
+            0.0,
+        ],
+    },
+    mappings: 1674740,
+    actions: Some(
+        0,
+    ),
+    prepare_gen_t: 0.800893788,
+    gen_t: 1.705688184,
+}
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:514] match_init_t = 1.1401e-5
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:233] &ambiguous_mappings.len() = 0
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_matcher_t = 0.0548852
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_mappings_s = 1674726
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:60] &now.elapsed().as_secs_f64() = 0.446347234
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_matcher_t = 0.446369028
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_mappings_s = 1674737
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:79] gen_t = 1.703945007
+[benchmark_diffs/src/bin/simple_usecase.rs:87] summarized_lazy = ResultsSummary {
+    mapping_durations: PreparedMappingDurations {
+        mappings: MappingDurations(
+            [
+                0.0548852,
+                0.446369028,
+            ],
+        ),
+        preparation: [
+            0.037373671,
+            0.0,
+        ],
+    },
+    mappings: 1674737,
+    actions: Some(
+        7,
+    ),
+    prepare_gen_t: 0.786602221,
+    gen_t: 1.703945007,
+}
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:514] match_init_t = 1.1277e-5
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:233] &ambiguous_mappings.len() = 0
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_matcher_t = 0.056410278
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_mappings_s = 1674727
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:60] &now.elapsed().as_secs_f64() = 0.348304385
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_matcher_t = 0.348327453
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_mappings_s = 1674737
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:79] gen_t = 1.725225895
+[benchmark_diffs/src/bin/simple_usecase.rs:87] summarized_lazy = ResultsSummary {
+    mapping_durations: PreparedMappingDurations {
+        mappings: MappingDurations(
+            [
+                0.056410278,
+                0.348327453,
+            ],
+        ),
+        preparation: [
+            0.035385739,
+            0.0,
+        ],
+    },
+    mappings: 1674737,
+    actions: Some(
+        7,
+    ),
+    prepare_gen_t: 0.79509365,
+    gen_t: 1.725225895,
+}
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:514] match_init_t = 1.0041e-5
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:233] &ambiguous_mappings.len() = 0
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_matcher_t = 0.056152849
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_mappings_s = 1674727
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:60] &now.elapsed().as_secs_f64() = 0.353094557
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_matcher_t = 0.353113558
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_mappings_s = 1674737
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:79] gen_t = 1.702505907
+[benchmark_diffs/src/bin/simple_usecase.rs:87] summarized_lazy = ResultsSummary {
+    mapping_durations: PreparedMappingDurations {
+        mappings: MappingDurations(
+            [
+                0.056152849,
+                0.353113558,
+            ],
+        ),
+        preparation: [
+            0.033340726,
+            0.0,
+        ],
+    },
+    mappings: 1674737,
+    actions: Some(
+        7,
+    ),
+    prepare_gen_t: 0.782019674,
+    gen_t: 1.702505907,
+}
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:514] match_init_t = 1.0288e-5
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:233] &ambiguous_mappings.len() = 34
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_matcher_t = 0.055538096
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_mappings_s = 1674418
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:60] &now.elapsed().as_secs_f64() = 2.51327208
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_matcher_t = 2.513302729
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_mappings_s = 1674492
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:79] gen_t = 1.679984358
+[benchmark_diffs/src/bin/simple_usecase.rs:87] summarized_lazy = ResultsSummary {
+    mapping_durations: PreparedMappingDurations {
+        mappings: MappingDurations(
+            [
+                0.055538096,
+                2.513302729,
+            ],
+        ),
+        preparation: [
+            0.031380646,
+            0.0,
+        ],
+    },
+    mappings: 1674492,
+    actions: Some(
+        337,
+    ),
+    prepare_gen_t: 0.544392905,
+    gen_t: 1.679984358,
+}
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:514] match_init_t = 1.2147e-5
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:233] &ambiguous_mappings.len() = 138
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_matcher_t = 0.062052365
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_mappings_s = 1673669
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:60] &now.elapsed().as_secs_f64() = 5.213776577
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_matcher_t = 5.213808867
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_mappings_s = 1673884
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:79] gen_t = 1.690828592
+[benchmark_diffs/src/bin/simple_usecase.rs:87] summarized_lazy = ResultsSummary {
+    mapping_durations: PreparedMappingDurations {
+        mappings: MappingDurations(
+            [
+                0.062052365,
+                5.213808867,
+            ],
+        ),
+        preparation: [
+            0.033524645,
+            0.0,
+        ],
+    },
+    mappings: 1673884,
+    actions: Some(
+        788,
+    ),
+    prepare_gen_t: 0.545808769,
+    gen_t: 1.690828592,
+}
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:514] match_init_t = 1.1364e-5
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:233] &ambiguous_mappings.len() = 0
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_matcher_t = 0.056960576
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_mappings_s = 1673944
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:60] &now.elapsed().as_secs_f64() = 0.343756924
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_matcher_t = 0.343776926
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_mappings_s = 1673954
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:79] gen_t = 1.660521318
+[benchmark_diffs/src/bin/simple_usecase.rs:87] summarized_lazy = ResultsSummary {
+    mapping_durations: PreparedMappingDurations {
+        mappings: MappingDurations(
+            [
+                0.056960576,
+                0.343776926,
+            ],
+        ),
+        preparation: [
+            0.030257109,
+            0.0,
+        ],
+    },
+    mappings: 1673954,
+    actions: Some(
+        7,
+    ),
+    prepare_gen_t: 0.778945776,
+    gen_t: 1.660521318,
+}
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:514] match_init_t = 1.041e-5
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:233] &ambiguous_mappings.len() = 0
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_matcher_t = 0.055539063
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_mappings_s = 1673957
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:60] &now.elapsed().as_secs_f64() = 0.001893378
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_matcher_t = 0.001908227
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_mappings_s = 1673957
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:79] gen_t = 1.6614291460000001
+[benchmark_diffs/src/bin/simple_usecase.rs:87] summarized_lazy = ResultsSummary {
+    mapping_durations: PreparedMappingDurations {
+        mappings: MappingDurations(
+            [
+                0.055539063,
+                0.001908227,
+            ],
+        ),
+        preparation: [
+            0.03440448,
+            0.0,
+        ],
+    },
+    mappings: 1673957,
+    actions: Some(
+        0,
+    ),
+    prepare_gen_t: 0.768428264,
+    gen_t: 1.6614291460000001,
+}
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:514] match_init_t = 1.146e-5
+[hyper_gumtree/src/matchers/heuristic/gt/lazy2_greedy_subtree_matcher.rs:233] &ambiguous_mappings.len() = 7264
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_matcher_t = 0.4184312
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:56] &subtree_mappings_s = 1672529
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:60] &now.elapsed().as_secs_f64() = 7.236226277
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_matcher_t = 7.236259767
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:63] &bottomup_mappings_s = 1673630
+[benchmark_diffs/src/algorithms/gumtree_lazy.rs:79] gen_t = 1.667670556
+[benchmark_diffs/src/bin/simple_usecase.rs:87] summarized_lazy = ResultsSummary {
+    mapping_durations: PreparedMappingDurations {
+        mappings: MappingDurations(
+            [
+                0.4184312,
+                7.236259767,
+            ],
+        ),
+        preparation: [
+            0.031766267,
+            0.0,
+        ],
+    },
+    mappings: 1673630,
+    actions: Some(
+        1308,
+    ),
+    prepare_gen_t: 0.547604959,
+    gen_t: 1.667670556,
+}
+User:
+41.43
+Sys:
+1.59
+Elapsed:
+0:43.32
+Cpu:
+99%
+MaxMem:
+526836
+major page_faults:
+0
+minor page_faults:
+991577

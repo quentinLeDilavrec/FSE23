@@ -1,0 +1,85 @@
+f56b5d895f97f4cc3bd787c600a3ee67ba56d4db
+ERROR> error: Your local changes to the following files would be overwritten by checkout:
+ERROR> 	README.md
+ERROR> 	pom.xml
+ERROR> 	src/main/java/com/alibaba/fastjson/JSON.java
+ERROR> 	src/main/java/com/alibaba/fastjson/JSONArray.java
+ERROR> 	src/main/java/com/alibaba/fastjson/JSONAware.java
+ERROR> 	src/main/java/com/alibaba/fastjson/JSONException.java
+ERROR> 	src/main/java/com/alibaba/fastjson/JSONObject.java
+ERROR> 	src/main/java/com/alibaba/fastjson/JSONPObject.java
+ERROR> 	src/main/java/com/alibaba/fastjson/JSONPath.java
+ERROR> 	src/main/java/com/alibaba/fastjson/JSONStreamAware.java
+ERROR> 	src/main/java/com/alibaba/fastjson/TypeReference.java
+ERROR> 	src/main/java/com/alibaba/fastjson/annotation/JSONField.java
+ERROR> 	src/main/java/com/alibaba/fastjson/annotation/JSONType.java
+ERROR> 	src/main/java/com/alibaba/fastjson/asm/Opcodes.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/DefaultJSONParser.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/Feature.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/JSONLexerBase.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/JSONReaderScanner.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/JSONScanner.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/JSONToken.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/ParserConfig.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/SymbolTable.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/deserializer/ASMDeserializerFactory.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/deserializer/AbstractDateDeserializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/deserializer/ArrayListTypeFieldDeserializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/deserializer/DefaultFieldDeserializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/deserializer/EnumDeserializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/deserializer/FieldDeserializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/deserializer/JavaBeanDeserializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/deserializer/Jdk8DateCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/deserializer/MapDeserializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/deserializer/NumberDeserializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/parser/deserializer/ThrowableDeserializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/ASMSerializerFactory.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/ArraySerializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/AtomicCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/AutowiredObjectSerializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/BigDecimalCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/BigIntegerCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/BooleanCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/CalendarCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/CharArrayCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/CharacterCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/CollectionCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/DateCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/DoubleSerializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/EnumSerializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/FieldSerializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/FloatCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/IntegerCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/JSONAwareSerializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/JSONSerializable.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/JSONSerializableSerializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/JSONSerializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/JavaBeanSerializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/LabelFilter.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/Labels.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/ListSerializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/LongCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/MapSerializer.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/MiscCodec.java
+ERROR> 	src/main/java/com/alibaba/fastjson/serializer/NameFilter.java
+ERROR> 	src/main/java/
+ERROR> Aborting
+Exception in thread "main" java.lang.AssertionError: runCommand returned 1
+	at gumtree.spoon.AstComparator.runCommand(AstComparator.java:554)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:370)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+Command exited with non-zero status 1
+User:
+0.39
+Sys:
+0.09
+Elapsed:
+0:00.23
+Cpu:
+208%
+MaxMem:
+59380
+major page_faults:
+56
+minor page_faults:
+9379

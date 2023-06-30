@@ -1,0 +1,48 @@
+b30a7120f901b4a367b8a9839a8b8ba62457fbdf
+ERROR> error: Your local changes to the following files would be overwritten by checkout:
+ERROR> 	android/guava-tests/test/com/google/common/collect/ImmutableListTest.java
+ERROR> 	android/guava-tests/test/com/google/common/primitives/BooleansTest.java
+ERROR> 	android/guava-tests/test/com/google/common/primitives/DoublesTest.java
+ERROR> 	android/guava-tests/test/com/google/common/primitives/FloatsTest.java
+ERROR> 	android/guava-tests/test/com/google/common/primitives/IntsTest.java
+ERROR> 	android/guava-tests/test/com/google/common/primitives/ShortsTest.java
+ERROR> 	android/guava-tests/test/com/google/common/primitives/UnsignedLongTest.java
+ERROR> 	android/guava/src/com/google/common/cache/CacheBuilder.java
+ERROR> 	android/guava/src/com/google/common/cache/CacheLoader.java
+ERROR> 	android/guava/src/com/google/common/cache/CacheStats.java
+ERROR> 	android/guava/src/com/google/common/cache/LocalCache.java
+ERROR> 	android/guava/src/com/google/common/hash/FarmHashFingerprint64.java
+ERROR> 	android/guava/src/com/google/thirdparty/publicsuffix/PublicSuffixPatterns.java
+ERROR> 	guava-tests/test/com/google/common/primitives/BooleansTest.java
+ERROR> 	guava-tests/test/com/google/common/primitives/DoublesTest.java
+ERROR> 	guava-tests/test/com/google/common/primitives/FloatsTest.java
+ERROR> 	guava-tests/test/com/google/common/primitives/IntsTest.java
+ERROR> 	guava-tests/test/com/google/common/primitives/ShortsTest.java
+ERROR> 	guava-tests/test/com/google/common/primitives/UnsignedLongTest.java
+ERROR> 	guava/src/com/google/common/cache/CacheBuilder.java
+ERROR> 	guava/src/com/google/common/cache/CacheLoader.java
+ERROR> 	guava/src/com/google/common/cache/CacheStats.java
+ERROR> 	guava/src/com/google/common/cache/LocalCache.java
+ERROR> 	guava/src/com/google/common/hash/FarmHashFingerprint64.java
+ERROR> 	guava/src/com/google/thirdparty/publicsuffix/PublicSuffixPatterns.java
+ERROR> Please commit your changes or stash them before you switch branches.
+ERROR> Aborting
+Exception in thread "main" java.lang.AssertionError: runCommand returned 1
+	at gumtree.spoon.AstComparator.runCommand(AstComparator.java:554)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:370)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+Command exited with non-zero status 1
+User:
+0.49
+Sys:
+0.12
+Elapsed:
+0:00.47
+Cpu:
+131%
+MaxMem:
+59328
+major page_faults:
+174
+minor page_faults:
+9468

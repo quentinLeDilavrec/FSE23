@@ -546,7 +546,7 @@ mod test {
     }
 }
 
-pub(crate) fn as_nospaces<'a>(
+pub fn as_nospaces<'a>(
     stores: &'a hyper_ast::store::SimpleStores,
 ) -> SimpleHyperAST<
     NoSpaceWrapper<'a>,
@@ -563,11 +563,11 @@ pub(crate) fn as_nospaces<'a>(
     }
 }
 
-pub(crate) struct NoSpaceNodeStoreWrapper<'a> {
+pub struct NoSpaceNodeStoreWrapper<'a> {
     pub(crate) s: &'a NodeStore,
 }
 
-pub(crate) struct NoSpaceWrapper<'a> {
+pub struct NoSpaceWrapper<'a> {
     inner: HashedNodeRef<'a>,
 }
 
@@ -589,12 +589,12 @@ impl<'a> types::WithStats for NoSpaceWrapper<'a> {
     }
 }
 
-// impl<'a> types::WithSerialization for NoSpaceWrapper<'a> {
-//     /// WARN return the len with spaces ?
-//     fn try_bytes_len(&self) -> Option<usize> {
-//         self.inner.try_bytes_len()
-//     }
-// }
+impl<'a> types::WithSerialization for NoSpaceWrapper<'a> {
+     /// WARN return the len with spaces ?
+     fn try_bytes_len(&self) -> Option<usize> {
+         self.inner.try_bytes_len()
+     }
+}
 
 impl<'a> types::Labeled for NoSpaceWrapper<'a> {
     type Label = DefaultLabelIdentifier;

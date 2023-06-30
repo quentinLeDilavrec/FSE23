@@ -1,0 +1,916 @@
+3cb5ce818e476d5b0b504b1833c7d33be80e9ca4
+ERROR> Previous HEAD position was 32b84029 more testing improvements
+ERROR> HEAD is now at 3cb5ce81 Merge branch '2.13' into 2.14
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+com.fasterxml.jackson.core:jackson-core:bundle:2.14.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======178564
+fdf25c4b112ff0e78d4b2ca0c7ce8fba91aaa61d
+ERROR> Previous HEAD position was 3cb5ce81 Merge branch '2.13' into 2.14
+ERROR> HEAD is now at fdf25c4b Back to snapshot deps
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======177165
+fdf25c4b112ff0e78d4b2ca0c7ce8fba91aaa61d 3cb5ce818e476d5b0b504b1833c7d33be80e9ca4 177165 178564 3845450957 10760831572 12122269934 1490
+e037d5dca014b369ac9fa6f3ad89691a0f3170f5
+ERROR> Previous HEAD position was fdf25c4b Back to snapshot deps
+ERROR> HEAD is now at e037d5dc [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======177165
+e037d5dca014b369ac9fa6f3ad89691a0f3170f5 fdf25c4b112ff0e78d4b2ca0c7ce8fba91aaa61d 177165 177165 4045841673 3845450957 2351785787 0
+c5b123b88961eaef9326eb084fbb10aca65b52ad
+ERROR> Previous HEAD position was e037d5dc [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at c5b123b8 [maven-release-plugin] prepare release jackson-core-2.13.2
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======177165
+c5b123b88961eaef9326eb084fbb10aca65b52ad e037d5dca014b369ac9fa6f3ad89691a0f3170f5 177165 177165 3968574369 4045841673 2574285457 0
+21117bae1af265bffac713364a36140606b62124
+ERROR> Previous HEAD position was c5b123b8 [maven-release-plugin] prepare release jackson-core-2.13.2
+ERROR> HEAD is now at 21117bae Prepare for 2.13.2 releae
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======177165
+21117bae1af265bffac713364a36140606b62124 c5b123b88961eaef9326eb084fbb10aca65b52ad 177165 177165 4063777503 3968574369 2774486223 0
+2b65ea1e9401d948ba929724a2711c9ea89a87f5
+ERROR> Previous HEAD position was 21117bae Prepare for 2.13.2 releae
+ERROR> HEAD is now at 2b65ea1e Add bit more testing for names with null bytes (inspired by [dataformats-binary#312])
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======177165
+2b65ea1e9401d948ba929724a2711c9ea89a87f5 21117bae1af265bffac713364a36140606b62124 177165 177165 3936950682 4063777503 2388459621 0
+f3f1f781ba9c9157dddb453ae469d053b1eef46b
+ERROR> Previous HEAD position was 2b65ea1e Add bit more testing for names with null bytes (inspired by [dataformats-binary#312])
+ERROR> HEAD is now at f3f1f781 minor comment improvements
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176930
+f3f1f781ba9c9157dddb453ae469d053b1eef46b 2b65ea1e9401d948ba929724a2711c9ea89a87f5 176930 177165 3409994827 3936950682 4542681676 235
+d4d97a6ab8c69ca6fd779eac63fa1da5a68afa6d
+ERROR> Previous HEAD position was f3f1f781 minor comment improvements
+ERROR> HEAD is now at d4d97a6a Test is now passing (#740)
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176930
+d4d97a6ab8c69ca6fd779eac63fa1da5a68afa6d f3f1f781ba9c9157dddb453ae469d053b1eef46b 176930 176930 4123974930 3409994827 2420024730 0
+456b20fa70737eba334ce3a7cc372466d49920ea
+ERROR> Previous HEAD position was d4d97a6a Test is now passing (#740)
+ERROR> HEAD is now at 456b20fa Bit more checking wrt JsonLocation (and #739)
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176941
+456b20fa70737eba334ce3a7cc372466d49920ea d4d97a6ab8c69ca6fd779eac63fa1da5a68afa6d 176941 176930 4151211606 4123974930 4611740963 63
+c5aa1e18c71507fbd080567cde14332d684e8e5a
+ERROR> Previous HEAD position was 456b20fa Bit more checking wrt JsonLocation (and #739)
+ERROR> HEAD is now at c5aa1e18 Fix #739
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176850
+c5aa1e18c71507fbd080567cde14332d684e8e5a 456b20fa70737eba334ce3a7cc372466d49920ea 176850 176941 3294006023 4151211606 5110257706 91
+143eecedfb37bacfb33c1fb58f24bfdee67edf78
+ERROR> Previous HEAD position was c5aa1e18 Fix #739
+ERROR> HEAD is now at 143eeced ...
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176750
+143eecedfb37bacfb33c1fb58f24bfdee67edf78 c5aa1e18c71507fbd080567cde14332d684e8e5a 176750 176850 3299284586 3294006023 4970051850 118
+3740a938231cb6871de0f83c627a002c12e4b260
+ERROR> Previous HEAD position was 143eeced ...
+ERROR> HEAD is now at 3740a938 Add test for #736
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176750
+3740a938231cb6871de0f83c627a002c12e4b260 143eecedfb37bacfb33c1fb58f24bfdee67edf78 176750 176750 3708221884 3299284586 2472618791 0
+18b46344384fd87a287da6b4a921a4b6a65de3f9
+ERROR> Previous HEAD position was 3740a938 Add test for #736
+ERROR> HEAD is now at 18b46344 Update release notes
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176684
+18b46344384fd87a287da6b4a921a4b6a65de3f9 3740a938231cb6871de0f83c627a002c12e4b260 176684 176750 3676408147 3708221884 4948637469 66
+8da987092cd19d3f12d948b49e1e014217ba0d1e
+ERROR> Previous HEAD position was 18b46344 Update release notes
+ERROR> HEAD is now at 8da98709 Manual merge of #732
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176684
+8da987092cd19d3f12d948b49e1e014217ba0d1e 18b46344384fd87a287da6b4a921a4b6a65de3f9 176684 176684 3725376174 3676408147 2397658617 0
+b4708aa1686de72bb9adad9d0c6636e28562d32f
+ERROR> Previous HEAD position was 8da98709 Manual merge of #732
+ERROR> HEAD is now at b4708aa1 Revert "Update Maven wrapper (#732)" (#738)
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176684
+b4708aa1686de72bb9adad9d0c6636e28562d32f 8da987092cd19d3f12d948b49e1e014217ba0d1e 176684 176684 3504728809 3725376174 2353874309 0
+2510349474ccdcdb0b131afb0214f075c7b78279
+ERROR> Previous HEAD position was b4708aa1 Revert "Update Maven wrapper (#732)" (#738)
+ERROR> HEAD is now at 25103494 Update Maven wrapper (#732)
+com.fasterxml.jackson.core:jackson-core:bundle:3.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======179195
+2510349474ccdcdb0b131afb0214f075c7b78279 b4708aa1686de72bb9adad9d0c6636e28562d32f 179195 176684 3937622651 3504728809 777032090639 38713
+ee417e1e2a2525ad80ab68a1498714342b712e35
+ERROR> Previous HEAD position was 25103494 Update Maven wrapper (#732)
+ERROR> HEAD is now at ee417e1e back to snapshot deps
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176684
+ee417e1e2a2525ad80ab68a1498714342b712e35 2510349474ccdcdb0b131afb0214f075c7b78279 176684 179195 3066948613 3937622651 765132816859 38709
+add76dac5d6fa1cb13b7b26f1dec5195a1bcddee
+ERROR> Previous HEAD position was ee417e1e back to snapshot deps
+ERROR> HEAD is now at add76dac [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176684
+add76dac5d6fa1cb13b7b26f1dec5195a1bcddee ee417e1e2a2525ad80ab68a1498714342b712e35 176684 176684 2910064714 3066948613 2156085738 0
+d3904cbf679d70baacbd62f2784044686788acc3
+ERROR> Previous HEAD position was add76dac [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at d3904cbf [maven-release-plugin] prepare release jackson-core-2.13.1
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.1
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176684
+d3904cbf679d70baacbd62f2784044686788acc3 add76dac5d6fa1cb13b7b26f1dec5195a1bcddee 176684 176684 2771991274 2910064714 1941316502 0
+8a38191d91b39eb77187416eadae0e6a025374ed
+ERROR> Previous HEAD position was d3904cbf [maven-release-plugin] prepare release jackson-core-2.13.1
+ERROR> HEAD is now at 8a38191d Prepare for 2.13.1 release
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176684
+8a38191d91b39eb77187416eadae0e6a025374ed d3904cbf679d70baacbd62f2784044686788acc3 176684 176684 3252150456 2771991274 1793490396 0
+60507f7cc8d0d44d51b5cb40b6d5b094808a3f89
+ERROR> Previous HEAD position was 8a38191d Prepare for 2.13.1 release
+ERROR> HEAD is now at 60507f7c Merge branch '2.12' into 2.13
+com.fasterxml.jackson.core:jackson-core:bundle:2.13.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======176684
+60507f7cc8d0d44d51b5cb40b6d5b094808a3f89 8a38191d91b39eb77187416eadae0e6a025374ed 176684 176684 2882106269 3252150456 1795986967 0
+5622783243b4af15455a3d6479d5f175a66bc01d
+ERROR> Previous HEAD position was 60507f7c Merge branch '2.12' into 2.13
+ERROR> HEAD is now at 56227832 [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.12.7-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======172872
+5622783243b4af15455a3d6479d5f175a66bc01d 60507f7cc8d0d44d51b5cb40b6d5b094808a3f89 172872 176684 2934387356 2882106269 16338777497 4766
+36faebcd32f6007cc553dd248b518e68da4ecc7c
+ERROR> Previous HEAD position was 56227832 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 36faebcd [maven-release-plugin] prepare release jackson-core-2.12.6
+com.fasterxml.jackson.core:jackson-core:bundle:2.12.6
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======172872
+36faebcd32f6007cc553dd248b518e68da4ecc7c 5622783243b4af15455a3d6479d5f175a66bc01d 172872 172872 2641733154 2934387356 1964674652 0
+344e758ba30b176dd47fd60a237428feb0136099
+ERROR> Previous HEAD position was 36faebcd [maven-release-plugin] prepare release jackson-core-2.12.6
+ERROR> HEAD is now at 344e758b 2.12.6 release
+com.fasterxml.jackson.core:jackson-core:bundle:2.12.6-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======172872
+344e758ba30b176dd47fd60a237428feb0136099 36faebcd32f6007cc553dd248b518e68da4ecc7c 172872 172872 2648850975 2641733154 1800944543 0
+9b95739dbd2ad9d25e268ad8b51d4563ef05a03f
+ERROR> Previous HEAD position was 344e758b 2.12.6 release
+ERROR> HEAD is now at 9b95739d Fix #721
+com.fasterxml.jackson.core:jackson-core:bundle:2.12.6-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======172872
+9b95739dbd2ad9d25e268ad8b51d4563ef05a03f 344e758ba30b176dd47fd60a237428feb0136099 172872 172872 2610598586 2648850975 1793848276 0
+9ac0ff1377870c1cb38de9c504f89abf9b24278c
+ERROR> Previous HEAD position was 9b95739d Fix #721
+ERROR> HEAD is now at 9ac0ff13 Back to snapshot deps
+com.fasterxml.jackson.core:jackson-core:bundle:2.12.6-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======172684
+9ac0ff1377870c1cb38de9c504f89abf9b24278c 9b95739dbd2ad9d25e268ad8b51d4563ef05a03f 172684 172872 2835876693 2610598586 5090330041 203
+a8a494e377bf7d4e2f24343a339fd7c2e5481163
+ERROR> Previous HEAD position was 9ac0ff13 Back to snapshot deps
+ERROR> HEAD is now at a8a494e3 [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.12.6-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======172684
+a8a494e377bf7d4e2f24343a339fd7c2e5481163 9ac0ff1377870c1cb38de9c504f89abf9b24278c 172684 172684 2866196023 2835876693 1732777429 0
+a05a25bc0a573225491de577b6884e8765018014
+ERROR> Previous HEAD position was a8a494e3 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at a05a25bc [maven-release-plugin] prepare release jackson-core-2.12.5
+com.fasterxml.jackson.core:jackson-core:bundle:2.12.5
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======172684
+a05a25bc0a573225491de577b6884e8765018014 a8a494e377bf7d4e2f24343a339fd7c2e5481163 172684 172684 2659101178 2866196023 1792297098 0
+798fb7d4be0528c9285d219227abd7accf55b732
+ERROR> Previous HEAD position was a05a25bc [maven-release-plugin] prepare release jackson-core-2.12.5
+ERROR> HEAD is now at 798fb7d4 Prepare for 2.12.5 release
+com.fasterxml.jackson.core:jackson-core:bundle:2.12.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======172684
+798fb7d4be0528c9285d219227abd7accf55b732 a05a25bc0a573225491de577b6884e8765018014 172684 172684 2907116382 2659101178 2056113591 0
+5bb637ae341080817ad7fe473283f600147d54ca
+ERROR> Previous HEAD position was 798fb7d4 Prepare for 2.12.5 release
+ERROR> HEAD is now at 5bb637ae ...
+com.fasterxml.jackson.core:jackson-core:bundle:2.12.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======172684
+5bb637ae341080817ad7fe473283f600147d54ca 798fb7d4be0528c9285d219227abd7accf55b732 172684 172684 2662788667 2907116382 1800951373 0
+8733bb4e08b24393339d625e6dea1073f898a954
+ERROR> Previous HEAD position was 5bb637ae ...
+ERROR> HEAD is now at 8733bb4e Merge branch '2.11' into 2.12
+com.fasterxml.jackson.core:jackson-core:bundle:2.12.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======172684
+8733bb4e08b24393339d625e6dea1073f898a954 5bb637ae341080817ad7fe473283f600147d54ca 172684 172684 2630494286 2662788667 1749559720 0
+0dcfde069a2c9076143c4b90801cd7d5074e8338
+ERROR> Previous HEAD position was 8733bb4e Merge branch '2.11' into 2.12
+ERROR> HEAD is now at 0dcfde06 Fix #713: add back `BufferRecyclers.getJsonStringEncoder()` (removed in 2.10.0)
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169938
+0dcfde069a2c9076143c4b90801cd7d5074e8338 8733bb4e08b24393339d625e6dea1073f898a954 169938 172684 2603758899 2630494286 16524110822 3969
+abc7f13dde053972fa7cae437b365e89e718df40
+ERROR> Previous HEAD position was 0dcfde06 Fix #713: add back `BufferRecyclers.getJsonStringEncoder()` (removed in 2.10.0)
+ERROR> HEAD is now at abc7f13d Partial impl of #712 for 2.11
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169875
+abc7f13dde053972fa7cae437b365e89e718df40 0dcfde069a2c9076143c4b90801cd7d5074e8338 169875 169938 2631475183 2603758899 3161757005 63
+c92dd823fdfd4eefb610c79ecf17b9e4b49b97cc
+ERROR> Previous HEAD position was abc7f13d Partial impl of #712 for 2.11
+ERROR> HEAD is now at c92dd823 Back to snapshot dep
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169875
+c92dd823fdfd4eefb610c79ecf17b9e4b49b97cc abc7f13dde053972fa7cae437b365e89e718df40 169875 169875 3106653481 2631475183 3241529810 2
+148405bcc3bcbcd765c8c24089c4b5003c48ac24
+ERROR> Previous HEAD position was c92dd823 Back to snapshot dep
+ERROR> HEAD is now at 148405bc [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169875
+148405bcc3bcbcd765c8c24089c4b5003c48ac24 c92dd823fdfd4eefb610c79ecf17b9e4b49b97cc 169875 169875 3183117726 3106653481 1758825746 0
+06f3f1571248bbbeb31b2303007a0254dc7926b8
+ERROR> Previous HEAD position was 148405bc [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 06f3f157 [maven-release-plugin] prepare release jackson-core-2.11.4
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.4
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169875
+06f3f1571248bbbeb31b2303007a0254dc7926b8 148405bcc3bcbcd765c8c24089c4b5003c48ac24 169875 169875 2960421298 3183117726 1778967362 0
+47eaec80e4764f0acb06877719a21f7c7edcfa2a
+ERROR> Previous HEAD position was 06f3f157 [maven-release-plugin] prepare release jackson-core-2.11.4
+ERROR> HEAD is now at 47eaec80 Prepare for 2.11.4 release
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.4-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169875
+47eaec80e4764f0acb06877719a21f7c7edcfa2a 06f3f1571248bbbeb31b2303007a0254dc7926b8 169875 169875 2963816205 2960421298 1749694281 0
+b09419513d904e7034f985299ea37ea885c4dda2
+ERROR> Previous HEAD position was 47eaec80 Prepare for 2.11.4 release
+ERROR> HEAD is now at b0941951 Add LICENSE to main level for 2.11 (was already in master)
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.4-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169875
+b09419513d904e7034f985299ea37ea885c4dda2 47eaec80e4764f0acb06877719a21f7c7edcfa2a 169875 169875 2535482925 2963816205 1660486600 0
+b5e5543bf90b646d953d6f6b20a5d601e2baf580
+ERROR> Previous HEAD position was b0941951 Add LICENSE to main level for 2.11 (was already in master)
+ERROR> HEAD is now at b5e5543b Update release notes wrt #647
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.4-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169875
+b5e5543bf90b646d953d6f6b20a5d601e2baf580 b09419513d904e7034f985299ea37ea885c4dda2 169875 169875 2832495727 2535482925 1843604864 0
+e75a2920226cdc1922447df2e01b73111116c0cd
+ERROR> Previous HEAD position was b5e5543b Update release notes wrt #647
+ERROR> HEAD is now at e75a2920 Fixed NPE in writeNumber(String) method of UTF8JsonGenerator and WriterBasedJsonGenerator (#647)
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.4-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169875
+e75a2920226cdc1922447df2e01b73111116c0cd b5e5543bf90b646d953d6f6b20a5d601e2baf580 169875 169875 2562170284 2832495727 1720934908 0
+91416f3a716f8086c23729b6a2efab41a280a416
+ERROR> Previous HEAD position was e75a2920 Fixed NPE in writeNumber(String) method of UTF8JsonGenerator and WriterBasedJsonGenerator (#647)
+ERROR> HEAD is now at 91416f3a Fix test so it works on all OS (#645)
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.4-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169847
+91416f3a716f8086c23729b6a2efab41a280a416 e75a2920226cdc1922447df2e01b73111116c0cd 169847 169875 2960845303 2562170284 4804848135 38
+07f3ce17114fbee75db07e88c93e7b8730471507
+ERROR> Previous HEAD position was 91416f3a Fix test so it works on all OS (#645)
+ERROR> HEAD is now at 07f3ce17 ...
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.4-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169846
+07f3ce17114fbee75db07e88c93e7b8730471507 91416f3a716f8086c23729b6a2efab41a280a416 169846 169847 2540521971 2960845303 3261160422 3
+37e1853e73b655356eeb47bbdfd6b4c38ccc96ec
+ERROR> Previous HEAD position was 07f3ce17 ...
+ERROR> HEAD is now at 37e1853e [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.4-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169846
+37e1853e73b655356eeb47bbdfd6b4c38ccc96ec 07f3ce17114fbee75db07e88c93e7b8730471507 169846 169846 2711663493 2540521971 2380461896 0
+9a1cf4ae76f570b785d53d8d4dbaa372a97cd2e4
+ERROR> Previous HEAD position was 37e1853e [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 9a1cf4ae [maven-release-plugin] prepare release jackson-core-2.11.3
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.3
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169846
+9a1cf4ae76f570b785d53d8d4dbaa372a97cd2e4 37e1853e73b655356eeb47bbdfd6b4c38ccc96ec 169846 169846 2547074138 2711663493 1960095500 0
+66258756ba8f22407ed8279b71187bf2bb288c14
+ERROR> Previous HEAD position was 9a1cf4ae [maven-release-plugin] prepare release jackson-core-2.11.3
+ERROR> HEAD is now at 66258756 Prepare for 2.11.3 release
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169846
+66258756ba8f22407ed8279b71187bf2bb288c14 9a1cf4ae76f570b785d53d8d4dbaa372a97cd2e4 169846 169846 2686493319 2547074138 1717439961 0
+3bd4b7d4bfb1b94b81d1959e13676fa965184aca
+ERROR> Previous HEAD position was 66258756 Prepare for 2.11.3 release
+ERROR> HEAD is now at 3bd4b7d4 minor warnings cleanup
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169846
+3bd4b7d4bfb1b94b81d1959e13676fa965184aca 66258756ba8f22407ed8279b71187bf2bb288c14 169846 169846 2761898915 2686493319 1777371920 0
+0e12a96cd1ffad5ac554863cb9d75d5309b21205
+ERROR> Previous HEAD position was 3bd4b7d4 minor warnings cleanup
+ERROR> HEAD is now at 0e12a96c back to snapshots
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169930
+0e12a96cd1ffad5ac554863cb9d75d5309b21205 3bd4b7d4bfb1b94b81d1959e13676fa965184aca 169930 169846 2910494562 2761898915 15482515996 91
+e7effd9e62319454c902c1cdf3ceab7cd7c87a45
+ERROR> Previous HEAD position was 0e12a96c back to snapshots
+ERROR> HEAD is now at e7effd9e [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169930
+e7effd9e62319454c902c1cdf3ceab7cd7c87a45 0e12a96cd1ffad5ac554863cb9d75d5309b21205 169930 169930 2848253913 2910494562 1819169476 0
+71ea59578be8d2e50f0d7890795825385661c493
+ERROR> Previous HEAD position was e7effd9e [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 71ea5957 [maven-release-plugin] prepare release jackson-core-2.11.2
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.2
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169930
+71ea59578be8d2e50f0d7890795825385661c493 e7effd9e62319454c902c1cdf3ceab7cd7c87a45 169930 169930 2805989762 2848253913 2137383214 0
+7250d709e9f601082992b230638b95c1955a4f9a
+ERROR> Previous HEAD position was 71ea5957 [maven-release-plugin] prepare release jackson-core-2.11.2
+ERROR> HEAD is now at 7250d709 Prepare for 2.11.2 release
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169930
+7250d709e9f601082992b230638b95c1955a4f9a 71ea59578be8d2e50f0d7890795825385661c493 169930 169930 2603799499 2805989762 1757232417 0
+b4c6af5a0f304f98acdfd436ed794511d0a0fbaf
+ERROR> Previous HEAD position was 7250d709 Prepare for 2.11.2 release
+ERROR> HEAD is now at b4c6af5a Merge branch '2.10' into 2.11
+com.fasterxml.jackson.core:jackson-core:bundle:2.11.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======169930
+b4c6af5a0f304f98acdfd436ed794511d0a0fbaf 7250d709e9f601082992b230638b95c1955a4f9a 169930 169930 2561052921 2603799499 1689374955 0
+f7d5b848abdced707a76b1fc63a1519e7a77493e
+ERROR> Previous HEAD position was b4c6af5a Merge branch '2.10' into 2.11
+ERROR> HEAD is now at f7d5b848 Minor cleanup of .travis.yml
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.6-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165591
+f7d5b848abdced707a76b1fc63a1519e7a77493e b4c6af5a0f304f98acdfd436ed794511d0a0fbaf 165591 169930 2439164192 2561052921 30098984628 6904
+76e40d535e7122c9883a1c7e80aee48af3931f41
+ERROR> Previous HEAD position was f7d5b848 Minor cleanup of .travis.yml
+ERROR> HEAD is now at 76e40d53 fix travis for 2.10
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.6-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165591
+76e40d535e7122c9883a1c7e80aee48af3931f41 f7d5b848abdced707a76b1fc63a1519e7a77493e 165591 165591 2569915508 2439164192 1613388869 0
+ba193736bfc2cd92245bc0961c31ec12027767c3
+ERROR> Previous HEAD position was 76e40d53 fix travis for 2.10
+ERROR> HEAD is now at ba193736 Back to snapshots
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.6-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165591
+ba193736bfc2cd92245bc0961c31ec12027767c3 76e40d535e7122c9883a1c7e80aee48af3931f41 165591 165591 2534331667 2569915508 1618346060 0
+c833ddf6b34fb95df27b5db11becef1b0bc165b6
+ERROR> Previous HEAD position was ba193736 Back to snapshots
+ERROR> HEAD is now at c833ddf6 [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.6-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165591
+c833ddf6b34fb95df27b5db11becef1b0bc165b6 ba193736bfc2cd92245bc0961c31ec12027767c3 165591 165591 2866634749 2534331667 1662759684 0
+23f743d57eb75457fbdbb1616809c55acf427acc
+ERROR> Previous HEAD position was c833ddf6 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 23f743d5 [maven-release-plugin] prepare release jackson-core-2.10.5
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.5
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165591
+23f743d57eb75457fbdbb1616809c55acf427acc c833ddf6b34fb95df27b5db11becef1b0bc165b6 165591 165591 2482857380 2866634749 1586937396 0
+a02db8494a905a6f4ecafd0ce9886b56a404b44f
+ERROR> Previous HEAD position was 23f743d5 [maven-release-plugin] prepare release jackson-core-2.10.5
+ERROR> HEAD is now at a02db849 Prepare for 2.10.5
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165591
+a02db8494a905a6f4ecafd0ce9886b56a404b44f 23f743d57eb75457fbdbb1616809c55acf427acc 165591 165591 2701997464 2482857380 1704182245 0
+ad08ff6a62cd0079ee868f0f8e4433c941fe1ed8
+ERROR> Previous HEAD position was a02db849 Prepare for 2.10.5
+ERROR> HEAD is now at ad08ff6a Minor clean up for #616 test
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165591
+ad08ff6a62cd0079ee868f0f8e4433c941fe1ed8 a02db8494a905a6f4ecafd0ce9886b56a404b44f 165591 165591 2663922592 2701997464 1615176310 0
+3e0e853ee48dc259046f358ce271086d7dc036ce
+ERROR> Previous HEAD position was ad08ff6a Minor clean up for #616 test
+ERROR> HEAD is now at 3e0e853e Fix #616
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165599
+3e0e853ee48dc259046f358ce271086d7dc036ce ad08ff6a62cd0079ee868f0f8e4433c941fe1ed8 165599 165591 2633591893 2663922592 2833217928 15
+f5209c3f32c1c07af46f9d1d855cbd1fe26615b5
+ERROR> Previous HEAD position was 3e0e853e Fix #616
+ERROR> HEAD is now at f5209c3f Add failing test for #616
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165554
+f5209c3f32c1c07af46f9d1d855cbd1fe26615b5 3e0e853ee48dc259046f358ce271086d7dc036ce 165554 165599 2611968934 2633591893 4830626734 157
+55dd1923ed937e7adfebcf0b22d8f24bb71549d9
+ERROR> Previous HEAD position was f5209c3f Add failing test for #616
+ERROR> HEAD is now at 55dd1923 back to snapshots
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165488
+55dd1923ed937e7adfebcf0b22d8f24bb71549d9 f5209c3f32c1c07af46f9d1d855cbd1fe26615b5 165488 165554 2593520855 2611968934 3317015967 66
+5ccc149abc111c1d4bb196f19f2dda77a51ed018
+ERROR> Previous HEAD position was 55dd1923 back to snapshots
+ERROR> HEAD is now at 5ccc149a [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.5-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165488
+5ccc149abc111c1d4bb196f19f2dda77a51ed018 55dd1923ed937e7adfebcf0b22d8f24bb71549d9 165488 165488 2744944295 2593520855 1633742126 0
+3f0415b8cc209ee15edcd8b24365d740bea47acf
+ERROR> Previous HEAD position was 5ccc149a [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 3f0415b8 [maven-release-plugin] prepare release jackson-core-2.10.4
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.4
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165488
+3f0415b8cc209ee15edcd8b24365d740bea47acf 5ccc149abc111c1d4bb196f19f2dda77a51ed018 165488 165488 2679598730 2744944295 1587161364 0
+59eae75db6eddbcc9b0cea1da8124f7f850faa69
+ERROR> Previous HEAD position was 3f0415b8 [maven-release-plugin] prepare release jackson-core-2.10.4
+ERROR> HEAD is now at 59eae75d Prepare for 2.10.4
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.4-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165488
+59eae75db6eddbcc9b0cea1da8124f7f850faa69 3f0415b8cc209ee15edcd8b24365d740bea47acf 165488 165488 2580936417 2679598730 1580737143 0
+554fff7382979ca3b485111ffe4e3a0d7a34356c
+ERROR> Previous HEAD position was 59eae75d Prepare for 2.10.4
+ERROR> HEAD is now at 554fff73 Partial fix for #609 for 2.10(.4)
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.4-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165488
+554fff7382979ca3b485111ffe4e3a0d7a34356c 59eae75db6eddbcc9b0cea1da8124f7f850faa69 165488 165488 2558501633 2580936417 1597179982 0
+e24cb74aa6647dbb7f46dd39cc60c66e5b77917c
+ERROR> Previous HEAD position was 554fff73 Partial fix for #609 for 2.10(.4)
+ERROR> HEAD is now at e24cb74a Minor test cleanup
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.4-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165262
+e24cb74aa6647dbb7f46dd39cc60c66e5b77917c 554fff7382979ca3b485111ffe4e3a0d7a34356c 165262 165488 2619558092 2558501633 3389293811 228
+da5950dc86840b2340f7e56d0b652777948b23e7
+ERROR> Previous HEAD position was e24cb74a Minor test cleanup
+ERROR> HEAD is now at da5950dc Merge branch '2.9' into 2.10
+com.fasterxml.jackson.core:jackson-core:bundle:2.10.4-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======165259
+da5950dc86840b2340f7e56d0b652777948b23e7 e24cb74aa6647dbb7f46dd39cc60c66e5b77917c 165259 165262 2611032166 2619558092 3449599155 35
+79ed860f1100ae82883179de655c6f87912aa202
+ERROR> Previous HEAD position was da5950dc Merge branch '2.9' into 2.10
+ERROR> HEAD is now at 79ed860f Add a note about backport of #605 fix
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.11-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156291
+79ed860f1100ae82883179de655c6f87912aa202 da5950dc86840b2340f7e56d0b652777948b23e7 156291 165259 2451296451 2611032166 29594581252 12309
+bb217dd23931a9570ad4a21c24fa6f72d1a24781
+ERROR> Previous HEAD position was 79ed860f Add a note about backport of #605 fix
+ERROR> HEAD is now at bb217dd2 Handle case when system property access is restricted (#605)
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.11-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156291
+bb217dd23931a9570ad4a21c24fa6f72d1a24781 79ed860f1100ae82883179de655c6f87912aa202 156291 156291 2540390849 2451296451 1503841537 0
+89901014438f0e637cf7c1135b3083ad1948f417
+ERROR> Previous HEAD position was bb217dd2 Handle case when system property access is restricted (#605)
+ERROR> HEAD is now at 89901014 fix #580 (#581)
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.11-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156281
+89901014438f0e637cf7c1135b3083ad1948f417 bb217dd23931a9570ad4a21c24fa6f72d1a24781 156281 156291 2593393451 2540390849 2763997461 18
+973e4938923ab6884210734a8495be2d0e556c7c
+ERROR> Previous HEAD position was 89901014 fix #580 (#581)
+ERROR> HEAD is now at 973e4938 Add a test for #580
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.11-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156281
+973e4938923ab6884210734a8495be2d0e556c7c 89901014438f0e637cf7c1135b3083ad1948f417 156281 156281 2722685943 2593393451 2738718093 5
+4899c28558e73bed16eddc8013a12def6643f231
+ERROR> Previous HEAD position was 973e4938 Add a test for #580
+ERROR> HEAD is now at 4899c285 [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.11-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156239
+4899c28558e73bed16eddc8013a12def6643f231 973e4938923ab6884210734a8495be2d0e556c7c 156239 156281 2393081369 2722685943 3534569191 42
+d4bfe205405caf948de35b4380f2d3221cdad072
+ERROR> Previous HEAD position was 4899c285 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at d4bfe205 [maven-release-plugin] prepare release jackson-core-2.9.10
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.10
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156239
+d4bfe205405caf948de35b4380f2d3221cdad072 4899c28558e73bed16eddc8013a12def6643f231 156239 156239 2405636787 2393081369 1529138446 0
+b17e3f1d4b21d105b443e4f0cc9ea215578415a5
+ERROR> Previous HEAD position was d4bfe205 [maven-release-plugin] prepare release jackson-core-2.9.10
+ERROR> HEAD is now at b17e3f1d Prepare for 2.9.10
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.10-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156239
+b17e3f1d4b21d105b443e4f0cc9ea215578415a5 d4bfe205405caf948de35b4380f2d3221cdad072 156239 156239 2646089095 2405636787 1512087714 0
+2a2f904c8b0725bce217da0728c1d3b5aa1cfc94
+ERROR> Previous HEAD position was b17e3f1d Prepare for 2.9.10
+ERROR> HEAD is now at 2a2f904c try to make 2.9 travis work, drop jdk7
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.10-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156239
+2a2f904c8b0725bce217da0728c1d3b5aa1cfc94 b17e3f1d4b21d105b443e4f0cc9ea215578415a5 156239 156239 2373140587 2646089095 1465498823 0
+7444dd893ed52da589b9fffc7e16b4fa3ee70c2d
+ERROR> Previous HEAD position was 2a2f904c try to make 2.9 travis work, drop jdk7
+ERROR> HEAD is now at 7444dd89 Add a co-credit for reporting #540
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.10-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156239
+7444dd893ed52da589b9fffc7e16b4fa3ee70c2d 2a2f904c8b0725bce217da0728c1d3b5aa1cfc94 156239 156239 2243679293 2373140587 1589277466 0
+173748c1b79cd60851184afde8ae05082298720b
+ERROR> Previous HEAD position was 7444dd89 Add a co-credit for reporting #540
+ERROR> HEAD is now at 173748c1 Fix #556
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.10-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156239
+173748c1b79cd60851184afde8ae05082298720b 7444dd893ed52da589b9fffc7e16b4fa3ee70c2d 156239 156239 2330661468 2243679293 1494990553 0
+e473e9987e2cfe438e80002d2d1da86fade3c6d8
+ERROR> Previous HEAD position was 173748c1 Fix #556
+ERROR> HEAD is now at e473e998 Fix #540
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.10-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156164
+e473e9987e2cfe438e80002d2d1da86fade3c6d8 173748c1b79cd60851184afde8ae05082298720b 156164 156239 2804445646 2330661468 3511418335 91
+b59d232ca41b4874251784341d30511266e3eac5
+ERROR> Previous HEAD position was e473e998 Fix #540
+ERROR> HEAD is now at b59d232c [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.10-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156125
+b59d232ca41b4874251784341d30511266e3eac5 e473e9987e2cfe438e80002d2d1da86fade3c6d8 156125 156164 2550738487 2804445646 3151460071 52
+67b16278523a45244b16af97860cb0b9b4b3d5e0
+ERROR> Previous HEAD position was b59d232c [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 67b16278 [maven-release-plugin] prepare release jackson-core-2.9.9
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.9
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156125
+67b16278523a45244b16af97860cb0b9b4b3d5e0 b59d232ca41b4874251784341d30511266e3eac5 156125 156125 2439393382 2550738487 1524959288 0
+9515b2b169db3df4689dd920f71bbee8a31f6947
+ERROR> Previous HEAD position was 67b16278 [maven-release-plugin] prepare release jackson-core-2.9.9
+ERROR> HEAD is now at 9515b2b1 Prepare for 2.9.9
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156125
+9515b2b169db3df4689dd920f71bbee8a31f6947 67b16278523a45244b16af97860cb0b9b4b3d5e0 156125 156125 2444043071 2439393382 1528513129 0
+f00f51b966d03aa4befe4be055ade3585db00a60
+ERROR> Previous HEAD position was 9515b2b1 Prepare for 2.9.9
+ERROR> HEAD is now at f00f51b9 Add (failing) tests for #533
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======156125
+f00f51b966d03aa4befe4be055ade3585db00a60 9515b2b169db3df4689dd920f71bbee8a31f6947 156125 156125 2381666846 2444043071 1403315325 0
+7a208074cb9144d492f972221f7c7b307a1f6d76
+ERROR> Previous HEAD position was f00f51b9 Add (failing) tests for #533
+ERROR> HEAD is now at 7a208074 Backport #531 fix to 2.9.9
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======155788
+7a208074cb9144d492f972221f7c7b307a1f6d76 f00f51b966d03aa4befe4be055ade3585db00a60 155788 156125 2517801138 2381666846 2870729601 337
+aceb088bb4eb708c38c2e0957fcfd0506e67f0dd
+ERROR> Previous HEAD position was 7a208074 Backport #531 fix to 2.9.9
+ERROR> HEAD is now at aceb088b Merge branch '2.8' into 2.9
+com.fasterxml.jackson.core:jackson-core:bundle:2.9.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======155672
+aceb088bb4eb708c38c2e0957fcfd0506e67f0dd 7a208074cb9144d492f972221f7c7b307a1f6d76 155672 155788 2499968419 2517801138 2986795049 118
+233640bc97d4afe32d34ad2f335098045835cef9
+ERROR> Previous HEAD position was aceb088b Merge branch '2.8' into 2.9
+ERROR> HEAD is now at 233640bc fix #516
+com.fasterxml.jackson.core:jackson-core:bundle:2.8.12-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======120228
+233640bc97d4afe32d34ad2f335098045835cef9 aceb088bb4eb708c38c2e0957fcfd0506e67f0dd 120228 155672 1897331557 2499968419 27846856852 38798
+bf550f3165e37029966b46d8514753a770cdeec2
+ERROR> Previous HEAD position was 233640bc fix #516
+ERROR> HEAD is now at bf550f31 Fix #460 (for 2.8.11.1)
+com.fasterxml.jackson.core:jackson-core:bundle:2.8.12-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======119973
+bf550f3165e37029966b46d8514753a770cdeec2 233640bc97d4afe32d34ad2f335098045835cef9 119973 120228 1952928064 1897331557 2117025336 263
+bec821b8eadc8130240f942242f1d56f450de24f
+ERROR> Previous HEAD position was bf550f31 Fix #460 (for 2.8.11.1)
+ERROR> HEAD is now at bec821b8 Merge branch '2.7' into 2.8
+com.fasterxml.jackson.core:jackson-core:bundle:2.8.12-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======119750
+bec821b8eadc8130240f942242f1d56f450de24f bf550f3165e37029966b46d8514753a770cdeec2 119750 119973 1746296072 1952928064 2156296438 227
+5a44680fcc24d60642e46be73300d5a4a58a84ad
+ERROR> Previous HEAD position was bec821b8 Merge branch '2.7' into 2.8
+ERROR> HEAD is now at 5a44680f Update release notes wrt micro-patches
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.10-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105850
+5a44680fcc24d60642e46be73300d5a4a58a84ad bec821b8eadc8130240f942242f1d56f450de24f 105850 119750 1606296607 1746296072 26199283407 26986
+e90e4748384ea6c5c3470d8432ef63d5fc195a3e
+ERROR> Previous HEAD position was 5a44680f Update release notes wrt micro-patches
+ERROR> HEAD is now at e90e4748 Fixed #354
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.10-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105850
+e90e4748384ea6c5c3470d8432ef63d5fc195a3e 5a44680fcc24d60642e46be73300d5a4a58a84ad 105850 105850 1670647650 1606296607 856342985 0
+8b142a94caa29c37289c0c87f7e7ac9a449374be
+ERROR> Previous HEAD position was e90e4748 Fixed #354
+ERROR> HEAD is now at 8b142a94 [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.10-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105842
+8b142a94caa29c37289c0c87f7e7ac9a449374be e90e4748384ea6c5c3470d8432ef63d5fc195a3e 105842 105850 1541592001 1670647650 1743549824 12
+852d2a3579c0041edd1e2e7c4e5d2680a20341ca
+ERROR> Previous HEAD position was 8b142a94 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 852d2a35 [maven-release-plugin] prepare release jackson-core-2.7.9
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.9
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105842
+852d2a3579c0041edd1e2e7c4e5d2680a20341ca 8b142a94caa29c37289c0c87f7e7ac9a449374be 105842 105842 1768907790 1541592001 866356952 0
+7e7c9bf928981d68414edee126dcfd637d21e0be
+ERROR> Previous HEAD position was 852d2a35 [maven-release-plugin] prepare release jackson-core-2.7.9
+ERROR> HEAD is now at 7e7c9bf9 prepare for 2.7.9
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105842
+7e7c9bf928981d68414edee126dcfd637d21e0be 852d2a3579c0041edd1e2e7c4e5d2680a20341ca 105842 105842 1642208643 1768907790 969433362 0
+48ff54f68cfbdd8330a57f84d34bb853934c5758
+ERROR> Previous HEAD position was 7e7c9bf9 prepare for 2.7.9
+ERROR> HEAD is now at 48ff54f6 [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105842
+48ff54f68cfbdd8330a57f84d34bb853934c5758 7e7c9bf928981d68414edee126dcfd637d21e0be 105842 105842 1565975403 1642208643 863081267 0
+9dbfd8a23704f312a76bde397a1369e37e806e9d
+ERROR> Previous HEAD position was 48ff54f6 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 9dbfd8a2 [maven-release-plugin] prepare release jackson-core-2.7.8
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.8
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105842
+9dbfd8a23704f312a76bde397a1369e37e806e9d 48ff54f68cfbdd8330a57f84d34bb853934c5758 105842 105842 1762593916 1565975403 827693014 0
+81425a53b6242293fe90397133b2a35e5580a341
+ERROR> Previous HEAD position was 9dbfd8a2 [maven-release-plugin] prepare release jackson-core-2.7.8
+ERROR> HEAD is now at 81425a53 prepare for 2.7.8
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.8-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105842
+81425a53b6242293fe90397133b2a35e5580a341 9dbfd8a23704f312a76bde397a1369e37e806e9d 105842 105842 1714068894 1762593916 914986773 0
+345cad5b2f4c06a1bcc6794311a31226e9f2bce7
+ERROR> Previous HEAD position was 81425a53 prepare for 2.7.8
+ERROR> HEAD is now at 345cad5b Fix #317
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.8-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105842
+345cad5b2f4c06a1bcc6794311a31226e9f2bce7 81425a53b6242293fe90397133b2a35e5580a341 105842 105842 1822911029 1714068894 884693676 0
+930edea65e6382c0158876ad773ab1d87f67e5dd
+ERROR> Previous HEAD position was 345cad5b Fix #317
+ERROR> HEAD is now at 930edea6 ...
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.8-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105731
+930edea65e6382c0158876ad773ab1d87f67e5dd 345cad5b2f4c06a1bcc6794311a31226e9f2bce7 105731 105842 1796955573 1822911029 2041877101 117
+485b7f944abe12724dd5fbecca84ed0e1710ac5b
+ERROR> Previous HEAD position was 930edea6 ...
+ERROR> HEAD is now at 485b7f94 [maven-release-plugin] prepare for next development iteration
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.8-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105731
+485b7f944abe12724dd5fbecca84ed0e1710ac5b 930edea65e6382c0158876ad773ab1d87f67e5dd 105731 105731 1770374068 1796955573 837755742 0
+956a2fe65d623395b3e5a4dd52120b69b87cdd76
+ERROR> Previous HEAD position was 485b7f94 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 956a2fe6 [maven-release-plugin] prepare release jackson-core-2.7.7
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.7
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105731
+956a2fe65d623395b3e5a4dd52120b69b87cdd76 485b7f944abe12724dd5fbecca84ed0e1710ac5b 105731 105731 1554332419 1770374068 859904349 0
+43de27f32b65c8ce22ce61cf6738fe097b7f42d4
+ERROR> Previous HEAD position was 956a2fe6 [maven-release-plugin] prepare release jackson-core-2.7.7
+ERROR> HEAD is now at 43de27f3 prepare for 2.7.7
+com.fasterxml.jackson.core:jackson-core:bundle:2.7.7-SNAPSHOT
+[/home/qledilav/hyperAST/instances/jackson-core/src/main/java]
+[/home/qledilav/hyperAST/instances/jackson-core/src/test/java]
+[com, perf]
+==============size=======105731
+43de27f32b65c8ce22ce61cf6738fe097b7f42d4 956a2fe65d623395b3e5a4dd52120b69b87cdd76 105731 105731 1916971811 1554332419 913874322 0
+User:
+2685.00
+Sys:
+87.19
+Elapsed:
+36:35.62
+Cpu:
+126%
+MaxMem:
+7621860
+major page_faults:
+128
+minor page_faults:
+27905565

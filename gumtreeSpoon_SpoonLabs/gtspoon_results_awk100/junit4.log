@@ -1,0 +1,916 @@
+cc7c500584fcb85eaf98c568b7441ceac6dd335c
+ERROR> Previous HEAD position was 63acecdd Merge pull request #632 from pimterry/booleanArrayEq-#86
+ERROR> HEAD is now at cc7c5005 Merge pull request #1732 from cpoerschke/main-reduce-warnings-multi-commit
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+43df829aeef59d65b951a1eff3daf3c6fadbaee1
+ERROR> Previous HEAD position was cc7c5005 Merge pull request #1732 from cpoerschke/main-reduce-warnings-multi-commit
+ERROR> HEAD is now at 43df829a code review feedback: reduce scope of the 'unchecked cast' warning fix a.k.a. @SuppressWarnings('unchecked')
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+43df829aeef59d65b951a1eff3daf3c6fadbaee1 cc7c500584fcb85eaf98c568b7441ceac6dd335c 10972 10972 2617570006 7004891022 143293806 0
+45be4aed5aa796e68af5625d73cc8a1c996e3469
+ERROR> Previous HEAD position was 43df829a code review feedback: reduce scope of the 'unchecked cast' warning fix a.k.a. @SuppressWarnings('unchecked')
+ERROR> HEAD is now at 45be4aed fix JavaDoc warnings [unchecked cast]
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+45be4aed5aa796e68af5625d73cc8a1c996e3469 43df829aeef59d65b951a1eff3daf3c6fadbaee1 10972 10972 2428035546 2617570006 88164213 0
+099d5881105422e80fbba2059b4907cb0a3b6f21
+ERROR> Previous HEAD position was 45be4aed fix JavaDoc warnings [unchecked cast]
+ERROR> HEAD is now at 099d5881 fix JavaDoc warnings [no description for @param]
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+099d5881105422e80fbba2059b4907cb0a3b6f21 45be4aed5aa796e68af5625d73cc8a1c996e3469 10972 10972 2731246711 2428035546 82877227 0
+cda745419600dc6a6b31dc46619288a93c76b6c1
+ERROR> Previous HEAD position was 099d5881 fix JavaDoc warnings [no description for @param]
+ERROR> HEAD is now at cda74541 fix JavaDoc warnings [no description for @throws]
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+cda745419600dc6a6b31dc46619288a93c76b6c1 099d5881105422e80fbba2059b4907cb0a3b6f21 10972 10972 2361549694 2731246711 81622481 0
+0391e4587c0db1b27fa0132c5cd499951085784b
+ERROR> Previous HEAD position was cda74541 fix JavaDoc warnings [no description for @throws]
+ERROR> HEAD is now at 0391e458 remove usages of deprecated org.junit.Assert.assertThat()
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+0391e4587c0db1b27fa0132c5cd499951085784b cda745419600dc6a6b31dc46619288a93c76b6c1 10972 10972 2442402288 2361549694 72048238 0
+7167b23b3ba7dd79410f6e9db350d16cbe30617b
+ERROR> Previous HEAD position was 0391e458 remove usages of deprecated org.junit.Assert.assertThat()
+ERROR> HEAD is now at 7167b23b Use Java 8 for publishing snapshots
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+7167b23b3ba7dd79410f6e9db350d16cbe30617b 0391e4587c0db1b27fa0132c5cd499951085784b 10972 10972 2391719848 2442402288 70652398 0
+3f7fc0cf5b12ad1a73e6d76302c2cceb63b65eaf
+ERROR> Previous HEAD position was 7167b23b Use Java 8 for publishing snapshots
+ERROR> HEAD is now at 3f7fc0cf Update build matrix to use GA version of JDK 17
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+3f7fc0cf5b12ad1a73e6d76302c2cceb63b65eaf 7167b23b3ba7dd79410f6e9db350d16cbe30617b 10972 10972 2592301853 2391719848 56928236 0
+e6a4deda6622ac3c34758937d2573d40d23a39dc
+ERROR> Previous HEAD position was 3f7fc0cf Update build matrix to use GA version of JDK 17
+ERROR> HEAD is now at e6a4deda Fix dead link to the Ant task in faq.fml
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+e6a4deda6622ac3c34758937d2573d40d23a39dc 3f7fc0cf5b12ad1a73e6d76302c2cceb63b65eaf 10972 10972 2268005149 2592301853 54659053 0
+f3ffe841d994bc2b6155ec132a974f3d90d6bc3e
+ERROR> Previous HEAD position was e6a4deda Fix dead link to the Ant task in faq.fml
+ERROR> HEAD is now at f3ffe841 Test against JDK 16
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+f3ffe841d994bc2b6155ec132a974f3d90d6bc3e e6a4deda6622ac3c34758937d2573d40d23a39dc 10972 10972 1937439630 2268005149 68949986 0
+b164fa2133272decd3fd97b1e45259fc17b25a8d
+ERROR> Previous HEAD position was f3ffe841 Test against JDK 16
+ERROR> HEAD is now at b164fa21 Use setup-java's Maven cache and use Temurin JDK distribution
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+b164fa2133272decd3fd97b1e45259fc17b25a8d f3ffe841d994bc2b6155ec132a974f3d90d6bc3e 10972 10972 2126466516 1937439630 49744430 0
+01d4604a2f7ae17ac5bd9a39f4310bbcc2ca098f
+ERROR> Previous HEAD position was b164fa21 Use setup-java's Maven cache and use Temurin JDK distribution
+ERROR> HEAD is now at 01d4604a Add security policy
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+01d4604a2f7ae17ac5bd9a39f4310bbcc2ca098f b164fa2133272decd3fd97b1e45259fc17b25a8d 10972 10972 1971259376 2126466516 57800184 0
+9ad61c6bf757be8d8968fd5977ab3ae15b0c5aba
+ERROR> Previous HEAD position was 01d4604a Add security policy
+ERROR> HEAD is now at 9ad61c6b Change version to 4.13.3-SNAPSHOT
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+9ad61c6bf757be8d8968fd5977ab3ae15b0c5aba 01d4604a2f7ae17ac5bd9a39f4310bbcc2ca098f 10972 10972 1852917223 1971259376 55508260 0
+8b2ff14399264a378130c41cf0a00ca66d0c3a60
+ERROR> Previous HEAD position was 9ad61c6b Change version to 4.13.3-SNAPSHOT
+ERROR> HEAD is now at 8b2ff143 Link to 4.13.2 release notes
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+8b2ff14399264a378130c41cf0a00ca66d0c3a60 9ad61c6bf757be8d8968fd5977ab3ae15b0c5aba 10972 10972 1849739537 1852917223 485594372 1
+384d804930e054a331a0be32826a99e6fd8a35a4
+ERROR> Previous HEAD position was 8b2ff143 Link to 4.13.2 release notes
+ERROR> HEAD is now at 384d8049 [maven-release-plugin] prepare for next development iteration
+junit:junit:jar:4.13.3-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+384d804930e054a331a0be32826a99e6fd8a35a4 8b2ff14399264a378130c41cf0a00ca66d0c3a60 10972 10972 2161150347 1849739537 65512065 0
+05fe2a64f59127c02135be22f416e91260d6ede6
+ERROR> Previous HEAD position was 384d8049 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 05fe2a64 [maven-release-plugin] prepare release r4.13.2
+junit:junit:jar:4.13.2
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+05fe2a64f59127c02135be22f416e91260d6ede6 384d804930e054a331a0be32826a99e6fd8a35a4 10972 10972 1853401978 2161150347 54354180 0
+ff57344f7171ea8b0935c4f842cacf1097266592
+ERROR> Previous HEAD position was 05fe2a64 [maven-release-plugin] prepare release r4.13.2
+ERROR> HEAD is now at ff57344f Add build for JDK 17-ea
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+ff57344f7171ea8b0935c4f842cacf1097266592 05fe2a64f59127c02135be22f416e91260d6ede6 10972 10972 2323661234 1853401978 53284986 0
+02aaa01b8f74c0eb496d76685ec49fddeb311087
+ERROR> Previous HEAD position was ff57344f Add build for JDK 17-ea
+ERROR> HEAD is now at 02aaa01b Improve check that thread is stopped
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+02aaa01b8f74c0eb496d76685ec49fddeb311087 ff57344f7171ea8b0935c4f842cacf1097266592 10972 10972 2128651861 2323661234 43036362 0
+e9a75f4be71a4d5a794ccd063522eea4b0f3194f
+ERROR> Previous HEAD position was 02aaa01b Improve check that thread is stopped
+ERROR> HEAD is now at e9a75f4b Merge test for exception type and message
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+e9a75f4be71a4d5a794ccd063522eea4b0f3194f 02aaa01b8f74c0eb496d76685ec49fddeb311087 10972 10972 2060411110 2128651861 64778050 0
+d27ad5259228e84c235dac24cd62f974ac0a8e1d
+ERROR> Previous HEAD position was e9a75f4b Merge test for exception type and message
+ERROR> HEAD is now at d27ad525 Rename DelegateStatement to DelegatingStatement
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+d27ad5259228e84c235dac24cd62f974ac0a8e1d e9a75f4be71a4d5a794ccd063522eea4b0f3194f 10972 10972 1927862523 2060411110 50577382 0
+b83dc2e8c4ff06cf233cd347f1280bb417482985
+ERROR> Previous HEAD position was d27ad525 Rename DelegateStatement to DelegatingStatement
+ERROR> HEAD is now at b83dc2e8 Better name for test that stops statement
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+b83dc2e8c4ff06cf233cd347f1280bb417482985 d27ad5259228e84c235dac24cd62f974ac0a8e1d 10972 10972 1810428414 1927862523 61791485 0
+527f3a3d0d71ad6dc66ede6f68f6fc316904ed2a
+ERROR> Previous HEAD position was b83dc2e8 Better name for test that stops statement
+ERROR> HEAD is now at 527f3a3d Replace InfiniteLoop with RunForASecond
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+527f3a3d0d71ad6dc66ede6f68f6fc316904ed2a b83dc2e8c4ff06cf233cd347f1280bb417482985 10972 10972 1809235934 1810428414 50809239 0
+2db63942882d91020b46d7333285e5c94f1d1e52
+ERROR> Previous HEAD position was 527f3a3d Replace InfiniteLoop with RunForASecond
+ERROR> HEAD is now at 2db63942 Tidy up FailOnTimeoutTest
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+2db63942882d91020b46d7333285e5c94f1d1e52 527f3a3d0d71ad6dc66ede6f68f6fc316904ed2a 10972 10972 1953843463 1809235934 54208824 0
+64634e1c3e357251a84278c26b73b04fc3450ea3
+ERROR> Previous HEAD position was 2db63942 Tidy up FailOnTimeoutTest
+ERROR> HEAD is now at 64634e1c Update 4.13.2 release notes to document pull 1654
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+64634e1c3e357251a84278c26b73b04fc3450ea3 2db63942882d91020b46d7333285e5c94f1d1e52 10972 10972 1986245647 1953843463 66076277 0
+f8ee412316b1a94d3dc35498359cc2f0ca273216
+ERROR> Previous HEAD position was 64634e1c Update 4.13.2 release notes to document pull 1654
+ERROR> HEAD is now at f8ee4123 Fix serialization of AssumptionViolatedException (#1654)
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+f8ee412316b1a94d3dc35498359cc2f0ca273216 64634e1c3e357251a84278c26b73b04fc3450ea3 10972 10972 2217610836 1986245647 59252055 0
+de77f666b6bcc640425dbbca559c9d62ea64a815
+ERROR> Previous HEAD position was f8ee4123 Fix serialization of AssumptionViolatedException (#1654)
+ERROR> HEAD is now at de77f666 Only create ThreadGroups if FailOnTimeout.lookForStuckThread is true. (#1691)
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+de77f666b6bcc640425dbbca559c9d62ea64a815 f8ee412316b1a94d3dc35498359cc2f0ca273216 10972 10972 2170256051 2217610836 45546668 0
+877750a0c8a5aff8d99e5164a1abed487d7f70cc
+ERROR> Previous HEAD position was de77f666 Only create ThreadGroups if FailOnTimeout.lookForStuckThread is true. (#1691)
+ERROR> HEAD is now at 877750a0 Extract sample test classes from StackTracesTest
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10972
+877750a0c8a5aff8d99e5164a1abed487d7f70cc de77f666b6bcc640425dbbca559c9d62ea64a815 10972 10972 1872775106 2170256051 41315115 0
+ba3799facea95317bfd09ab802d0725b984ac2e3
+ERROR> Previous HEAD position was 877750a0 Extract sample test classes from StackTracesTest
+ERROR> HEAD is now at ba3799fa Reordering the modifiers to comply with the JLS:
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10897
+ba3799facea95317bfd09ab802d0725b984ac2e3 877750a0c8a5aff8d99e5164a1abed487d7f70cc 10897 10972 2019289595 1872775106 107399393 75
+318e5a7861940cf0cf796bffb033e148d049b524
+ERROR> Previous HEAD position was ba3799fa Reordering the modifiers to comply with the JLS:
+ERROR> HEAD is now at 318e5a78 Clean up imports
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10897
+318e5a7861940cf0cf796bffb033e148d049b524 ba3799facea95317bfd09ab802d0725b984ac2e3 10897 10897 1981161963 2019289595 45341417 0
+8d9690a8be8d2c320f73b0f6074fdd8478eab0ae
+ERROR> Previous HEAD position was 318e5a78 Clean up imports
+ERROR> HEAD is now at 8d9690a8 Remove commented out code
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10897
+8d9690a8be8d2c320f73b0f6074fdd8478eab0ae 318e5a7861940cf0cf796bffb033e148d049b524 10897 10897 1748284923 1981161963 52144502 0
+cfec8c7d242feaff0d42ff61c28993ffa537fb83
+ERROR> Previous HEAD position was 8d9690a8 Remove commented out code
+ERROR> HEAD is now at cfec8c7d Initial release notes for 4.13.2 (#1692)
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10897
+cfec8c7d242feaff0d42ff61c28993ffa537fb83 8d9690a8be8d2c320f73b0f6074fdd8478eab0ae 10897 10897 1766239386 1748284923 51425505 0
+1254795902e56eb545e1fe696827924bc5e82b66
+ERROR> Previous HEAD position was cfec8c7d Initial release notes for 4.13.2 (#1692)
+ERROR> HEAD is now at 12547959 Mark ThreadGroups created by FailOnTimeout as daemon groups (#1687)
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10897
+1254795902e56eb545e1fe696827924bc5e82b66 cfec8c7d242feaff0d42ff61c28993ffa537fb83 10897 10897 1983099998 1766239386 52108704 0
+8b39600f931e341fb8a387a20b367bf88762b6a5
+ERROR> Previous HEAD position was 12547959 Mark ThreadGroups created by FailOnTimeout as daemon groups (#1687)
+ERROR> HEAD is now at 8b39600f Update POM to reflect changed CI system
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10897
+8b39600f931e341fb8a387a20b367bf88762b6a5 1254795902e56eb545e1fe696827924bc5e82b66 10897 10897 2192450910 1983099998 54375313 0
+2bca0a42dcb09f522ceadcb97dfb8534a72d584c
+ERROR> Previous HEAD position was 8b39600f Update POM to reflect changed CI system
+ERROR> HEAD is now at 2bca0a42 Delete Travis config and badge
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10897
+2bca0a42dcb09f522ceadcb97dfb8534a72d584c 8b39600f931e341fb8a387a20b367bf88762b6a5 10897 10897 1783542649 2192450910 49108512 0
+b4f26d249ae9d25f3ca777908ff430d02487a20a
+ERROR> Previous HEAD position was 2bca0a42 Delete Travis config and badge
+ERROR> HEAD is now at b4f26d24 Add GH Actions workflow
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10897
+b4f26d249ae9d25f3ca777908ff430d02487a20a 2bca0a42dcb09f522ceadcb97dfb8534a72d584c 10897 10897 1805298670 1783542649 80523321 0
+66083734d13aa67e616f3c4b429c019c5992bba0
+ERROR> Previous HEAD position was b4f26d24 Add GH Actions workflow
+ERROR> HEAD is now at 66083734 Fix build for Java 12 and above
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10897
+66083734d13aa67e616f3c4b429c019c5992bba0 b4f26d249ae9d25f3ca777908ff430d02487a20a 10897 10897 2071002583 1805298670 54651859 0
+116c1e7e203d4392c7647bce2b307635896dcd6d
+ERROR> Previous HEAD position was 66083734 Fix build for Java 12 and above
+ERROR> HEAD is now at 116c1e7e Fix tests for floating point assertions (#1673)
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10897
+116c1e7e203d4392c7647bce2b307635896dcd6d 66083734d13aa67e616f3c4b429c019c5992bba0 10897 10897 2214258904 2071002583 45859599 0
+7852b90cfe1cea1e0cdaa19d490c83f0d8684b50
+ERROR> Previous HEAD position was 116c1e7e Fix tests for floating point assertions (#1673)
+ERROR> HEAD is now at 7852b90c Document security fix in release notes
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+7852b90cfe1cea1e0cdaa19d490c83f0d8684b50 116c1e7e203d4392c7647bce2b307635896dcd6d 10894 10897 1798252308 2214258904 110043563 30
+c40e88d2407b7925adc404199be5a367aab1b86c
+ERROR> Previous HEAD position was 7852b90c Document security fix in release notes
+ERROR> HEAD is now at c40e88d2 Update Version.java
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+c40e88d2407b7925adc404199be5a367aab1b86c 7852b90cfe1cea1e0cdaa19d490c83f0d8684b50 10894 10894 1951370557 1798252308 58777970 0
+db02762dc7ff784d4b68cbbdf8a86412ce87f11e
+ERROR> Previous HEAD position was c40e88d2 Update Version.java
+ERROR> HEAD is now at db02762d [maven-release-plugin] prepare for next development iteration
+junit:junit:jar:4.13.2-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+db02762dc7ff784d4b68cbbdf8a86412ce87f11e c40e88d2407b7925adc404199be5a367aab1b86c 10894 10894 2109276917 1951370557 415712875 1
+1b683f4ec07bcfa40149f086d32240f805487e66
+ERROR> Previous HEAD position was db02762d [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 1b683f4e [maven-release-plugin] prepare release r4.13.1
+junit:junit:jar:4.13.1
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+1b683f4ec07bcfa40149f086d32240f805487e66 db02762dc7ff784d4b68cbbdf8a86412ce87f11e 10894 10894 1759186411 2109276917 41554285 0
+ce6ce3aadc070db2902698fe0d3dc6729cd631f2
+ERROR> Previous HEAD position was 1b683f4e [maven-release-plugin] prepare release r4.13.1
+ERROR> HEAD is now at ce6ce3aa Draft 4.13.1 release notes
+junit:junit:jar:4.13.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+ce6ce3aadc070db2902698fe0d3dc6729cd631f2 1b683f4ec07bcfa40149f086d32240f805487e66 10894 10894 1693495186 1759186411 54773624 0
+c29dd8239d6b353e699397eb090a1fd27411fa24
+ERROR> Previous HEAD position was ce6ce3aa Draft 4.13.1 release notes
+ERROR> HEAD is now at c29dd823 Change version to 4.13.1-SNAPSHOT
+junit:junit:jar:4.13.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+c29dd8239d6b353e699397eb090a1fd27411fa24 ce6ce3aadc070db2902698fe0d3dc6729cd631f2 10894 10894 1982324333 1693495186 44895851 0
+1d174861f0b64f97ab0722bb324a760bfb02f567
+ERROR> Previous HEAD position was c29dd823 Change version to 4.13.1-SNAPSHOT
+ERROR> HEAD is now at 1d174861 Add a link to assertThrows in exception testing
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+1d174861f0b64f97ab0722bb324a760bfb02f567 c29dd8239d6b353e699397eb090a1fd27411fa24 10894 10894 2082010398 1982324333 554981397 1
+543905df72ff10364b94dda27552efebf3dd04e9
+ERROR> Previous HEAD position was 1d174861 Add a link to assertThrows in exception testing
+ERROR> HEAD is now at 543905df Use separate line for annotation in Javadoc
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+543905df72ff10364b94dda27552efebf3dd04e9 1d174861f0b64f97ab0722bb324a760bfb02f567 10894 10894 1823344406 2082010398 56781931 0
+510e906b391e7e46a346e1c852416dc7be934944
+ERROR> Previous HEAD position was 543905df Use separate line for annotation in Javadoc
+ERROR> HEAD is now at 510e906b Add sub headlines to class Javadoc
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+510e906b391e7e46a346e1c852416dc7be934944 543905df72ff10364b94dda27552efebf3dd04e9 10894 10894 1907848470 1823344406 41429990 0
+610155b8c22138329f0723eec22521627dbc52ae
+ERROR> Previous HEAD position was 510e906b Add sub headlines to class Javadoc
+ERROR> HEAD is now at 610155b8 Merge pull request from GHSA-269g-pwp5-87pp
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+610155b8c22138329f0723eec22521627dbc52ae 510e906b391e7e46a346e1c852416dc7be934944 10894 10894 1864949813 1907848470 57138144 0
+b6cfd1e3d736cc2106242a8be799615b472c7fec
+ERROR> Previous HEAD position was 610155b8 Merge pull request from GHSA-269g-pwp5-87pp
+ERROR> HEAD is now at b6cfd1e3 Explicitly wrap float parameter for consistency (#1671)
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+b6cfd1e3d736cc2106242a8be799615b472c7fec 610155b8c22138329f0723eec22521627dbc52ae 10894 10894 2059279031 1864949813 68917873 0
+a5d205c7956dbed302b3bb5ecde5ba4299f0b646
+ERROR> Previous HEAD position was b6cfd1e3 Explicitly wrap float parameter for consistency (#1671)
+ERROR> HEAD is now at a5d205c7 Fix GitHub link in FAQ (#1672)
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+a5d205c7956dbed302b3bb5ecde5ba4299f0b646 b6cfd1e3d736cc2106242a8be799615b472c7fec 10894 10894 1950155433 2059279031 50801370 0
+3a5c6b4d08f408c8ca6a8e0bae71a9bc5a8f97e8
+ERROR> Previous HEAD position was a5d205c7 Fix GitHub link in FAQ (#1672)
+ERROR> HEAD is now at 3a5c6b4d Deprecated since jdk9 replacing constructor instance of Double and Float (#1660)
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10894
+3a5c6b4d08f408c8ca6a8e0bae71a9bc5a8f97e8 a5d205c7956dbed302b3bb5ecde5ba4299f0b646 10894 10894 1736612843 1950155433 47546506 0
+714019f4c98ba68f470df5a551b90bf95deb07b9
+ERROR> Previous HEAD position was 3a5c6b4d Deprecated since jdk9 replacing constructor instance of Double and Float (#1660)
+ERROR> HEAD is now at 714019f4 Merge pull request #1669 from pholser/issues/1668/make-framework-field-ctor-public
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+714019f4c98ba68f470df5a551b90bf95deb07b9 3a5c6b4d08f408c8ca6a8e0bae71a9bc5a8f97e8 10890 10894 1698228580 1736612843 338137982 16
+5be301c6e7f5d2305f078da7a5e2272050733981
+ERROR> Previous HEAD position was 714019f4 Merge pull request #1669 from pholser/issues/1668/make-framework-field-ctor-public
+ERROR> HEAD is now at 5be301c6 Make FrameworkField ctor public. Fixes #1668
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+5be301c6e7f5d2305f078da7a5e2272050733981 714019f4c98ba68f470df5a551b90bf95deb07b9 10890 10890 1748606577 1698228580 48045449 0
+c53a277395f98acec432340deedefa7be50d9612
+ERROR> Previous HEAD position was 5be301c6 Make FrameworkField ctor public. Fixes #1668
+ERROR> HEAD is now at c53a2773 Bump to 4.14-SNAPSHOT
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+c53a277395f98acec432340deedefa7be50d9612 5be301c6e7f5d2305f078da7a5e2272050733981 10890 10890 1789774205 1748606577 54282348 0
+bef3bcaaee3c3e433f78cb93c1dfd14eb38acd6d
+ERROR> Previous HEAD position was c53a2773 Bump to 4.14-SNAPSHOT
+ERROR> HEAD is now at bef3bcaa Replace "master" with "main"
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+bef3bcaaee3c3e433f78cb93c1dfd14eb38acd6d c53a277395f98acec432340deedefa7be50d9612 10890 10890 2013846682 1789774205 556959219 1
+50a285d3ce69b4556ac46d8633f6beb4527b4679
+ERROR> Previous HEAD position was bef3bcaa Replace "master" with "main"
+ERROR> HEAD is now at 50a285d3 Link to KEYS file in junit4 repo
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+50a285d3ce69b4556ac46d8633f6beb4527b4679 bef3bcaaee3c3e433f78cb93c1dfd14eb38acd6d 10890 10890 1941584057 2013846682 59238205 0
+8c0df64ff17fead54c304a8b189da839084925c2
+ERROR> Previous HEAD position was 50a285d3 Link to KEYS file in junit4 repo
+ERROR> HEAD is now at 8c0df64f Add signing key
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+8c0df64ff17fead54c304a8b189da839084925c2 50a285d3ce69b4556ac46d8633f6beb4527b4679 10890 10890 1700420733 1941584057 47118566 0
+4bbee02ddef883d561a3efc08a49c783f65dbc88
+ERROR> Previous HEAD position was 8c0df64f Add signing key
+ERROR> HEAD is now at 4bbee02d Document signing key
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+4bbee02ddef883d561a3efc08a49c783f65dbc88 8c0df64ff17fead54c304a8b189da839084925c2 10890 10890 1696130401 1700420733 61341678 0
+435d41f0d45cfdbc1a38e1ad4eb1d5300da533f9
+ERROR> Previous HEAD position was 4bbee02d Document signing key
+ERROR> HEAD is now at 435d41f0 Use Google's Maven Central mirror
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+435d41f0d45cfdbc1a38e1ad4eb1d5300da533f9 4bbee02ddef883d561a3efc08a49c783f65dbc88 10890 10890 1794755133 1696130401 44556180 0
+95af9761e540e3f019d1ffb767c56c52069166af
+ERROR> Previous HEAD position was 435d41f0 Use Google's Maven Central mirror
+ERROR> HEAD is now at 95af9761 Add "Deprecate Assert#assertThat"
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+95af9761e540e3f019d1ffb767c56c52069166af 435d41f0d45cfdbc1a38e1ad4eb1d5300da533f9 10890 10890 1676992105 1794755133 49352501 0
+2df7e0882128d551565f87f688bbe745d85aacba
+ERROR> Previous HEAD position was 95af9761 Add "Deprecate Assert#assertThat"
+ERROR> HEAD is now at 2df7e088 Migrate release notes for 4.13 from wiki
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+2df7e0882128d551565f87f688bbe745d85aacba 95af9761e540e3f019d1ffb767c56c52069166af 10890 10890 1897786271 1676992105 51122461 0
+6f6f6c12676d1aa04abc6be27ea5a6eb92cc35cc
+ERROR> Previous HEAD position was 2df7e088 Migrate release notes for 4.13 from wiki
+ERROR> HEAD is now at 6f6f6c12 [maven-release-plugin] prepare for next development iteration
+junit:junit:jar:4.14-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+6f6f6c12676d1aa04abc6be27ea5a6eb92cc35cc 2df7e0882128d551565f87f688bbe745d85aacba 10890 10890 1952023914 1897786271 59142694 0
+038f7518fc1018b26df608e3e5dce6db4611be29
+ERROR> Previous HEAD position was 6f6f6c12 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 038f7518 [maven-release-plugin] prepare release r4.13
+junit:junit:jar:4.13
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+038f7518fc1018b26df608e3e5dce6db4611be29 6f6f6c12676d1aa04abc6be27ea5a6eb92cc35cc 10890 10890 1947737758 1952023914 56239780 0
+8fd0197cd3710786212a5bba1545bc9513fe74cc
+ERROR> Previous HEAD position was 038f7518 [maven-release-plugin] prepare release r4.13
+ERROR> HEAD is now at 8fd0197c [maven-release-plugin] prepare for next development iteration
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+8fd0197cd3710786212a5bba1545bc9513fe74cc 038f7518fc1018b26df608e3e5dce6db4611be29 10890 10890 1668082713 1947737758 44609390 0
+c0bdd7d4312862dbc6e1a8430cf75024a18158c9
+ERROR> Previous HEAD position was 8fd0197c [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at c0bdd7d4 [maven-release-plugin] prepare release r4.13-rc-2
+junit:junit:jar:4.13-rc-2
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+c0bdd7d4312862dbc6e1a8430cf75024a18158c9 8fd0197cd3710786212a5bba1545bc9513fe74cc 10890 10890 1877153444 1668082713 50836471 0
+ea2e22933c76f6fb64b802e3645306d4d2414406
+ERROR> Previous HEAD position was c0bdd7d4 [maven-release-plugin] prepare release r4.13-rc-2
+ERROR> HEAD is now at ea2e2293 [maven-release-plugin] prepare for next development iteration
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+ea2e22933c76f6fb64b802e3645306d4d2414406 c0bdd7d4312862dbc6e1a8430cf75024a18158c9 10890 10890 2049891607 1877153444 52356277 0
+0a5a2f81563bbc61ca55301f104aa3a90c9d09cd
+ERROR> Previous HEAD position was ea2e2293 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 0a5a2f81 [maven-release-plugin] prepare release r4.13-rc-2
+junit:junit:jar:4.13-rc-2
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+0a5a2f81563bbc61ca55301f104aa3a90c9d09cd ea2e22933c76f6fb64b802e3645306d4d2414406 10890 10890 2046850558 2049891607 40433956 0
+b51fa17fc6a750a17436f9f38c139a7b5228171f
+ERROR> Previous HEAD position was 0a5a2f81 [maven-release-plugin] prepare release r4.13-rc-2
+ERROR> HEAD is now at b51fa17f Ensure classes annotated with @OrderWith do not have @FixMethodOrder.
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+b51fa17fc6a750a17436f9f38c139a7b5228171f 0a5a2f81563bbc61ca55301f104aa3a90c9d09cd 10890 10890 1824517905 2046850558 45410090 0
+7c2f12c92bd5c66f4cac65dfdf86863c665a13ec
+ERROR> Previous HEAD position was b51fa17f Ensure classes annotated with @OrderWith do not have @FixMethodOrder.
+ERROR> HEAD is now at 7c2f12c9 Never reorder classes annotated with @FixMethodOrder
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+7c2f12c92bd5c66f4cac65dfdf86863c665a13ec b51fa17fc6a750a17436f9f38c139a7b5228171f 10890 10890 1567748510 1824517905 40940774 0
+6c5de817e7e0afdd4d09354693535520712595fc
+ERROR> Previous HEAD position was 7c2f12c9 Never reorder classes annotated with @FixMethodOrder
+ERROR> HEAD is now at 6c5de817 Remove reference to obsolete mailing list
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+6c5de817e7e0afdd4d09354693535520712595fc 7c2f12c92bd5c66f4cac65dfdf86863c665a13ec 10890 10890 1589459958 1567748510 43478490 0
+6c7cb4b23659ce877ceef230aeef73404485220f
+ERROR> Previous HEAD position was 6c5de817 Remove reference to obsolete mailing list
+ERROR> HEAD is now at 6c7cb4b2 Delete outdated docs
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+6c7cb4b23659ce877ceef230aeef73404485220f 6c5de817e7e0afdd4d09354693535520712595fc 10890 10890 1740825080 1589459958 51514627 0
+fc3938ac16947d6e62b844b92dfae103fffb9ce9
+ERROR> Previous HEAD position was 6c7cb4b2 Delete outdated docs
+ERROR> HEAD is now at fc3938ac [maven-release-plugin] prepare for next development iteration
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+fc3938ac16947d6e62b844b92dfae103fffb9ce9 6c7cb4b23659ce877ceef230aeef73404485220f 10890 10890 2101742196 1740825080 42533146 0
+17d340a7d2661f0a0c7e284b49cd70f5a4495d6b
+ERROR> Previous HEAD position was fc3938ac [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 17d340a7 [maven-release-plugin] prepare release r4.13-rc-1
+junit:junit:jar:4.13-rc-1
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+17d340a7d2661f0a0c7e284b49cd70f5a4495d6b fc3938ac16947d6e62b844b92dfae103fffb9ce9 10890 10890 1655013661 2101742196 47074252 0
+0f3f825b975d9df3e8794f2d79e53e7546029751
+ERROR> Previous HEAD position was 17d340a7 [maven-release-plugin] prepare release r4.13-rc-1
+ERROR> HEAD is now at 0f3f825b [maven-release-plugin] prepare for next development iteration
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+0f3f825b975d9df3e8794f2d79e53e7546029751 17d340a7d2661f0a0c7e284b49cd70f5a4495d6b 10890 10890 1689615071 1655013661 51541489 0
+eac719aa5272e564c1d82b66564c53cf7ce203c1
+ERROR> Previous HEAD position was 0f3f825b [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at eac719aa [maven-release-plugin] prepare release r4.13-rc-1
+junit:junit:jar:4.13-rc-1
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+eac719aa5272e564c1d82b66564c53cf7ce203c1 0f3f825b975d9df3e8794f2d79e53e7546029751 10890 10890 1744863204 1689615071 54263522 0
+58b3ab6c3f0512e58e4d85c4095ee287114ccca8
+ERROR> Previous HEAD position was eac719aa [maven-release-plugin] prepare release r4.13-rc-1
+ERROR> HEAD is now at 58b3ab6c [maven-release-plugin] prepare for next development iteration
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+58b3ab6c3f0512e58e4d85c4095ee287114ccca8 eac719aa5272e564c1d82b66564c53cf7ce203c1 10890 10890 1625989991 1744863204 43994981 0
+f6961b9e8066618c02050995619fd9f68332a6d7
+ERROR> Previous HEAD position was 58b3ab6c [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at f6961b9e [maven-release-plugin] prepare release r4.13-rc-1
+junit:junit:jar:4.13-rc-1
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+f6961b9e8066618c02050995619fd9f68332a6d7 58b3ab6c3f0512e58e4d85c4095ee287114ccca8 10890 10890 2074043049 1625989991 50355128 0
+ec52ffa139f3c55412edebe5a22cee669fbd9980
+ERROR> Previous HEAD position was f6961b9e [maven-release-plugin] prepare release r4.13-rc-1
+ERROR> HEAD is now at ec52ffa1 [maven-release-plugin] prepare for next development iteration
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+ec52ffa139f3c55412edebe5a22cee669fbd9980 f6961b9e8066618c02050995619fd9f68332a6d7 10890 10890 2114508759 2074043049 42600711 0
+30d55e18f37cba16b389d463a450196ee10a39c4
+ERROR> Previous HEAD position was ec52ffa1 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 30d55e18 [maven-release-plugin] prepare release r4.13-rc-1
+junit:junit:jar:4.13-rc-1
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+30d55e18f37cba16b389d463a450196ee10a39c4 ec52ffa139f3c55412edebe5a22cee669fbd9980 10890 10890 1883079643 2114508759 41015437 0
+6a821fff5eb29e7325914332a71016e9c155fbe6
+ERROR> Previous HEAD position was 30d55e18 [maven-release-plugin] prepare release r4.13-rc-1
+ERROR> HEAD is now at 6a821fff Revert "[maven-release-plugin] prepare release r4.13-rc-1"
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+6a821fff5eb29e7325914332a71016e9c155fbe6 30d55e18f37cba16b389d463a450196ee10a39c4 10890 10890 1710747836 1883079643 42882791 0
+720ee195d250190921e6440f88795869997d1a13
+ERROR> Previous HEAD position was 6a821fff Revert "[maven-release-plugin] prepare release r4.13-rc-1"
+ERROR> HEAD is now at 720ee195 [maven-release-plugin] prepare release r4.13-rc-1
+junit:junit:jar:4.13-rc-1
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+720ee195d250190921e6440f88795869997d1a13 6a821fff5eb29e7325914332a71016e9c155fbe6 10890 10890 1771503258 1710747836 50878603 0
+ffbe5dbf1196c9f5f985335dbbfad611c6fb3e33
+ERROR> Previous HEAD position was 720ee195 [maven-release-plugin] prepare release r4.13-rc-1
+ERROR> HEAD is now at ffbe5dbf [maven-release-plugin] prepare for next development iteration
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+ffbe5dbf1196c9f5f985335dbbfad611c6fb3e33 720ee195d250190921e6440f88795869997d1a13 10890 10890 1865957765 1771503258 50172976 0
+1d7e041ddaa29abbdce4bf528d6e6d143b8faa3a
+ERROR> Previous HEAD position was ffbe5dbf [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 1d7e041d [maven-release-plugin] prepare release r4.13-rc-1
+junit:junit:jar:4.13-rc-1
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+1d7e041ddaa29abbdce4bf528d6e6d143b8faa3a ffbe5dbf1196c9f5f985335dbbfad611c6fb3e33 10890 10890 1992759883 1865957765 41744771 0
+f7002b5150bf068de0daae450e78eee1a183f63a
+ERROR> Previous HEAD position was 1d7e041d [maven-release-plugin] prepare release r4.13-rc-1
+ERROR> HEAD is now at f7002b51 Only deprecate ExpectedException.none()
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+f7002b5150bf068de0daae450e78eee1a183f63a 1d7e041ddaa29abbdce4bf528d6e6d143b8faa3a 10890 10890 1675219322 1992759883 53471410 0
+7065f378bdd67bb9e9e0a44044ed36f7006218bc
+ERROR> Previous HEAD position was f7002b51 Only deprecate ExpectedException.none()
+ERROR> HEAD is now at 7065f378 Make @ValidateWith only applicable to annotation types (#1612)
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+7065f378bdd67bb9e9e0a44044ed36f7006218bc f7002b5150bf068de0daae450e78eee1a183f63a 10890 10890 1583452415 1675219322 39755577 0
+f727ecfdc1eea0ae438b5ed050c6e7cba973324c
+ERROR> Previous HEAD position was 7065f378 Make @ValidateWith only applicable to annotation types (#1612)
+ERROR> HEAD is now at f727ecfd Ignore test for read-only temp folder on Windows (#1632)
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+f727ecfdc1eea0ae438b5ed050c6e7cba973324c 7065f378bdd67bb9e9e0a44044ed36f7006218bc 10890 10890 1608044310 1583452415 50127920 0
+34cfd132a394a4ff274592ca87080a100fa811c4
+ERROR> Previous HEAD position was f727ecfd Ignore test for read-only temp folder on Windows (#1632)
+ERROR> HEAD is now at 34cfd132 Don't use Assert#assertThat in our tests
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+34cfd132a394a4ff274592ca87080a100fa811c4 f727ecfdc1eea0ae438b5ed050c6e7cba973324c 10890 10890 1770573923 1608044310 46618206 0
+467c3f8efe1a87e3029df282e4df60ad98bc4142
+ERROR> Previous HEAD position was 34cfd132 Don't use Assert#assertThat in our tests
+ERROR> HEAD is now at 467c3f8e Deprecate Assert#assertThat
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+467c3f8efe1a87e3029df282e4df60ad98bc4142 34cfd132a394a4ff274592ca87080a100fa811c4 10890 10890 2164912981 1770573923 61939827 0
+1ba4b2b400c964acc05c4d7000a4502ac3218211
+ERROR> Previous HEAD position was 467c3f8e Deprecate Assert#assertThat
+ERROR> HEAD is now at 1ba4b2b4 Revert "Deprecate APIs that use Hamcrest classes."
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+1ba4b2b400c964acc05c4d7000a4502ac3218211 467c3f8efe1a87e3029df282e4df60ad98bc4142 10890 10890 2066440463 2164912981 45892371 0
+dd6def82200fbbe7304f7f78d9f35f706cafdd73
+ERROR> Previous HEAD position was 1ba4b2b4 Revert "Deprecate APIs that use Hamcrest classes."
+ERROR> HEAD is now at dd6def82 Run tests on Ubuntu Trusty
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+dd6def82200fbbe7304f7f78d9f35f706cafdd73 1ba4b2b400c964acc05c4d7000a4502ac3218211 10890 10890 1606015130 2066440463 39222876 0
+8c9e81daf38efa8b4af9ba5c55fe83765ac434d6
+ERROR> Previous HEAD position was dd6def82 Run tests on Ubuntu Trusty
+ERROR> HEAD is now at 8c9e81da Rewrite Javadoc of RuleChain
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+8c9e81daf38efa8b4af9ba5c55fe83765ac434d6 dd6def82200fbbe7304f7f78d9f35f706cafdd73 10890 10890 1748034328 1606015130 54725024 0
+0fe662d1432784cd24f33a4b57a4f62895706d66
+ERROR> Previous HEAD position was 8c9e81da Rewrite Javadoc of RuleChain
+ERROR> HEAD is now at 0fe662d1 Add test for failure message of assumeTrue/assumeFalse
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+0fe662d1432784cd24f33a4b57a4f62895706d66 8c9e81daf38efa8b4af9ba5c55fe83765ac434d6 10890 10890 1990264004 1748034328 40578515 0
+a5de8a09218b4b85616e231ae7aac0eb49bf9188
+ERROR> Previous HEAD position was 0fe662d1 Add test for failure message of assumeTrue/assumeFalse
+ERROR> HEAD is now at a5de8a09 Changed the assumeFalse method following this suggestion: https://github.com/junit-team/junit4/issues/1616
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+a5de8a09218b4b85616e231ae7aac0eb49bf9188 0fe662d1432784cd24f33a4b57a4f62895706d66 10890 10890 1778571170 1990264004 55840971 0
+fd27d36274fe53b36ca59e0f9e9e74a6761e8306
+ERROR> Previous HEAD position was a5de8a09 Changed the assumeFalse method following this suggestion: https://github.com/junit-team/junit4/issues/1616
+ERROR> HEAD is now at fd27d362 [maven-release-plugin] prepare for next development iteration
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+fd27d36274fe53b36ca59e0f9e9e74a6761e8306 a5de8a09218b4b85616e231ae7aac0eb49bf9188 10890 10890 1752981637 1778571170 47358834 0
+fc3813fba9e2250ddd96877d01f2f694127edb80
+ERROR> Previous HEAD position was fd27d362 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at fc3813fb [maven-release-plugin] prepare release r4.13-beta-3
+junit:junit:jar:4.13-beta-3
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+fc3813fba9e2250ddd96877d01f2f694127edb80 fd27d36274fe53b36ca59e0f9e9e74a6761e8306 10890 10890 1950295535 1752981637 66748850 0
+d9861ecdb6e487f6c352437ee823879aca3b81d4
+ERROR> Previous HEAD position was fc3813fb [maven-release-plugin] prepare release r4.13-beta-3
+ERROR> HEAD is now at d9861ecd Restore that fields shadow fields from super class
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+d9861ecdb6e487f6c352437ee823879aca3b81d4 fc3813fba9e2250ddd96877d01f2f694127edb80 10890 10890 1997039201 1950295535 43370179 0
+29f930ac93ed5af1cb20ed0b6a8e1d5558e9d927
+ERROR> Previous HEAD position was d9861ecd Restore that fields shadow fields from super class
+ERROR> HEAD is now at 29f930ac make junit4 path consistent with clone
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+29f930ac93ed5af1cb20ed0b6a8e1d5558e9d927 d9861ecdb6e487f6c352437ee823879aca3b81d4 10890 10890 1773322391 1997039201 47417522 0
+8a367c1b918f02135d333f3cea8b576c20287361
+ERROR> Previous HEAD position was 29f930ac make junit4 path consistent with clone
+ERROR> HEAD is now at 8a367c1b Revert "ExternalResource: declare after() to throw Throwable (#1421)"
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+8a367c1b918f02135d333f3cea8b576c20287361 29f930ac93ed5af1cb20ed0b6a8e1d5558e9d927 10890 10890 1666318429 1773322391 42712087 0
+552bb39280c2daa5b41eec808dc6a3cafb3237df
+ERROR> Previous HEAD position was 8a367c1b Revert "ExternalResource: declare after() to throw Throwable (#1421)"
+ERROR> HEAD is now at 552bb392 Fix typo in CONTRIBUTING.md ("JUnit4" -> "JUnit5")
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+552bb39280c2daa5b41eec808dc6a3cafb3237df 8a367c1b918f02135d333f3cea8b576c20287361 10890 10890 2217816110 1666318429 67297278 0
+37610e67f77db2f238e7fde2c36f1f0d180790b1
+ERROR> Previous HEAD position was 552bb392 Fix typo in CONTRIBUTING.md ("JUnit4" -> "JUnit5")
+ERROR> HEAD is now at 37610e67 spelling: unwieldy
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+37610e67f77db2f238e7fde2c36f1f0d180790b1 552bb39280c2daa5b41eec808dc6a3cafb3237df 10890 10890 2078610550 2217816110 48295518 0
+7c2ac2b03e4f09b3906ed6573cd5232177f2e5c5
+ERROR> Previous HEAD position was 37610e67 spelling: unwieldy
+ERROR> HEAD is now at 7c2ac2b0 spelling: unmodifiable
+junit:junit:jar:4.13-SNAPSHOT
+[/home/qledilav/hyperAST/instances/junit4/src/main/java]
+[/home/qledilav/hyperAST/instances/junit4/src/test/java]
+[junit, org]
+==============size=======10890
+7c2ac2b03e4f09b3906ed6573cd5232177f2e5c5 37610e67f77db2f238e7fde2c36f1f0d180790b1 10890 10890 1743494982 2078610550 44662966 0
+User:
+372.64
+Sys:
+53.33
+Elapsed:
+3:28.28
+Cpu:
+204%
+MaxMem:
+5032384
+major page_faults:
+53
+minor page_faults:
+21311066

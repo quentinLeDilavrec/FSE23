@@ -1,0 +1,4101 @@
+f79ea208b1a42d0ee9e921dcfb3694221a2037ed
+ERROR> Previous HEAD position was f1f90313 Improve Maven build (#1964)
+ERROR> HEAD is now at f79ea208 Bump maven-surefire-plugin from 3.0.0-M5 to 3.0.0-M6 (#2101)
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======7866
+463bb7d096d7ce0568302a75b67808b6be78daae
+ERROR> Previous HEAD position was f79ea208 Bump maven-surefire-plugin from 3.0.0-M5 to 3.0.0-M6 (#2101)
+ERROR> HEAD is now at 463bb7d0 Bump jackson-databind from 2.13.2 to 2.13.2.2 (#2096)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======7866
+463bb7d096d7ce0568302a75b67808b6be78daae f79ea208b1a42d0ee9e921dcfb3694221a2037ed 7867 7867 1376136142 8116556465 123247056 0
+b2b1424582f973457e15f4eeba35cd3c0c0ed2b6
+ERROR> Previous HEAD position was 463bb7d0 Bump jackson-databind from 2.13.2 to 2.13.2.2 (#2096)
+ERROR> HEAD is now at b2b14245 codegen removal (#2099)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======7866
+b2b1424582f973457e15f4eeba35cd3c0c0ed2b6 463bb7d096d7ce0568302a75b67808b6be78daae 7867 7867 1234346500 1376136142 108908401 0
+774c751a9ee026c6d7e4b0ca44dac6ad526de557
+ERROR> Previous HEAD position was b2b14245 codegen removal (#2099)
+ERROR> HEAD is now at 774c751a Bump jackson-databind from 2.13.1 to 2.13.2 (#2087)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9223
+774c751a9ee026c6d7e4b0ca44dac6ad526de557 b2b1424582f973457e15f4eeba35cd3c0c0ed2b6 9224 7867 3646350055 1234346500 97167549 1357
+49c75804c5a8964afa1aa3c6e6463bb792de4457
+ERROR> Previous HEAD position was 774c751a Bump jackson-databind from 2.13.1 to 2.13.2 (#2087)
+ERROR> HEAD is now at 49c75804 Bump maven-compiler-plugin from 3.10.0 to 3.10.1 (#2089)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9223
+49c75804c5a8964afa1aa3c6e6463bb792de4457 774c751a9ee026c6d7e4b0ca44dac6ad526de557 9224 9224 1505692199 3646350055 53326644 0
+bab0f5a1f7040389eb8fe0cb417ba1854e33dbd0
+ERROR> Previous HEAD position was 49c75804 Bump maven-compiler-plugin from 3.10.0 to 3.10.1 (#2089)
+ERROR> HEAD is now at bab0f5a1 Bump maven-compiler-plugin from 3.9.0 to 3.10.0 (#2078)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9223
+bab0f5a1f7040389eb8fe0cb417ba1854e33dbd0 49c75804c5a8964afa1aa3c6e6463bb792de4457 9224 9224 1296246407 1505692199 54266250 0
+d7f824119cd68f986fd5ed8a501007e6862f5081
+ERROR> Previous HEAD position was bab0f5a1 Bump maven-compiler-plugin from 3.9.0 to 3.10.0 (#2078)
+ERROR> HEAD is now at d7f82411 Mention in README that Gson is in maintenance mode (#2085)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9223
+d7f824119cd68f986fd5ed8a501007e6862f5081 bab0f5a1f7040389eb8fe0cb417ba1854e33dbd0 9224 9224 1493937555 1296246407 37648625 0
+ba5f8f9e539c57874af260efda4eacf296e9ffa4
+ERROR> Previous HEAD position was d7f82411 Mention in README that Gson is in maintenance mode (#2085)
+ERROR> HEAD is now at ba5f8f9e Bump guava from 31.0.1-jre to 31.1-jre (#2086)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9223
+ba5f8f9e539c57874af260efda4eacf296e9ffa4 d7f824119cd68f986fd5ed8a501007e6862f5081 9224 9224 1249047334 1493937555 42143874 0
+91256532788aeee39d67087936be9bb458022c7a
+ERROR> Previous HEAD position was ba5f8f9e Bump guava from 31.0.1-jre to 31.1-jre (#2086)
+ERROR> HEAD is now at 91256532 Bump bnd-maven-plugin from 6.1.0 to 6.2.0 (#2084)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9223
+91256532788aeee39d67087936be9bb458022c7a ba5f8f9e539c57874af260efda4eacf296e9ffa4 9224 9224 1347363613 1249047334 50050564 0
+81bb6d1dec28ca135382e29e3eccffcc957726be
+ERROR> Previous HEAD position was 91256532 Bump bnd-maven-plugin from 6.1.0 to 6.2.0 (#2084)
+ERROR> HEAD is now at 81bb6d1d Remove `gson/build.gradle` (#2081)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9223
+81bb6d1dec28ca135382e29e3eccffcc957726be 91256532788aeee39d67087936be9bb458022c7a 9224 9224 1334343201 1347363613 54863792 0
+b5343ba96ce0e24c77e7be0efdb111f6fdf999ec
+ERROR> Previous HEAD position was 81bb6d1d Remove `gson/build.gradle` (#2081)
+ERROR> HEAD is now at b5343ba9 Add tests for enum constant toString() reading (#2080)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9223
+b5343ba96ce0e24c77e7be0efdb111f6fdf999ec 81bb6d1dec28ca135382e29e3eccffcc957726be 9224 9224 1484883524 1334343201 55845592 0
+7ee3e2787f45f5453b61a9af6c659993b4eba6d5
+ERROR> Previous HEAD position was b5343ba9 Add tests for enum constant toString() reading (#2080)
+ERROR> HEAD is now at 7ee3e278 Parsing Map<Enum,Obj> - 501 (#1950)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9223
+7ee3e2787f45f5453b61a9af6c659993b4eba6d5 b5343ba96ce0e24c77e7be0efdb111f6fdf999ec 9224 9224 1571276008 1484883524 60282856 0
+49ddab9eeb6cbac686711deca6001d40e8d8500d
+ERROR> Previous HEAD position was 7ee3e278 Parsing Map<Enum,Obj> - 501 (#1950)
+ERROR> HEAD is now at 49ddab9e Add CodeQL GitHub code scanning workflow (#2076)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9223
+49ddab9eeb6cbac686711deca6001d40e8d8500d 7ee3e2787f45f5453b61a9af6c659993b4eba6d5 9224 9224 1338858341 1571276008 50371249 0
+d19e9fe0af6d335948547416e9685498405a8a9d
+ERROR> Previous HEAD position was 49ddab9e Add CodeQL GitHub code scanning workflow (#2076)
+ERROR> HEAD is now at d19e9fe0 Improve Maven build and GitHub Maven workflow (#2079)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+d19e9fe0af6d335948547416e9685498405a8a9d 49ddab9eeb6cbac686711deca6001d40e8d8500d 9200 9224 1477056456 1338858341 961986346 27
+a0b102c7ff1c47c34d7629ebb6f4ff27837de7f7
+ERROR> Previous HEAD position was d19e9fe0 Improve Maven build and GitHub Maven workflow (#2079)
+ERROR> HEAD is now at a0b102c7 Bump maven-javadoc-plugin from 3.3.1 to 3.3.2 (#2077)
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+a0b102c7ff1c47c34d7629ebb6f4ff27837de7f7 d19e9fe0af6d335948547416e9685498405a8a9d 9200 9200 1330456808 1477056456 45028486 0
+241044d70912a34ec7326b7bf41a83b643d49f14
+ERROR> Previous HEAD position was a0b102c7 Bump maven-javadoc-plugin from 3.3.1 to 3.3.2 (#2077)
+ERROR> HEAD is now at 241044d7 Update CHANGELOG.md with 2.9.0 changes.
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+241044d70912a34ec7326b7bf41a83b643d49f14 a0b102c7ff1c47c34d7629ebb6f4ff27837de7f7 9200 9200 1223834128 1330456808 61459456 0
+e58db43f574aa2c350455ad4ab03b9404403013c
+ERROR> Previous HEAD position was 241044d7 Update CHANGELOG.md with 2.9.0 changes.
+ERROR> HEAD is now at e58db43f [maven-release-plugin] prepare for next development iteration
+com.google.code.gson:gson-parent:pom:2.9.1-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+e58db43f574aa2c350455ad4ab03b9404403013c 241044d70912a34ec7326b7bf41a83b643d49f14 9200 9200 1354437865 1223834128 60432795 0
+b6acf1178a1e9279a77235abe55d6895dd5c09f3
+ERROR> Previous HEAD position was e58db43f [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at b6acf117 [maven-release-plugin] prepare release gson-parent-2.9.0
+com.google.code.gson:gson-parent:pom:2.9.0
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+b6acf1178a1e9279a77235abe55d6895dd5c09f3 e58db43f574aa2c350455ad4ab03b9404403013c 9200 9200 1291443302 1354437865 55494149 0
+82fed02fbae4bbe3fe2d76d46b2d577a469bdba0
+ERROR> Previous HEAD position was b6acf117 [maven-release-plugin] prepare release gson-parent-2.9.0
+ERROR> HEAD is now at 82fed02f Mention R8 FAQ in Android example (#2075)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+82fed02fbae4bbe3fe2d76d46b2d577a469bdba0 b6acf1178a1e9279a77235abe55d6895dd5c09f3 9200 9200 1336268282 1291443302 52179831 0
+47dea2eefc6d2816cddb3f30689070285491733c
+ERROR> Previous HEAD position was 82fed02f Mention R8 FAQ in Android example (#2075)
+ERROR> HEAD is now at 47dea2ee Improve error message when abstract class cannot be constructed (#1814)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+47dea2eefc6d2816cddb3f30689070285491733c 82fed02fbae4bbe3fe2d76d46b2d577a469bdba0 9200 9200 1278295717 1336268282 46552667 0
+565b7a198e026596c3fd18304f86537ae20f9a3f
+ERROR> Previous HEAD position was 47dea2ee Improve error message when abstract class cannot be constructed (#1814)
+ERROR> HEAD is now at 565b7a19 Support EnumMap deserialization (#2071)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+565b7a198e026596c3fd18304f86537ae20f9a3f 47dea2eefc6d2816cddb3f30689070285491733c 9200 9200 1159047040 1278295717 65399997 0
+e2e851c9bc692cec68ba7b0cbb002f82b4a229e4
+ERROR> Previous HEAD position was 565b7a19 Support EnumMap deserialization (#2071)
+ERROR> HEAD is now at e2e851c9 Add LazilyParsedNumber default adapter (#2060)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+e2e851c9bc692cec68ba7b0cbb002f82b4a229e4 565b7a198e026596c3fd18304f86537ae20f9a3f 9200 9200 1294163028 1159047040 66953839 0
+710a76c8b8835e36935c62024001ba6b91ceee01
+ERROR> Previous HEAD position was e2e851c9 Add LazilyParsedNumber default adapter (#2060)
+ERROR> HEAD is now at 710a76c8 Fix JsonReader.hasNext() returning true at end of document (#2061)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+710a76c8b8835e36935c62024001ba6b91ceee01 e2e851c9bc692cec68ba7b0cbb002f82b4a229e4 9200 9200 1364923727 1294163028 42747780 0
+be0a1f4ff74bcd01580887cc9f3ec592d773f24c
+ERROR> Previous HEAD position was 710a76c8 Fix JsonReader.hasNext() returning true at end of document (#2061)
+ERROR> HEAD is now at be0a1f4f Remove Gradle build support (#2063)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+be0a1f4ff74bcd01580887cc9f3ec592d773f24c 710a76c8b8835e36935c62024001ba6b91ceee01 9200 9200 1196347566 1364923727 42057236 0
+8e01b54682612471a9ab40c73911dfbf6b5be036
+ERROR> Previous HEAD position was be0a1f4f Remove Gradle build support (#2063)
+ERROR> HEAD is now at 8e01b546 Bump maven-compiler-plugin from 3.8.1 to 3.9.0 (#2055)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+8e01b54682612471a9ab40c73911dfbf6b5be036 be0a1f4ff74bcd01580887cc9f3ec592d773f24c 9200 9200 1213408263 1196347566 60068418 0
+4d8cab89c4711f70416446107adec2d99f6b8e52
+ERROR> Previous HEAD position was 8e01b546 Bump maven-compiler-plugin from 3.8.1 to 3.9.0 (#2055)
+ERROR> HEAD is now at 4d8cab89 Bump maven-jar-plugin from 3.2.1 to 3.2.2 (#2056)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+4d8cab89c4711f70416446107adec2d99f6b8e52 8e01b54682612471a9ab40c73911dfbf6b5be036 9200 9200 1205273613 1213408263 47074829 0
+26e08fe742a9a023cc8eca454de8f84a0223d187
+ERROR> Previous HEAD position was 4d8cab89 Bump maven-jar-plugin from 3.2.1 to 3.2.2 (#2056)
+ERROR> HEAD is now at 26e08fe7 Fix a mistaken use of StringBuilder('#'). (#2052)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+26e08fe742a9a023cc8eca454de8f84a0223d187 4d8cab89c4711f70416446107adec2d99f6b8e52 9200 9200 1185062933 1205273613 49249851 0
+73216b2ad7b16f669000b8d7bb443921ea1a5b55
+ERROR> Previous HEAD position was 26e08fe7 Fix a mistaken use of StringBuilder('#'). (#2052)
+ERROR> HEAD is now at 73216b2a Add more `Gson` default constants to be used by `GsonBuilder` (#2051)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+73216b2ad7b16f669000b8d7bb443921ea1a5b55 26e08fe742a9a023cc8eca454de8f84a0223d187 9200 9200 1183950583 1185062933 44184040 0
+ffcfb15f6c63548f2d10a945116df8d5dbb8a025
+ERROR> Previous HEAD position was 73216b2a Add more `Gson` default constants to be used by `GsonBuilder` (#2051)
+ERROR> HEAD is now at ffcfb15f Bump maven-jar-plugin from 3.2.0 to 3.2.1 (#2049)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+ffcfb15f6c63548f2d10a945116df8d5dbb8a025 73216b2ad7b16f669000b8d7bb443921ea1a5b55 9200 9200 1286608772 1183950583 51568727 0
+d38e3974211e89d8e6d74c94178a2db102c0748d
+ERROR> Previous HEAD position was ffcfb15f Bump maven-jar-plugin from 3.2.0 to 3.2.1 (#2049)
+ERROR> HEAD is now at d38e3974 Fix ObjectTest not restoring default Locale (#2050)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+d38e3974211e89d8e6d74c94178a2db102c0748d ffcfb15f6c63548f2d10a945116df8d5dbb8a025 9200 9200 1167715847 1286608772 43782170 0
+4ec67c00a08348bff6abe1a4a285f8a78483ee37
+ERROR> Previous HEAD position was d38e3974 Fix ObjectTest not restoring default Locale (#2050)
+ERROR> HEAD is now at 4ec67c00 Bump maven-scm-provider-gitexe from 1.12.0 to 1.12.2 (#2047)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+4ec67c00a08348bff6abe1a4a285f8a78483ee37 d38e3974211e89d8e6d74c94178a2db102c0748d 9200 9200 1229362958 1167715847 57239655 0
+f26525221d48e344f3237e21ecae0afda7d1d582
+ERROR> Previous HEAD position was 4ec67c00 Bump maven-scm-provider-gitexe from 1.12.0 to 1.12.2 (#2047)
+ERROR> HEAD is now at f2652522 Bump maven-scm-api from 1.11.3 to 1.12.2 (#2046)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+f26525221d48e344f3237e21ecae0afda7d1d582 4ec67c00a08348bff6abe1a4a285f8a78483ee37 9200 9200 1164046761 1229362958 48814807 0
+6b96a389cc40d56fd3d00547c00a42ab2bef6098
+ERROR> Previous HEAD position was f2652522 Bump maven-scm-api from 1.11.3 to 1.12.2 (#2046)
+ERROR> HEAD is now at 6b96a389 Put `module-info.class` into Multi-Release JAR folder (#2013)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9199
+6b96a389cc40d56fd3d00547c00a42ab2bef6098 f26525221d48e344f3237e21ecae0afda7d1d582 9200 9200 1115014010 1164046761 43179747 0
+dc28951fa7e7112f0e229e0a4665ad27a1891d79
+ERROR> Previous HEAD position was 6b96a389 Put `module-info.class` into Multi-Release JAR folder (#2013)
+ERROR> HEAD is now at dc28951f Change target Java version to 7 (#2043)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9200
+dc28951fa7e7112f0e229e0a4665ad27a1891d79 6b96a389cc40d56fd3d00547c00a42ab2bef6098 9201 9200 1228427355 1115014010 1192871520 4
+bc8858a3d9a79a7d091474b436767b73e8338ac1
+ERROR> Previous HEAD position was dc28951f Change target Java version to 7 (#2043)
+ERROR> HEAD is now at bc8858a3 Bump maven-deploy-plugin from 3.0.0-M1 to 3.0.0-M2 (#2044)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9200
+bc8858a3d9a79a7d091474b436767b73e8338ac1 dc28951fa7e7112f0e229e0a4665ad27a1891d79 9201 9201 1373765520 1228427355 45119584 0
+615c8835d309e1be512dd98809b48332ce70250d
+ERROR> Previous HEAD position was bc8858a3 Bump maven-deploy-plugin from 3.0.0-M1 to 3.0.0-M2 (#2044)
+ERROR> HEAD is now at 615c8835 Add `GsonBuilder.disableJdkUnsafe()` (#1904)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9200
+615c8835d309e1be512dd98809b48332ce70250d bc8858a3d9a79a7d091474b436767b73e8338ac1 9201 9201 1289116837 1373765520 39249749 0
+97938283a77707cdf231a7ebdcbee937f289ad31
+ERROR> Previous HEAD position was 615c8835 Add `GsonBuilder.disableJdkUnsafe()` (#1904)
+ERROR> HEAD is now at 97938283 Remove explicit ProGuard plugin dependencies (#2041)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9196
+97938283a77707cdf231a7ebdcbee937f289ad31 615c8835d309e1be512dd98809b48332ce70250d 9197 9201 1180046192 1289116837 629679381 4
+abd2191b0e3863aa227b19fd3ebc6820cbcec058
+ERROR> Previous HEAD position was 97938283 Remove explicit ProGuard plugin dependencies (#2041)
+ERROR> HEAD is now at abd2191b Add READMEs to Maven modules (#2039)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9196
+abd2191b0e3863aa227b19fd3ebc6820cbcec058 97938283a77707cdf231a7ebdcbee937f289ad31 9197 9197 1155402732 1180046192 43000208 0
+6ffcdf302939ad405abdfb468218b8caafc46e9c
+ERROR> Previous HEAD position was abd2191b Add READMEs to Maven modules (#2039)
+ERROR> HEAD is now at 6ffcdf30 Fix Javadoc warnings and errors (#2040)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9196
+6ffcdf302939ad405abdfb468218b8caafc46e9c abd2191b0e3863aa227b19fd3ebc6820cbcec058 9197 9197 1182805549 1155402732 60958305 0
+6dfbdc861ff7b5f027b8139671145ca67add541d
+ERROR> Previous HEAD position was 6ffcdf30 Fix Javadoc warnings and errors (#2040)
+ERROR> HEAD is now at 6dfbdc86 Bump jackson-databind from 2.13.0 to 2.13.1 (#2036)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9197
+6dfbdc861ff7b5f027b8139671145ca67add541d 6ffcdf302939ad405abdfb468218b8caafc46e9c 9198 9197 1104676136 1182805549 901610756 1
+1dd150e86f8681c42f0dc4e7de01379d5fc9e58a
+ERROR> Previous HEAD position was 6dfbdc86 Bump jackson-databind from 2.13.0 to 2.13.1 (#2036)
+ERROR> HEAD is now at 1dd150e8 Bump proguard-maven-plugin from 2.5.2 to 2.5.3 (#2037)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9197
+1dd150e86f8681c42f0dc4e7de01379d5fc9e58a 6dfbdc861ff7b5f027b8139671145ca67add541d 9198 9198 1150853499 1104676136 50511147 0
+631046af28d2f28a6e5b490139d8fb39252e890e
+ERROR> Previous HEAD position was 1dd150e8 Bump proguard-maven-plugin from 2.5.2 to 2.5.3 (#2037)
+ERROR> HEAD is now at 631046af Bump maven-bundle-plugin from 5.1.2 to 5.1.3 (#2033)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9197
+631046af28d2f28a6e5b490139d8fb39252e890e 1dd150e86f8681c42f0dc4e7de01379d5fc9e58a 9198 9198 1253465402 1150853499 58056796 0
+4b3127f66907d066dd530876e7315a7a8d0821a3
+ERROR> Previous HEAD position was 631046af Bump maven-bundle-plugin from 5.1.2 to 5.1.3 (#2033)
+ERROR> HEAD is now at 4b3127f6 Bump proguard-maven-plugin from 2.5.1 to 2.5.2 (#2034)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9197
+4b3127f66907d066dd530876e7315a7a8d0821a3 631046af28d2f28a6e5b490139d8fb39252e890e 9198 9198 1252888048 1253465402 42470971 0
+cdf8ab5213bf1c139029ecdd49cbe1e8ec103c02
+ERROR> Previous HEAD position was 4b3127f6 Bump proguard-maven-plugin from 2.5.1 to 2.5.2 (#2034)
+ERROR> HEAD is now at cdf8ab52 Bump bnd-maven-plugin from 6.0.0 to 6.1.0 (#2025)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9197
+cdf8ab5213bf1c139029ecdd49cbe1e8ec103c02 4b3127f66907d066dd530876e7315a7a8d0821a3 9198 9198 1297442871 1252888048 47451561 0
+4a99674994359a93c515d7748bd5995e8a4fd539
+ERROR> Previous HEAD position was cdf8ab52 Bump bnd-maven-plugin from 6.0.0 to 6.1.0 (#2025)
+ERROR> HEAD is now at 4a996749 cifuzz: add integration (#2027)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9197
+4a99674994359a93c515d7748bd5995e8a4fd539 cdf8ab5213bf1c139029ecdd49cbe1e8ec103c02 9198 9198 1254203340 1297442871 123695882 0
+eaf9a0342d69b4cbbfb3644ce42e196453ce164a
+ERROR> Previous HEAD position was 4a996749 cifuzz: add integration (#2027)
+ERROR> HEAD is now at eaf9a034 feat: added UPPER_CASE_WITH_UNDERSCORES in FieldNamingPolicy (#2024)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9197
+eaf9a0342d69b4cbbfb3644ce42e196453ce164a 4a99674994359a93c515d7748bd5995e8a4fd539 9198 9198 1121896570 1254203340 39017043 0
+16b42ff5805074126c2e5484450c182773e408a2
+ERROR> Previous HEAD position was eaf9a034 feat: added UPPER_CASE_WITH_UNDERSCORES in FieldNamingPolicy (#2024)
+ERROR> HEAD is now at 16b42ff5 Update Caliper dependency; disable automatic result upload (#2019)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9197
+16b42ff5805074126c2e5484450c182773e408a2 eaf9a0342d69b4cbbfb3644ce42e196453ce164a 9198 9198 1177800208 1121896570 49466140 0
+0313de8206ca6f68b31c9c01978ec9899677649e
+ERROR> Previous HEAD position was 16b42ff5 Update Caliper dependency; disable automatic result upload (#2019)
+ERROR> HEAD is now at 0313de82 Some code suggestion from CodeGuru (#1988)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9107
+0313de8206ca6f68b31c9c01978ec9899677649e 16b42ff5805074126c2e5484450c182773e408a2 9108 9198 1225126376 1177800208 314966569 170
+6e06bf0d89ad71f317c920cdaf9981a0508446d3
+ERROR> Previous HEAD position was 0313de82 Some code suggestion from CodeGuru (#1988)
+ERROR> HEAD is now at 6e06bf0d Fix for an ArrayIndexOutOfBoundsException.
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9106
+6e06bf0d89ad71f317c920cdaf9981a0508446d3 0313de8206ca6f68b31c9c01978ec9899677649e 9107 9108 1252196716 1225126376 923671273 6
+b0595c595bd2c052cd05e0283bb37b67c02bd06f
+ERROR> Previous HEAD position was 6e06bf0d Fix for an ArrayIndexOutOfBoundsException.
+ERROR> HEAD is now at b0595c59 Fix failing to serialize Collection or Map with inaccessible constructor (#1902)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9106
+b0595c595bd2c052cd05e0283bb37b67c02bd06f 6e06bf0d89ad71f317c920cdaf9981a0508446d3 9107 9107 1237150709 1252196716 47175495 0
+0d9f6b677ae67cbd749ebca817139041d1977831
+ERROR> Previous HEAD position was b0595c59 Fix failing to serialize Collection or Map with inaccessible constructor (#1902)
+ERROR> HEAD is now at 0d9f6b67 Bump guava from 30.1.1-jre to 31.0.1-jre (#2016)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9106
+0d9f6b677ae67cbd749ebca817139041d1977831 b0595c595bd2c052cd05e0283bb37b67c02bd06f 9107 9107 1145485884 1237150709 40779170 0
+ca2ed748ba6e31c4a319ea6f2d2dc7048021f0a0
+ERROR> Previous HEAD position was 0d9f6b67 Bump guava from 30.1.1-jre to 31.0.1-jre (#2016)
+ERROR> HEAD is now at ca2ed748 Fix warnings (#2014)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9106
+ca2ed748ba6e31c4a319ea6f2d2dc7048021f0a0 0d9f6b677ae67cbd749ebca817139041d1977831 9107 9107 1198022223 1145485884 51236552 0
+cc505e1b9fa6e6e29466914a348315f73d326d27
+ERROR> Previous HEAD position was ca2ed748 Fix warnings (#2014)
+ERROR> HEAD is now at cc505e1b Convert codegen, metrics and proto to Maven submodules (#2008)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java, /home/qledilav/hyperAST/instances/gson/codegen/src/main/java, /home/qledilav/hyperAST/instances/gson/metrics/src/main/java, /home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java, /home/qledilav/hyperAST/instances/gson/codegen/src/test/java, /home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[null:gson:null, null:gson-extras:null, null:gson-codegen:null, null:gson-metrics:null, null:proto:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:null
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+
+null:gson-codegen:null
+pom
+/home/qledilav/hyperAST/instances/gson/codegen/pom.xml
+/home/qledilav/hyperAST/instances/gson/codegen
+codegen
+[inherited]:gson-codegen:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/codegen/src/test/java]
+[com]
+
+
+null:gson-metrics:null
+pom
+/home/qledilav/hyperAST/instances/gson/metrics/pom.xml
+/home/qledilav/hyperAST/instances/gson/metrics
+metrics
+[inherited]:gson-metrics:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/metrics/src/main/java]
+[]
+[com]
+
+
+null:proto:null
+pom
+/home/qledilav/hyperAST/instances/gson/proto/pom.xml
+/home/qledilav/hyperAST/instances/gson/proto
+proto
+[inherited]:proto:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/proto/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/proto/src/test/java]
+[com]
+
+==============size=======9106
+cc505e1b9fa6e6e29466914a348315f73d326d27 ca2ed748ba6e31c4a319ea6f2d2dc7048021f0a0 9107 9107 1186026417 1198022223 48689776 0
+a92bbf849c99b1fc708eb3dd209af9c72110ed4d
+ERROR> Previous HEAD position was cc505e1b Convert codegen, metrics and proto to Maven submodules (#2008)
+ERROR> HEAD is now at a92bbf84 Improve TreeTypeAdapter thread-safety (#1976)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:2.9.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:2.9.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+a92bbf849c99b1fc708eb3dd209af9c72110ed4d cc505e1b9fa6e6e29466914a348315f73d326d27 4126 9107 422150838 1186026417 120858345 4981
+deaa3a6cd9f4676e0c826eadadd2f3d6dc857096
+ERROR> Previous HEAD position was a92bbf84 Improve TreeTypeAdapter thread-safety (#1976)
+ERROR> HEAD is now at deaa3a6c Fix `Gson.newJsonWriter` ignoring lenient and HTML-safe setting (#1989)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:2.9.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:2.9.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+deaa3a6cd9f4676e0c826eadadd2f3d6dc857096 a92bbf849c99b1fc708eb3dd209af9c72110ed4d 4126 4126 435723611 422150838 17444489 0
+e0de45ff69ba3daacc3b7623cc74fc69a4eaf6d0
+ERROR> Previous HEAD position was deaa3a6c Fix `Gson.newJsonWriter` ignoring lenient and HTML-safe setting (#1989)
+ERROR> HEAD is now at e0de45ff Delete unused LinkedHashTreeMap (#1992)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:2.9.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:2.9.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+e0de45ff69ba3daacc3b7623cc74fc69a4eaf6d0 deaa3a6cd9f4676e0c826eadadd2f3d6dc857096 4126 4126 413802549 435723611 17314820 0
+b4dab86b105c85e6b7d7106c9ff11e3e923e3485
+ERROR> Previous HEAD position was e0de45ff Delete unused LinkedHashTreeMap (#1992)
+ERROR> HEAD is now at b4dab86b Make default adapters stricter; improve exception messages (#2000)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:2.9.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:2.9.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+b4dab86b105c85e6b7d7106c9ff11e3e923e3485 e0de45ff69ba3daacc3b7623cc74fc69a4eaf6d0 4126 4126 442379028 413802549 27537293 0
+b3188c113205bb41a980b09917b7f6b242cd32fc
+ERROR> Previous HEAD position was b4dab86b Make default adapters stricter; improve exception messages (#2000)
+ERROR> HEAD is now at b3188c11 Fix `FieldNamingPolicy.upperCaseFirstLetter` uppercasing non-letter (#2004)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:2.9.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:2.9.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+b3188c113205bb41a980b09917b7f6b242cd32fc b4dab86b105c85e6b7d7106c9ff11e3e923e3485 4126 4126 441481846 442379028 18881390 0
+466ca729167662b72beb0b952a7819b71547eaec
+ERROR> Previous HEAD position was b3188c11 Fix `FieldNamingPolicy.upperCaseFirstLetter` uppercasing non-letter (#2004)
+ERROR> HEAD is now at 466ca729 Update version number in UserGuide.md and proto/pom.xml.
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:2.9.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:2.9.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+466ca729167662b72beb0b952a7819b71547eaec b3188c113205bb41a980b09917b7f6b242cd32fc 4126 4126 416689436 441481846 18535795 0
+121bcede9663d890867179e3c700afcee25f93c0
+ERROR> Previous HEAD position was 466ca729 Update version number in UserGuide.md and proto/pom.xml.
+ERROR> HEAD is now at 121bcede Update project version in README (#2006)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:2.9.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:2.9.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+121bcede9663d890867179e3c700afcee25f93c0 466ca729167662b72beb0b952a7819b71547eaec 4126 4126 360372563 416689436 16788811 0
+031db9d4737df018e93c76b75611fd3c8589034f
+ERROR> Previous HEAD position was 121bcede Update project version in README (#2006)
+ERROR> HEAD is now at 031db9d4 Update CHANGELOG.md for 2.8.9. (#2005)
+com.google.code.gson:gson-parent:pom:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:2.9.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:2.9.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:2.9.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+031db9d4737df018e93c76b75611fd3c8589034f 121bcede9663d890867179e3c700afcee25f93c0 4126 4126 452433262 360372563 14258824 0
+128586847bc5669a4a10fd29ac3ead92b709352a
+ERROR> Previous HEAD position was 031db9d4 Update CHANGELOG.md for 2.8.9. (#2005)
+ERROR> HEAD is now at 12858684 [maven-release-plugin] prepare for next development iteration
+com.google.code.gson:gson-parent:pom:2.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:2.9-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:2.9-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:2.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+128586847bc5669a4a10fd29ac3ead92b709352a 031db9d4737df018e93c76b75611fd3c8589034f 4126 4126 390634789 452433262 15319892 0
+6a368d89da37917be7714c3072b8378f4120110a
+ERROR> Previous HEAD position was 12858684 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 6a368d89 [maven-release-plugin] prepare release gson-parent-2.8.9
+com.google.code.gson:gson-parent:pom:2.8.9
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:2.8.9]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:2.8.9
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:2.8.9
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+6a368d89da37917be7714c3072b8378f4120110a 128586847bc5669a4a10fd29ac3ead92b709352a 4126 4126 364016591 390634789 16813557 0
+ba96d53bad35f7466073f14cb3d89d09383e1a2d
+ERROR> Previous HEAD position was 6a368d89 [maven-release-plugin] prepare release gson-parent-2.8.9
+ERROR> HEAD is now at ba96d53b Fix missing bounds checks for JsonTreeReader.getPath() (#2001)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+ba96d53bad35f7466073f14cb3d89d09383e1a2d 6a368d89da37917be7714c3072b8378f4120110a 4126 4126 361643402 364016591 15403508 0
+ca1df7f7e09f6b1a763882029dd7057f475b31de
+ERROR> Previous HEAD position was ba96d53b Fix missing bounds checks for JsonTreeReader.getPath() (#2001)
+ERROR> HEAD is now at ca1df7f7 #1981: Optional OSGi bundle's dependency on sun.misc package (#1993)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+ca1df7f7e09f6b1a763882029dd7057f475b31de ba96d53bad35f7466073f14cb3d89d09383e1a2d 4126 4126 367629033 361643402 16664598 0
+c54caf308c3f7d4a6088cf3085c2caa9617e0458
+ERROR> Previous HEAD position was ca1df7f7 #1981: Optional OSGi bundle's dependency on sun.misc package (#1993)
+ERROR> HEAD is now at c54caf30 Deprecate `Gson.excluder()` exposing internal `Excluder` class (#1986)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+c54caf308c3f7d4a6088cf3085c2caa9617e0458 ca1df7f7e09f6b1a763882029dd7057f475b31de 4126 4126 355308824 367629033 15453338 0
+e6fae590cf2a758c47cd5a17f9bf3780ce62c986
+ERROR> Previous HEAD position was c54caf30 Deprecate `Gson.excluder()` exposing internal `Excluder` class (#1986)
+ERROR> HEAD is now at e6fae590 Prevent Java deserialization of internal classes (#1991)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+e6fae590cf2a758c47cd5a17f9bf3780ce62c986 c54caf308c3f7d4a6088cf3085c2caa9617e0458 4126 4126 373928021 355308824 14743849 0
+bda2e3d16af776e0f607d56bbab6eac22f8f2d58
+ERROR> Previous HEAD position was e6fae590 Prevent Java deserialization of internal classes (#1991)
+ERROR> HEAD is now at bda2e3d1 Improve number strategy implementation (#1987)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+bda2e3d16af776e0f607d56bbab6eac22f8f2d58 e6fae590cf2a758c47cd5a17f9bf3780ce62c986 4126 4126 397840649 373928021 15239509 0
+cd748df7122ea4260d35dfe90cfab0c079a1504d
+ERROR> Previous HEAD position was bda2e3d1 Improve number strategy implementation (#1987)
+ERROR> HEAD is now at cd748df7 Fix LongSerializationPolicy null handling being inconsistent with Gson (#1990)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+cd748df7122ea4260d35dfe90cfab0c079a1504d bda2e3d16af776e0f607d56bbab6eac22f8f2d58 4126 4126 377214379 397840649 15782102 0
+fe30b85224316cabf19f5dd3223843437c297802
+ERROR> Previous HEAD position was cd748df7 Fix LongSerializationPolicy null handling being inconsistent with Gson (#1990)
+ERROR> HEAD is now at fe30b852 Support arbitrary Number implementation for Object and Number deserialization (#1290)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+fe30b85224316cabf19f5dd3223843437c297802 cd748df7122ea4260d35dfe90cfab0c079a1504d 4126 4126 415602809 377214379 22721732 0
+1cc16274235f89650349884dd04760bf15a95d96
+ERROR> Previous HEAD position was fe30b852 Support arbitrary Number implementation for Object and Number deserialization (#1290)
+ERROR> HEAD is now at 1cc16274 Fix incorrect feature request template label (#1982)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+1cc16274235f89650349884dd04760bf15a95d96 fe30b85224316cabf19f5dd3223843437c297802 4126 4126 368803128 415602809 25220605 0
+7b9a283a7a5d66878c9be01227b15e631afe2a5a
+ERROR> Previous HEAD position was 1cc16274 Fix incorrect feature request template label (#1982)
+ERROR> HEAD is now at 7b9a283a Bump bnd-maven-plugin from 5.3.0 to 6.0.0 (#1985)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+7b9a283a7a5d66878c9be01227b15e631afe2a5a 1cc16274235f89650349884dd04760bf15a95d96 4126 4126 366478688 368803128 15137209 0
+7cfdf44893b74fb762757c37d14e441e98ab9663
+ERROR> Previous HEAD position was 7b9a283a Bump bnd-maven-plugin from 5.3.0 to 6.0.0 (#1985)
+ERROR> HEAD is now at 7cfdf448 Add GitHub issue templates (#1977)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+7cfdf44893b74fb762757c37d14e441e98ab9663 7b9a283a7a5d66878c9be01227b15e631afe2a5a 4126 4126 368933016 366478688 18095045 0
+b0f3237bb88141635c2cbc449f2cd632cbad20bf
+ERROR> Previous HEAD position was 7cfdf448 Add GitHub issue templates (#1977)
+ERROR> HEAD is now at b0f3237b Bump proguard-maven-plugin from 2.4.0 to 2.5.1 (#1980)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+b0f3237bb88141635c2cbc449f2cd632cbad20bf 7cfdf44893b74fb762757c37d14e441e98ab9663 4126 4126 398847820 368933016 17043965 0
+3b7835a18b7ce999fe79ad12cd85014642f30968
+ERROR> Previous HEAD position was b0f3237b Bump proguard-maven-plugin from 2.4.0 to 2.5.1 (#1980)
+ERROR> HEAD is now at 3b7835a1 Switch to GitHub Actions (#1974)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+3b7835a18b7ce999fe79ad12cd85014642f30968 b0f3237bb88141635c2cbc449f2cd632cbad20bf 4126 4126 396030458 398847820 16291738 0
+aa5554e69a2d5ee7e557b3cc1f5d68275fd4c1ab
+ERROR> Previous HEAD position was 3b7835a1 Switch to GitHub Actions (#1974)
+ERROR> HEAD is now at aa5554e6 Don't exclude static local classes (#1969)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+aa5554e69a2d5ee7e557b3cc1f5d68275fd4c1ab 3b7835a18b7ce999fe79ad12cd85014642f30968 4126 4126 386778339 396030458 18490573 0
+6a5e7753624dc2f1619137a7fbf0f89a160debdd
+ERROR> Previous HEAD position was aa5554e6 Don't exclude static local classes (#1969)
+ERROR> HEAD is now at 6a5e7753 Bump maven-scm-provider-gitexe from 1.11.3 to 1.12.0 (#1967)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+6a5e7753624dc2f1619137a7fbf0f89a160debdd aa5554e69a2d5ee7e557b3cc1f5d68275fd4c1ab 4126 4126 393641604 386778339 18612155 0
+26a1928277f7eba70609f02697509ba9258dd8ef
+ERROR> Previous HEAD position was 6a5e7753 Bump maven-scm-provider-gitexe from 1.11.3 to 1.12.0 (#1967)
+ERROR> HEAD is now at 26a19282 Fix `RuntimeTypeAdapterFactory` depending on internal `Streams` class (#1959)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java, /home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java, /home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[null:gson:null, null:gson-extras:1.0-SNAPSHOT]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+
+null:gson-extras:1.0-SNAPSHOT
+pom
+/home/qledilav/hyperAST/instances/gson/extras/pom.xml
+/home/qledilav/hyperAST/instances/gson/extras
+extras
+[inherited]:gson-extras:jar:1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/extras/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/extras/src/test/java]
+[com]
+
+==============size=======4125
+26a1928277f7eba70609f02697509ba9258dd8ef 6a5e7753624dc2f1619137a7fbf0f89a160debdd 4126 4126 364787574 393641604 14971948 0
+f1f90313fc22c122a28716e7ecac1543e6fa253e
+ERROR> Previous HEAD position was 26a19282 Fix `RuntimeTypeAdapterFactory` depending on internal `Streams` class (#1959)
+ERROR> HEAD is now at f1f90313 Improve Maven build (#1964)
+com.google.code.gson:gson-parent:pom:2.8.9-SNAPSHOT
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+[null:gson:null]
+
+null:gson:null
+pom
+/home/qledilav/hyperAST/instances/gson/gson/pom.xml
+/home/qledilav/hyperAST/instances/gson/gson
+gson
+[inherited]:gson:jar:[inherited]
+[/home/qledilav/hyperAST/instances/gson/gson/src/main/java]
+[/home/qledilav/hyperAST/instances/gson/gson/src/test/java]
+java.lang.IllegalStateException: Module should be known
+==============size=======0
+Exception in thread "main" java.lang.NullPointerException
+	at com.github.gumtreediff.matchers.heuristic.gt.PriorityTreeQueue.lambda$static$0(PriorityTreeQueue.java:33)
+	at com.github.gumtreediff.matchers.heuristic.gt.DefaultPriorityTreeQueue.add(DefaultPriorityTreeQueue.java:92)
+	at com.github.gumtreediff.matchers.heuristic.gt.DefaultPriorityTreeQueue.<init>(DefaultPriorityTreeQueue.java:39)
+	at com.github.gumtreediff.matchers.heuristic.gt.AbstractSubtreeMatcher.match(AbstractSubtreeMatcher.java:65)
+	at com.github.gumtreediff.matchers.CompositeMatchers$CompositeMatcher.match(CompositeMatchers.java:59)
+	at gumtree.spoon.diff.DiffImpl.computeDiff(DiffImpl.java:93)
+	at gumtree.spoon.diff.DiffImpl.<init>(DiffImpl.java:81)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:392)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+Command exited with non-zero status 1
+User:
+320.69
+Sys:
+37.05
+Elapsed:
+2:08.52
+Cpu:
+278%
+MaxMem:
+2219880
+major page_faults:
+26
+minor page_faults:
+8221294

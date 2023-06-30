@@ -1,0 +1,3228 @@
+be6713661c120c222c17026e62401191bdc4035c
+ERROR> Previous HEAD position was f34cc38c00 [maven-release-plugin] prepare release jenkins-2.297
+ERROR> HEAD is now at be6713661c Rename `base-styles-v2.less` to `styles.less`
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+spoon.SpoonException: Unable to read the pom
+a203cc9f5e211defc70f84750af5b680756ccb00
+ERROR> Previous HEAD position was be6713661c Rename `base-styles-v2.less` to `styles.less`
+ERROR> HEAD is now at a203cc9f5e Upgrade Spring Framework from 5.3.18 to 5.3.19 (#6474)
+spoon.SpoonException: Unable to read the pom
+170f2cd2d0b60f0e4a507c773b9c3c1396ebad9b
+ERROR> Previous HEAD position was a203cc9f5e Upgrade Spring Framework from 5.3.18 to 5.3.19 (#6474)
+ERROR> HEAD is now at 170f2cd2d0 Remove invalid repeatable CSS (#6471)
+spoon.SpoonException: Unable to read the pom
+51e7142d5705c10833e0959fdf2534a32b0e7d86
+ERROR> Previous HEAD position was 170f2cd2d0 Remove invalid repeatable CSS (#6471)
+ERROR> HEAD is now at 51e7142d57 Remove `ui-refresh-overrides.less` and UI refresh toggle
+spoon.SpoonException: Unable to read the pom
+09f203d1a6f75568dc566b2f3fcb7ee49b96cb7b
+ERROR> Previous HEAD position was 51e7142d57 Remove `ui-refresh-overrides.less` and UI refresh toggle
+ERROR> HEAD is now at 09f203d1a6 Remove `msie.js`, `svgxuse.min.js` and CSS custom properties polyfill (#6469)
+spoon.SpoonException: Unable to read the pom
+0f25bf3bf6a77bc934f2f19b794eb5725c6f502b
+ERROR> Previous HEAD position was 09f203d1a6 Remove `msie.js`, `svgxuse.min.js` and CSS custom properties polyfill (#6469)
+ERROR> HEAD is now at 0f25bf3bf6 Russian misspelling correction (#6465)
+spoon.SpoonException: Unable to read the pom
+bcb84723a2086294042cc80a2d1afb564db3658b
+ERROR> Previous HEAD position was 0f25bf3bf6 Russian misspelling correction (#6465)
+ERROR> HEAD is now at bcb84723a2 Use modern form inputs in Plugin Manager, login form, and setup wizard (#6442)
+spoon.SpoonException: Unable to read the pom
+f0e343f3b3b48b3cadc35718cb4c8667eda872a4
+ERROR> Previous HEAD position was bcb84723a2 Use modern form inputs in Plugin Manager, login form, and setup wizard (#6442)
+ERROR> HEAD is now at f0e343f3b3 Revert [JENKINS-24513] Add access control for builds admin monitor (#6222)
+spoon.SpoonException: Unable to read the pom
+bc85adeaa01480aafd1dae9a73070bdfc1c78655
+ERROR> Previous HEAD position was f0e343f3b3 Revert [JENKINS-24513] Add access control for builds admin monitor (#6222)
+ERROR> HEAD is now at bc85adeaa0 Update domain for issues.jenkins.io in PR template (#6477)
+spoon.SpoonException: Unable to read the pom
+d54945e98b9393a9400a17144f721bc5c40f2fe1
+ERROR> Previous HEAD position was bc85adeaa0 Update domain for issues.jenkins.io in PR template (#6477)
+ERROR> HEAD is now at d54945e98b Add "copy to clipboard" button to the script console output (#6455)
+spoon.SpoonException: Unable to read the pom
+fe8213b22bdd2341e658fe31682b8912de4c1b72
+ERROR> Previous HEAD position was d54945e98b Add "copy to clipboard" button to the script console output (#6455)
+ERROR> HEAD is now at fe8213b22b Alignment and view changes (#6457)
+spoon.SpoonException: Unable to read the pom
+6685c2a1742f7257eb8e542f4a99386582a29bda
+ERROR> Previous HEAD position was fe8213b22b Alignment and view changes (#6457)
+ERROR> HEAD is now at 6685c2a174 Use `f:dropdownDescriptorSelector` for agent launcher (#6464)
+spoon.SpoonException: Unable to read the pom
+84a8d494e32a39084e17de599a82fc7efca045d5
+ERROR> Previous HEAD position was 6685c2a174 Use `f:dropdownDescriptorSelector` for agent launcher (#6464)
+ERROR> HEAD is now at 84a8d494e3 Remove `html.jelly` in favor of `layout.jelly` (#6468)
+spoon.SpoonException: Unable to read the pom
+7ea7de949d36343db746b83a5f0b84734b706e8f
+ERROR> Previous HEAD position was 84a8d494e3 Remove `html.jelly` in favor of `layout.jelly` (#6468)
+ERROR> HEAD is now at 7ea7de949d [JENKINS-67962] The giant "No builds" message is shown even with a pending build (#6461)
+spoon.SpoonException: Unable to read the pom
+dadfffa6c5a697e652ee81c670a6168a3d117b0b
+ERROR> Previous HEAD position was 7ea7de949d [JENKINS-67962] The giant "No builds" message is shown even with a pending build (#6461)
+ERROR> HEAD is now at dadfffa6c5 Rename "master" to "built-in" in German localisation (#6462)
+spoon.SpoonException: Unable to read the pom
+212ee6bbcfef5fbf51971646668257a105079041
+ERROR> Previous HEAD position was dadfffa6c5 Rename "master" to "built-in" in German localisation (#6462)
+ERROR> HEAD is now at 212ee6bbcf Rewrite `update-since-todo.sh` in Python (#6458)
+spoon.SpoonException: Unable to read the pom
+f4b4aa853b3c6d36791baf51f8433c7336df2149
+ERROR> Previous HEAD position was 212ee6bbcf Rewrite `update-since-todo.sh` in Python (#6458)
+ERROR> HEAD is now at f4b4aa853b [maven-release-plugin] prepare for next development iteration
+spoon.SpoonException: Unable to read the pom
+eabe497ebb6d4faf7034c60b6106d6675abd978e
+ERROR> Previous HEAD position was f4b4aa853b [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at eabe497ebb [maven-release-plugin] prepare release jenkins-2.343
+spoon.SpoonException: Unable to read the pom
+9895d9f1b9b64860dd854639a9cc0cfbabe15fd5
+ERROR> Previous HEAD position was eabe497ebb [maven-release-plugin] prepare release jenkins-2.343
+ERROR> HEAD is now at 9895d9f1b9 [JENKINS-67744] make agent availability help more flexible (#6255)
+spoon.SpoonException: Unable to read the pom
+bdfdbca8219ce85bddea0cb44cd9e1d2636722dc
+ERROR> Previous HEAD position was 9895d9f1b9 [JENKINS-67744] make agent availability help more flexible (#6255)
+ERROR> HEAD is now at bdfdbca821 Stop builds in the order they are provided from the CLI (#6456)
+spoon.SpoonException: Unable to read the pom
+a6fa7b3abd9563d972d4ba691b9c07b3e1fd497c
+ERROR> Previous HEAD position was bdfdbca821 Stop builds in the order they are provided from the CLI (#6456)
+ERROR> HEAD is now at a6fa7b3abd Remove unnecessary shutdown hook (#6454)
+spoon.SpoonException: Unable to read the pom
+cb64da57f4fa82ebe26e1fd074e65faefe36efd8
+ERROR> Previous HEAD position was a6fa7b3abd Remove unnecessary shutdown hook (#6454)
+ERROR> HEAD is now at cb64da57f4 Improve queue restart tests (#6453)
+spoon.SpoonException: Unable to read the pom
+76f4ae79058004e9369391e857c5c4ae5f5c1737
+ERROR> Previous HEAD position was cb64da57f4 Improve queue restart tests (#6453)
+ERROR> HEAD is now at 76f4ae7905 [JENKINS-68055] Retain label expressions when trimming labels (#6452)
+spoon.SpoonException: Unable to read the pom
+45040c7ee144289d9705be93f585f28a22584e93
+ERROR> Previous HEAD position was 76f4ae7905 [JENKINS-68055] Retain label expressions when trimming labels (#6452)
+ERROR> HEAD is now at 45040c7ee1 Remove calls to `fireBottomStickerAdjustEvent` (#6451)
+spoon.SpoonException: Unable to read the pom
+442673bbaba345874bfb202cb19c4f88bad6c4b5
+ERROR> Previous HEAD position was 45040c7ee1 Remove calls to `fireBottomStickerAdjustEvent` (#6451)
+ERROR> HEAD is now at 442673bbab [JENKINS-68122] Avoid deadlock involving `RingBufferLogHandler.LogRecordRef` class loading (#6449)
+spoon.SpoonException: Unable to read the pom
+0e71ff5084284fefd3f4a8bdd6a4f97f77baef8e
+ERROR> Previous HEAD position was 442673bbab [JENKINS-68122] Avoid deadlock involving `RingBufferLogHandler.LogRecordRef` class loading (#6449)
+ERROR> HEAD is now at 0e71ff5084 [JENKINS-67846] Icon alignment of build status is wrong (#6303)
+spoon.SpoonException: Unable to read the pom
+b37ea91bf3e8326cf2c2e8913b891d01cc3313e6
+ERROR> Previous HEAD position was 0e71ff5084 [JENKINS-67846] Icon alignment of build status is wrong (#6303)
+ERROR> HEAD is now at b37ea91bf3 Add nullability annotations (#6448)
+spoon.SpoonException: Unable to read the pom
+1108a2730350b714d285d994b9d7fd19138d26d1
+ERROR> Previous HEAD position was b37ea91bf3 Add nullability annotations (#6448)
+ERROR> HEAD is now at 1108a27303 [JENKINS-68121] Line under "URL Copy" is out of place (#6405)
+spoon.SpoonException: Unable to read the pom
+c46f96866d54f851731e5498118ddd3b5b61aa5f
+ERROR> Previous HEAD position was 1108a27303 [JENKINS-68121] Line under "URL Copy" is out of place (#6405)
+ERROR> HEAD is now at c46f96866d Merge pull request #6447 from MarkEWaite/revert-6101-JENKINS-67237
+spoon.SpoonException: Unable to read the pom
+f3a32be3a3795664f4cdb01f92eaabe8a2f7ad3c
+ERROR> Previous HEAD position was c46f96866d Merge pull request #6447 from MarkEWaite/revert-6101-JENKINS-67237
+ERROR> HEAD is now at f3a32be3a3 Revert "[JENKINS-67237] `BuildTrigger` waits until the dependency graph has been updated (#6101)"
+spoon.SpoonException: Unable to read the pom
+d940767221b7b6ebe62161e6a9740e0bc32868ca
+ERROR> Previous HEAD position was f3a32be3a3 Revert "[JENKINS-67237] `BuildTrigger` waits until the dependency graph has been updated (#6101)"
+ERROR> HEAD is now at d940767221 [JENKINS-50211] Reject connections from agents with unsupported Remoting versions (#4579)
+spoon.SpoonException: Unable to read the pom
+1e8b9b13da378f31a8cc8895b5e3301b4dc2cb65
+ERROR> Previous HEAD position was d940767221 [JENKINS-50211] Reject connections from agents with unsupported Remoting versions (#4579)
+ERROR> HEAD is now at 1e8b9b13da Bump Spotless Maven Plugin from 2.22.0 to 2.22.1 (#6443)
+spoon.SpoonException: Unable to read the pom
+b5023f6bc7b3be31fdff34b539b51434778fc6a6
+ERROR> Previous HEAD position was 1e8b9b13da Bump Spotless Maven Plugin from 2.22.0 to 2.22.1 (#6443)
+ERROR> HEAD is now at b5023f6bc7 Removed legacy Hudson update site logic (#6116)
+spoon.SpoonException: Unable to read the pom
+d135a1e80f53004cabeac1fd25e9fdc7fe0b1426
+ERROR> Previous HEAD position was b5023f6bc7 Removed legacy Hudson update site logic (#6116)
+ERROR> HEAD is now at d135a1e80f Enable unit test to work on non-English locales (#6438)
+spoon.SpoonException: Unable to read the pom
+d88c4d36f99ec848080394e1421d35e3743bbeb2
+ERROR> Previous HEAD position was d135a1e80f Enable unit test to work on non-English locales (#6438)
+ERROR> HEAD is now at d88c4d36f9 Bump Jenkins Test Harness from 1731.v383b_5d6c3393 to 1736.vc72c458c5103 (#6441)
+spoon.SpoonException: Unable to read the pom
+554a6248ae00bd3357cd5865427b898b4593ac92
+ERROR> Previous HEAD position was d88c4d36f9 Bump Jenkins Test Harness from 1731.v383b_5d6c3393 to 1736.vc72c458c5103 (#6441)
+ERROR> HEAD is now at 554a6248ae Bump JaCoCo Maven Plugin from 0.8.7 to 0.8.8 (#6439)
+spoon.SpoonException: Unable to read the pom
+0d4d7bdc025147f9ab70b24789ad8ce971d6f944
+ERROR> Previous HEAD position was 554a6248ae Bump JaCoCo Maven Plugin from 0.8.7 to 0.8.8 (#6439)
+ERROR> HEAD is now at 0d4d7bdc02 Bump ASM from 9.2 to 9.3 (#6437)
+spoon.SpoonException: Unable to read the pom
+e31e94a40885f3fb2d3317a0e28e730dfb292f73
+ERROR> Previous HEAD position was 0d4d7bdc02 Bump ASM from 9.2 to 9.3 (#6437)
+ERROR> HEAD is now at e31e94a408 [JENKINS-40700] Display communication protocol in agent logs (#5459)
+spoon.SpoonException: Unable to read the pom
+548247b0af979ed9d36218e93f3172a3e0232c41
+ERROR> Previous HEAD position was e31e94a408 [JENKINS-40700] Display communication protocol in agent logs (#5459)
+ERROR> HEAD is now at 548247b0af [maven-release-plugin] prepare for next development iteration
+spoon.SpoonException: Unable to read the pom
+7424a9b73279ae7aa42cbf2bbe6f7e26572de1a1
+ERROR> Previous HEAD position was 548247b0af [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 7424a9b732 [maven-release-plugin] prepare release jenkins-2.342
+spoon.SpoonException: Unable to read the pom
+548372d7eb8d22189a81871c82502206e91b3f5d
+ERROR> Previous HEAD position was 7424a9b732 [maven-release-plugin] prepare release jenkins-2.342
+ERROR> HEAD is now at 548372d7eb Bump JUnit from 1.57 to 1.58 (#6436)
+spoon.SpoonException: Unable to read the pom
+8f6e04bcb51081627c11df2a105bcb049a1c8339
+ERROR> Previous HEAD position was 548372d7eb Bump JUnit from 1.57 to 1.58 (#6436)
+ERROR> HEAD is now at 8f6e04bcb5 Use `f:dropdownDescriptorSelector` for `securityRealm` & `authorizationStrategy` (#5417)
+spoon.SpoonException: Unable to read the pom
+dc88f58a2d206399e97d1e076071a09565e133cd
+ERROR> Previous HEAD position was 8f6e04bcb5 Use `f:dropdownDescriptorSelector` for `securityRealm` & `authorizationStrategy` (#5417)
+ERROR> HEAD is now at dc88f58a2d Upgrade build toolchain (#6432)
+spoon.SpoonException: Unable to read the pom
+4755f1df5bf0830de1730d19c1306327ac3549eb
+ERROR> Previous HEAD position was dc88f58a2d Upgrade build toolchain (#6432)
+ERROR> HEAD is now at 4755f1df5b Fix typo in dragdrop-debug.js (#6433)
+spoon.SpoonException: Unable to read the pom
+3b469bbed6059280f8e874269dbed6de7de9daeb
+ERROR> Previous HEAD position was 4755f1df5b Fix typo in dragdrop-debug.js (#6433)
+ERROR> HEAD is now at 3b469bbed6 Upgrade Spring Framework from 5.3.16 to 5.3.18 (#6422)
+spoon.SpoonException: Unable to read the pom
+d642229c3e3385b55835d9eaa4311d90ae09cb06
+ERROR> Previous HEAD position was 3b469bbed6 Upgrade Spring Framework from 5.3.16 to 5.3.18 (#6422)
+ERROR> HEAD is now at d642229c3e Use major version of GitHub actions (#6428)
+spoon.SpoonException: Unable to read the pom
+659606c3d299976bbb9db90ef0b6558d96b9db15
+ERROR> Previous HEAD position was d642229c3e Use major version of GitHub actions (#6428)
+ERROR> HEAD is now at 659606c3d2 Bump `jenkins-test-harness` from 1723.vcd938b_e66072 to 1731.v383b_5d6c3393 (#6431)
+spoon.SpoonException: Unable to read the pom
+885abf971092dbd4f6f004ecf1e8bb16e7fc7d7a
+ERROR> Previous HEAD position was 659606c3d2 Bump `jenkins-test-harness` from 1723.vcd938b_e66072 to 1731.v383b_5d6c3393 (#6431)
+ERROR> HEAD is now at 885abf9710 Bump JUnit from 1.56 to 1.57 (#6427)
+spoon.SpoonException: Unable to read the pom
+569bf930692282fb2eba8b999f92009662e6b6d0
+ERROR> Previous HEAD position was 885abf9710 Bump JUnit from 1.56 to 1.57 (#6427)
+ERROR> HEAD is now at 569bf93069 [JENKINS-64299] Fix medium load statistics time series (#6402)
+spoon.SpoonException: Unable to read the pom
+d41389131bed2083ffb02c129cced3b605bef02b
+ERROR> Previous HEAD position was 569bf93069 [JENKINS-64299] Fix medium load statistics time series (#6402)
+ERROR> HEAD is now at d41389131b Miscellaneous modernization cleanup (#6411)
+spoon.SpoonException: Unable to read the pom
+18736bb79a72312609615a78a01b4d755da23b5f
+ERROR> Previous HEAD position was d41389131b Miscellaneous modernization cleanup (#6411)
+ERROR> HEAD is now at 18736bb79a Remove mention of how to parse with Python < 2.6 (#6419)
+spoon.SpoonException: Unable to read the pom
+7b63b11f4cb396cce6708c6468be7c476e0f51c3
+ERROR> Previous HEAD position was 18736bb79a Remove mention of how to parse with Python < 2.6 (#6419)
+ERROR> HEAD is now at 7b63b11f4c Bump `version-number` from 1.9 to 1.10 (#6418)
+spoon.SpoonException: Unable to read the pom
+821190a043ec00d010b0ac6299887d58ac19b5b1
+ERROR> Previous HEAD position was 7b63b11f4c Bump `version-number` from 1.9 to 1.10 (#6418)
+ERROR> HEAD is now at 821190a043 Adds PR labels definitions to contribution guide (#6413)
+spoon.SpoonException: Unable to read the pom
+cf5d1bef28286204b401f6b0b3b7695adc6d8bfa
+ERROR> Previous HEAD position was 821190a043 Adds PR labels definitions to contribution guide (#6413)
+ERROR> HEAD is now at cf5d1bef28 Bump `spotless-maven-plugin` from 2.21.0 to 2.22.0 (#6416)
+spoon.SpoonException: Unable to read the pom
+7a354d0401bcbd5be3a2c0a81f3a7b2e4f637468
+ERROR> Previous HEAD position was cf5d1bef28 Bump `spotless-maven-plugin` from 2.21.0 to 2.22.0 (#6416)
+ERROR> HEAD is now at 7a354d0401 Bump `maven-shade-plugin` from 3.2.4 to 3.3.0 (#6415)
+spoon.SpoonException: Unable to read the pom
+39fd38fd86d7e7cb0a13e32562d36d67ff52a5f9
+ERROR> Previous HEAD position was 7a354d0401 Bump `maven-shade-plugin` from 3.2.4 to 3.3.0 (#6415)
+ERROR> HEAD is now at 39fd38fd86 [maven-release-plugin] prepare for next development iteration
+spoon.SpoonException: Unable to read the pom
+8a18664a3272cd8cfe1431b4291e949aef68fe56
+ERROR> Previous HEAD position was 39fd38fd86 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 8a18664a32 [maven-release-plugin] prepare release jenkins-2.341
+spoon.SpoonException: Unable to read the pom
+292382fe05f0e1c0188113d2f909144452a5011f
+ERROR> Previous HEAD position was 8a18664a32 [maven-release-plugin] prepare release jenkins-2.341
+ERROR> HEAD is now at 292382fe05 [JENKINS-67237] `BuildTrigger` waits until the dependency graph has been updated (#6101)
+spoon.SpoonException: Unable to read the pom
+04887f08ce06eaae75ef21b6dfd008e38e865d9c
+ERROR> Previous HEAD position was 292382fe05 [JENKINS-67237] `BuildTrigger` waits until the dependency graph has been updated (#6101)
+ERROR> HEAD is now at 04887f08ce [JENKINS-68137] Enable custom icon symbols for plugins (#6395)
+spoon.SpoonException: Unable to read the pom
+2716b0712413c27b7c3c50f0194cbee0279bf590
+ERROR> Previous HEAD position was 04887f08ce [JENKINS-68137] Enable custom icon symbols for plugins (#6395)
+ERROR> HEAD is now at 2716b07124 Remove `java.util.concurrent` from `--add-opens` list (#6392)
+spoon.SpoonException: Unable to read the pom
+6a2d72a47b8b740862a8fe53825d8d1692a3341b
+ERROR> Previous HEAD position was 2716b07124 Remove `java.util.concurrent` from `--add-opens` list (#6392)
+ERROR> HEAD is now at 6a2d72a47b Bump JNA from 5.10.0 to 5.11.0 (#6407)
+spoon.SpoonException: Unable to read the pom
+0fc407680d4a947312772e46edc0045bb7fdd068
+ERROR> Previous HEAD position was 6a2d72a47b Bump JNA from 5.10.0 to 5.11.0 (#6407)
+ERROR> HEAD is now at 0fc407680d Update SCM URLs (#6410)
+spoon.SpoonException: Unable to read the pom
+36fa157ff15b1e4999c54825ce479e3cdebd21fb
+ERROR> Previous HEAD position was 0fc407680d Update SCM URLs (#6410)
+ERROR> HEAD is now at 36fa157ff1 Update appearance of help button component (#6397)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+28ccfcd1bbfa312fce5c22e0c841216469ad588c
+ERROR> Previous HEAD position was 36fa157ff1 Update appearance of help button component (#6397)
+ERROR> HEAD is now at 28ccfcd1bb Use Eclipse Temurin rather than AdoptOpenJDK in publish artifact action (#6406)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+28ccfcd1bbfa312fce5c22e0c841216469ad588c 36fa157ff15b1e4999c54825ce479e3cdebd21fb 6145 6145 6783803538 12116011501 127931369 0
+607f845a7574792390a34d32c1407058d019b398
+ERROR> Previous HEAD position was 28ccfcd1bb Use Eclipse Temurin rather than AdoptOpenJDK in publish artifact action (#6406)
+ERROR> HEAD is now at 607f845a75 Do not show delete build button if build is marked to be kept (#6403)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+607f845a7574792390a34d32c1407058d019b398 28ccfcd1bbfa312fce5c22e0c841216469ad588c 6145 6145 6464769496 6783803538 60052447 0
+bb36e3383982dda37064fde4a5a12ae69d401cd2
+ERROR> Previous HEAD position was 607f845a75 Do not show delete build button if build is marked to be kept (#6403)
+ERROR> HEAD is now at bb36e33839 Bump `metainf-services` from 1.8 to 1.9 (#6404)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+bb36e3383982dda37064fde4a5a12ae69d401cd2 607f845a7574792390a34d32c1407058d019b398 6145 6145 5496582554 6464769496 48928422 0
+77a5bb2df2d848b8c250cb78fc7a04ef52953382
+ERROR> Previous HEAD position was bb36e33839 Bump `metainf-services` from 1.8 to 1.9 (#6404)
+ERROR> HEAD is now at 77a5bb2df2 [JENKINS-65928] Job trend page use previous icon color for trend graph (#5836)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+77a5bb2df2d848b8c250cb78fc7a04ef52953382 bb36e3383982dda37064fde4a5a12ae69d401cd2 6145 6145 5588386542 5496582554 44671498 0
+6b240d7a0f5ff11a79108c3118c750874ccfc6b0
+ERROR> Previous HEAD position was 77a5bb2df2 [JENKINS-65928] Job trend page use previous icon color for trend graph (#5836)
+ERROR> HEAD is now at 6b240d7a0f [JENKINS-67967] "View build information" is not read-only (#6400)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+6b240d7a0f5ff11a79108c3118c750874ccfc6b0 77a5bb2df2d848b8c250cb78fc7a04ef52953382 6145 6145 5746046857 5588386542 37907290 0
+680aab31fd2e54c6d94891cd43355dea9d42923c
+ERROR> Previous HEAD position was 6b240d7a0f [JENKINS-67967] "View build information" is not read-only (#6400)
+ERROR> HEAD is now at 680aab31fd Fill in `@since TODO` annotations (#6396)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+680aab31fd2e54c6d94891cd43355dea9d42923c 6b240d7a0f5ff11a79108c3118c750874ccfc6b0 6145 6145 4938218092 5746046857 32057571 0
+5610692b06f8cbbf2a5ef8a821b60e4445cb9295
+ERROR> Previous HEAD position was 680aab31fd Fill in `@since TODO` annotations (#6396)
+ERROR> HEAD is now at 5610692b06 Add Korean translations (#6394)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+5610692b06f8cbbf2a5ef8a821b60e4445cb9295 680aab31fd2e54c6d94891cd43355dea9d42923c 6145 6145 5316223751 4938218092 33865062 0
+5cb2f3c50ad7d9e63ddb30a9bbe65e1560d4b5d7
+ERROR> Previous HEAD position was 5610692b06 Add Korean translations (#6394)
+ERROR> HEAD is now at 5cb2f3c50a Add Traditional Chinese translation property files (#6386)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+5cb2f3c50ad7d9e63ddb30a9bbe65e1560d4b5d7 5610692b06f8cbbf2a5ef8a821b60e4445cb9295 6145 6145 4690317406 5316223751 31923796 0
+e3f8bc052d6065d3fcf6430f4c7c029c1fd25e54
+ERROR> Previous HEAD position was 5cb2f3c50a Add Traditional Chinese translation property files (#6386)
+ERROR> HEAD is now at e3f8bc052d [maven-release-plugin] prepare for next development iteration
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+e3f8bc052d6065d3fcf6430f4c7c029c1fd25e54 5cb2f3c50ad7d9e63ddb30a9bbe65e1560d4b5d7 6145 6145 4788985226 4690317406 26487547 0
+39890e8c55879fc7c0e9b6cc2ba9920f37cd51f9
+ERROR> Previous HEAD position was e3f8bc052d [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 39890e8c55 [maven-release-plugin] prepare release jenkins-2.340
+org.jenkins-ci.main:jenkins-parent:pom:2.340
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+39890e8c55879fc7c0e9b6cc2ba9920f37cd51f9 e3f8bc052d6065d3fcf6430f4c7c029c1fd25e54 6145 6145 5111354423 4788985226 29516953 0
+5144035e5503591e57d27b45f4114706d96d1c7a
+ERROR> Previous HEAD position was 39890e8c55 [maven-release-plugin] prepare release jenkins-2.340
+ERROR> HEAD is now at 5144035e55 Replace Tango icons with Jenkins Symbols (#6307)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+5144035e5503591e57d27b45f4114706d96d1c7a 39890e8c55879fc7c0e9b6cc2ba9920f37cd51f9 6145 6145 5084045162 5111354423 27774333 0
+afb061ed4e84f833cdc41c2b31ec848c88dbdbcb
+ERROR> Previous HEAD position was 5144035e55 Replace Tango icons with Jenkins Symbols (#6307)
+ERROR> HEAD is now at afb061ed4e Bump Stapler from 1666.v0275e61a_9874 to 1669.v95a_4b_919a_b_a_2 (#6393)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+afb061ed4e84f833cdc41c2b31ec848c88dbdbcb 5144035e5503591e57d27b45f4114706d96d1c7a 6145 6145 5266373368 5084045162 25809172 0
+101dafd69f4461023b6bb36e1315ca5b6969b54e
+ERROR> Previous HEAD position was afb061ed4e Bump Stapler from 1666.v0275e61a_9874 to 1669.v95a_4b_919a_b_a_2 (#6393)
+ERROR> HEAD is now at 101dafd69f Bump `cloudbees-folder` from 6.708.ve61636eb_65a_5 to 6.714.v79e858ef76a_2 (#6391)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+101dafd69f4461023b6bb36e1315ca5b6969b54e afb061ed4e84f833cdc41c2b31ec848c88dbdbcb 6145 6145 4609243723 5266373368 35363693 0
+bb01938ad8e4f239276df548043293ced25d32b4
+ERROR> Previous HEAD position was 101dafd69f Bump `cloudbees-folder` from 6.708.ve61636eb_65a_5 to 6.714.v79e858ef76a_2 (#6391)
+ERROR> HEAD is now at bb01938ad8 Bump `display-url-api` from 2.3.5 to 2.3.6 (#6390)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+bb01938ad8e4f239276df548043293ced25d32b4 101dafd69f4461023b6bb36e1315ca5b6969b54e 6145 6145 4637574531 4609243723 28148868 0
+2ad5073a3946e6c8194c30724c480974bb0c26a3
+ERROR> Previous HEAD position was bb01938ad8 Bump `display-url-api` from 2.3.5 to 2.3.6 (#6390)
+ERROR> HEAD is now at 2ad5073a39 Add Java 17 to build/test matrix (#6364)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+2ad5073a3946e6c8194c30724c480974bb0c26a3 bb01938ad8e4f239276df548043293ced25d32b4 6145 6145 5051810544 4637574531 31677725 0
+6f6cca1f8f4a9c535bd822c80cd2ad3cedff9cba
+ERROR> Previous HEAD position was 2ad5073a39 Add Java 17 to build/test matrix (#6364)
+ERROR> HEAD is now at 6f6cca1f8f Bump Script Security from 1140.vf967fb_efa_55a_ to 1145.vb_cf6cf6ed960 (#6387)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+6f6cca1f8f4a9c535bd822c80cd2ad3cedff9cba 2ad5073a3946e6c8194c30724c480974bb0c26a3 6145 6145 4916232540 5051810544 32534893 0
+8fa4231f18456eafd518f4bad5db913b71f74952
+ERROR> Previous HEAD position was 6f6cca1f8f Bump Script Security from 1140.vf967fb_efa_55a_ to 1145.vb_cf6cf6ed960 (#6387)
+ERROR> HEAD is now at 8fa4231f18 Bump Jenkins Test Harness from 1721.v385389722736 to 1723.vcd938b_e66072 (#6388)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+8fa4231f18456eafd518f4bad5db913b71f74952 6f6cca1f8f4a9c535bd822c80cd2ad3cedff9cba 6145 6145 4394308468 4916232540 25804448 0
+181339fc778e602d0e326aae93d10ee6ebe29f1d
+ERROR> Previous HEAD position was 8fa4231f18 Bump Jenkins Test Harness from 1721.v385389722736 to 1723.vcd938b_e66072 (#6388)
+ERROR> HEAD is now at 181339fc77 [JENKINS-67602] Recover from fingerprint corruption earlier (#6385)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+181339fc778e602d0e326aae93d10ee6ebe29f1d 8fa4231f18456eafd518f4bad5db913b71f74952 6145 6145 4824194870 4394308468 28921218 0
+86a37f8a6170e2344b61364abb2b2c7234840c40
+ERROR> Previous HEAD position was 181339fc77 [JENKINS-67602] Recover from fingerprint corruption earlier (#6385)
+ERROR> HEAD is now at 86a37f8a61 [JENKINS-67964] Want access to temporarily offline cause (#6337)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+86a37f8a6170e2344b61364abb2b2c7234840c40 181339fc778e602d0e326aae93d10ee6ebe29f1d 6145 6145 4414353249 4824194870 27936017 0
+a9a4a04eb2e86bd65355e41cd2f8a3d360fedfed
+ERROR> Previous HEAD position was 86a37f8a61 [JENKINS-67964] Want access to temporarily offline cause (#6337)
+ERROR> HEAD is now at a9a4a04eb2 Fix encoding of security warnings in French (#6382)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+a9a4a04eb2e86bd65355e41cd2f8a3d360fedfed 86a37f8a6170e2344b61364abb2b2c7234840c40 6145 6145 4436686031 4414353249 33435447 0
+fff3bd3d2315da7a7a762894a5943c1418a6e6b7
+ERROR> Previous HEAD position was a9a4a04eb2 Fix encoding of security warnings in French (#6382)
+ERROR> HEAD is now at fff3bd3d23 Support Java 17 in `Security637Test` (#6384)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+fff3bd3d2315da7a7a762894a5943c1418a6e6b7 a9a4a04eb2e86bd65355e41cd2f8a3d360fedfed 6145 6145 4787392835 4436686031 26667022 0
+6cf84863e38a1fa960979aeceb886098c5876c60
+ERROR> Previous HEAD position was fff3bd3d23 Support Java 17 in `Security637Test` (#6384)
+ERROR> HEAD is now at 6cf84863e3 [JENKINS-68037]  "Add to view" checkbox is placed higher than the button next to it (#6381)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+6cf84863e38a1fa960979aeceb886098c5876c60 fff3bd3d2315da7a7a762894a5943c1418a6e6b7 6145 6145 4355300705 4787392835 26951184 0
+5aa0825c788cfa5a7a0112306ee3a552dcdadca5
+ERROR> Previous HEAD position was 6cf84863e3 [JENKINS-68037]  "Add to view" checkbox is placed higher than the button next to it (#6381)
+ERROR> HEAD is now at 5aa0825c78 Stop serializing latch in `NodeProvisionerTest` (#6383)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+5aa0825c788cfa5a7a0112306ee3a552dcdadca5 6cf84863e38a1fa960979aeceb886098c5876c60 6145 6145 4285608415 4355300705 24424541 0
+422efe996e4ff1cb978cd108faeaf2360071d36f
+ERROR> Previous HEAD position was 5aa0825c78 Stop serializing latch in `NodeProvisionerTest` (#6383)
+ERROR> HEAD is now at 422efe996e [JENKINS-67396] Update link and breadcrumb dropdowns (#6084)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+422efe996e4ff1cb978cd108faeaf2360071d36f 5aa0825c788cfa5a7a0112306ee3a552dcdadca5 6145 6145 5170471387 4285608415 50229291 0
+1f9d51001e7615b45a808e5c1776a4f9862c3611
+ERROR> Previous HEAD position was 422efe996e [JENKINS-67396] Update link and breadcrumb dropdowns (#6084)
+ERROR> HEAD is now at 1f9d51001e Eliminate mocks from `ViewTest` (#6378)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+1f9d51001e7615b45a808e5c1776a4f9862c3611 422efe996e4ff1cb978cd108faeaf2360071d36f 6145 6145 4551498513 5170471387 25520481 0
+18144e3e099cf7658360a9278060945401e071a0
+ERROR> Previous HEAD position was 1f9d51001e Eliminate mocks from `ViewTest` (#6378)
+ERROR> HEAD is now at 18144e3e09 Document modern progressive logging tag (#6377)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+18144e3e099cf7658360a9278060945401e071a0 1f9d51001e7615b45a808e5c1776a4f9862c3611 6145 6145 4210707652 4551498513 24891158 0
+108abc84ea9dd979918d37adf8f93ba42877d7e8
+ERROR> Previous HEAD position was 18144e3e09 Document modern progressive logging tag (#6377)
+ERROR> HEAD is now at 108abc84ea Do not overflow on longer build names (#6363)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+108abc84ea9dd979918d37adf8f93ba42877d7e8 18144e3e099cf7658360a9278060945401e071a0 6145 6145 4610202526 4210707652 26001145 0
+304c08a226c25235d06a192a2fccdc32399d90f6
+ERROR> Previous HEAD position was 108abc84ea Do not overflow on longer build names (#6363)
+ERROR> HEAD is now at 304c08a226 Bump Stapler from 1642.ve454c4518974 to 1666.v0275e61a_9874 (#6376)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+304c08a226c25235d06a192a2fccdc32399d90f6 108abc84ea9dd979918d37adf8f93ba42877d7e8 6145 6145 4981185679 4610202526 25513995 0
+e7287631c0dd40d7ac653a55958b586a4f1d4b99
+ERROR> Previous HEAD position was 304c08a226 Bump Stapler from 1642.ve454c4518974 to 1666.v0275e61a_9874 (#6376)
+ERROR> HEAD is now at e7287631c0 Remove unneeded profile (#6375)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+e7287631c0dd40d7ac653a55958b586a4f1d4b99 304c08a226c25235d06a192a2fccdc32399d90f6 6145 6145 4185434391 4981185679 26567370 0
+c2bc12fa9d8274f73b208ea432aec7feee5be0ed
+ERROR> Previous HEAD position was e7287631c0 Remove unneeded profile (#6375)
+ERROR> HEAD is now at c2bc12fa9d Remove `NodeListTest` (#6374)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+c2bc12fa9d8274f73b208ea432aec7feee5be0ed e7287631c0dd40d7ac653a55958b586a4f1d4b99 6145 6145 4281667489 4185434391 36992752 0
+60995d46d9222413fa5779fa9c6c821c82c0288c
+ERROR> Previous HEAD position was c2bc12fa9d Remove `NodeListTest` (#6374)
+ERROR> HEAD is now at 60995d46d9 Assumptions in `XStream2EncodingTest` are not implemented correctly (#6373)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+60995d46d9222413fa5779fa9c6c821c82c0288c c2bc12fa9d8274f73b208ea432aec7feee5be0ed 6145 6145 4358769390 4281667489 24555211 0
+64fd019d7755cb18545033455c86a5b3381b715e
+ERROR> Previous HEAD position was 60995d46d9 Assumptions in `XStream2EncodingTest` are not implemented correctly (#6373)
+ERROR> HEAD is now at 64fd019d77 [JENKINS-67713] Align Polling Log "View as plain text" link with sidepanel (#6351)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+64fd019d7755cb18545033455c86a5b3381b715e 60995d46d9222413fa5779fa9c6c821c82c0288c 6145 6145 4926669627 4358769390 24663127 0
+0ed2779da308f0e881be41f904dc53ee8db8b4b0
+ERROR> Previous HEAD position was 64fd019d77 [JENKINS-67713] Align Polling Log "View as plain text" link with sidepanel (#6351)
+ERROR> HEAD is now at 0ed2779da3 [maven-release-plugin] prepare for next development iteration
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+0ed2779da308f0e881be41f904dc53ee8db8b4b0 64fd019d7755cb18545033455c86a5b3381b715e 6145 6145 4315617267 4926669627 25654249 0
+34692330c5a00f0c07fdf27b27d45eb0752231d8
+ERROR> Previous HEAD position was 0ed2779da3 [maven-release-plugin] prepare for next development iteration
+ERROR> HEAD is now at 34692330c5 [maven-release-plugin] prepare release jenkins-2.339
+org.jenkins-ci.main:jenkins-parent:pom:2.339
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+34692330c5a00f0c07fdf27b27d45eb0752231d8 0ed2779da308f0e881be41f904dc53ee8db8b4b0 6145 6145 4240909146 4315617267 27539506 0
+0d83b368f28cf273450ba62a1105f177adb620f1
+ERROR> Previous HEAD position was 34692330c5 [maven-release-plugin] prepare release jenkins-2.339
+ERROR> HEAD is now at 0d83b368f2 [JENKINS-67953] Unavailable plugin label is not themeable (#6350)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+0d83b368f28cf273450ba62a1105f177adb620f1 34692330c5a00f0c07fdf27b27d45eb0752231d8 6145 6145 4423870204 4240909146 30793558 0
+bfc1eb75c32b8ecc69f9e3a2365feef4ed1e71f2
+ERROR> Previous HEAD position was 0d83b368f2 [JENKINS-67953] Unavailable plugin label is not themeable (#6350)
+ERROR> HEAD is now at bfc1eb75c3 Restore original method signature of `CLICommand#getClientCharset` (#6370)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+bfc1eb75c32b8ecc69f9e3a2365feef4ed1e71f2 0d83b368f28cf273450ba62a1105f177adb620f1 6145 6145 4413179627 4423870204 26938525 0
+336173b689bb1f1187b7ead627871565e3f5c6a7
+ERROR> Previous HEAD position was bfc1eb75c3 Restore original method signature of `CLICommand#getClientCharset` (#6370)
+ERROR> HEAD is now at 336173b689 Remove obsolete workaround for SUREFIRE-1588 (#6369)
+org.jenkins-ci.main:jenkins-parent:pom:${revision}${changelist}
+[/home/qledilav/hyperAST/instances/jenkins/core/src/main/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/core/src/test/java, /home/qledilav/hyperAST/instances/jenkins/test/src/test/java, /home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[null:jenkins-bom:null, null:jenkins-core:null, null:jenkins-war:null, null:jenkins-test:null, null:cli:null]
+
+null:jenkins-bom:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/bom/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/bom
+bom
+[inherited]:jenkins-bom:pom:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-core:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/core/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/core
+core
+java.lang.NullPointerException
+
+null:jenkins-war:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/war/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/war
+war
+[inherited]:jenkins-war:war:[inherited]
+[]
+[]
+[]
+java.util.NoSuchElementException
+java.util.NoSuchElementException
+	at java.base/java.util.TreeMap$PrivateEntryIterator.nextEntry(TreeMap.java:1206)
+	at java.base/java.util.TreeMap$KeyIterator.next(TreeMap.java:1262)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:143)
+	at spoon.support.util.ModelSet$Itr.next(ModelSet.java:131)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:497)
+	at gumtree.spoon.AstComparator.aux(AstComparator.java:517)
+	at gumtree.spoon.AstComparator.many(AstComparator.java:371)
+	at gumtree.spoon.AstComparator.main(AstComparator.java:302)
+
+null:jenkins-test:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/test/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/test
+test
+[inherited]:jenkins-test:jar:[inherited]
+[]
+[/home/qledilav/hyperAST/instances/jenkins/test/src/test/java]
+[benchmarks, hudson, jenkins, lib, org, scripts, test]
+
+
+null:cli:null
+pom
+/home/qledilav/hyperAST/instances/jenkins/cli/pom.xml
+/home/qledilav/hyperAST/instances/jenkins/cli
+cli
+[inherited]:cli:jar:[inherited]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/main/java]
+[/home/qledilav/hyperAST/instances/jenkins/cli/src/test/java]
+[hudson]
+
+==============size=======6144
+336173b689bb1f1187b7ead627871565e3f5c6a7 bfc1eb75c32b8ecc69f9e3a2365feef4ed1e71f2 6145 6145 4740855463 4413179627 25854904 0
+User:
+538.99
+Sys:
+89.58
+Elapsed:
+4:01.17
+Cpu:
+260%
+MaxMem:
+6604248
+major page_faults:
+398
+minor page_faults:
+17230669

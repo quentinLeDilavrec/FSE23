@@ -1,0 +1,3516 @@
+38a9d4701730e674c9646173dbffc1173623cf24
+ERROR> Previous HEAD position was 3a2706d10 Fix storage-influxdb-plugin serviceCode query (#5792)
+ERROR> HEAD is now at 38a9d4701 Fix event can't split service ID into 2 parts (#8874)
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+db3c1da10d448113bbfd29a69b1d4ad77eda5fe6
+ERROR> Previous HEAD position was 38a9d4701 Fix event can't split service ID into 2 parts (#8874)
+ERROR> HEAD is now at db3c1da10 Update the eBPF Profiling task as service level (#8840)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+db3c1da10d448113bbfd29a69b1d4ad77eda5fe6 38a9d4701730e674c9646173dbffc1173623cf24 1178 1178 348607711 3148410482 31296432 0
+9059ff5827b615475764ee2b7d72875058e169f0
+ERROR> Previous HEAD position was db3c1da10 Update the eBPF Profiling task as service level (#8840)
+ERROR> HEAD is now at 9059ff582 Simplify kafka configuration in cluster mode (#8857)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+9059ff5827b615475764ee2b7d72875058e169f0 db3c1da10d448113bbfd29a69b1d4ad77eda5fe6 1178 1178 410306371 348607711 12217423 0
+2b386ce02bfd68319d75c4aa7b5559055337497c
+ERROR> Previous HEAD position was 9059ff582 Simplify kafka configuration in cluster mode (#8857)
+ERROR> HEAD is now at 2b386ce02 Add ModelColumn#shouldIndex method (#8853)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+2b386ce02bfd68319d75c4aa7b5559055337497c 9059ff5827b615475764ee2b7d72875058e169f0 1178 1178 287775926 410306371 9197977 0
+6d9decddceaffd2f10a26cc3d818c6bac4e94ba2
+ERROR> Previous HEAD position was 2b386ce02 Add ModelColumn#shouldIndex method (#8853)
+ERROR> HEAD is now at 6d9decddc Support BanyanDB global index for entities (#8852)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+6d9decddceaffd2f10a26cc3d818c6bac4e94ba2 2b386ce02bfd68319d75c4aa7b5559055337497c 1178 1178 280083523 287775926 10177155 0
+f3478b187d7fc48c44ecf9c3b93f3a70a8f3b021
+ERROR> Previous HEAD position was 6d9decddc Support BanyanDB global index for entities (#8852)
+ERROR> HEAD is now at f3478b187 Fix Zipkin receiver: Decode spans error, missing `Layer` for V9 and wrong time bucket for generate Service and Endpoint. (#8848)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+f3478b187d7fc48c44ecf9c3b93f3a70a8f3b021 6d9decddceaffd2f10a26cc3d818c6bac4e94ba2 1178 1178 327905988 280083523 7097174 0
+e38f25e28b033eaf3439c519c3c7c1ccef845117
+ERROR> Previous HEAD position was f3478b187 Fix Zipkin receiver: Decode spans error, missing `Layer` for V9 and wrong time bucket for generate Service and Endpoint. (#8848)
+ERROR> HEAD is now at e38f25e28 [CI] set up Java explicitly and use the built-in cache mechanism (#8851)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+e38f25e28b033eaf3439c519c3c7c1ccef845117 f3478b187d7fc48c44ecf9c3b93f3a70a8f3b021 1178 1178 265236604 327905988 10352303 0
+9386375492328c633f98b057b77ecf15e30dbd58
+ERROR> Previous HEAD position was e38f25e28 [CI] set up Java explicitly and use the built-in cache mechanism (#8851)
+ERROR> HEAD is now at 938637549 Sync UI submodule (#8843)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+9386375492328c633f98b057b77ecf15e30dbd58 e38f25e28b033eaf3439c519c3c7c1ccef845117 1178 1178 248952444 265236604 7461052 0
+f4c401529c10e66319d1e317c01df7e58b8d4988
+ERROR> Previous HEAD position was 938637549 Sync UI submodule (#8843)
+ERROR> HEAD is now at f4c401529 Update doc and fix some UI nits (#8842)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+f4c401529c10e66319d1e317c01df7e58b8d4988 9386375492328c633f98b057b77ecf15e30dbd58 1178 1178 277567975 248952444 8586107 0
+2c8f754c206ec9c674ec2fee0089a248bddf825f
+ERROR> Previous HEAD position was f4c401529 Update doc and fix some UI nits (#8842)
+ERROR> HEAD is now at 2c8f754c2 Add Apache ShenYu (incubating) component ID (#8796) (#8841)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+2c8f754c206ec9c674ec2fee0089a248bddf825f f4c401529c10e66319d1e317c01df7e58b8d4988 1178 1178 261761396 277567975 7869359 0
+c4b813fc16a56f3c4dceabe85fa5e2816c1f7a11
+ERROR> Previous HEAD position was 2c8f754c2 Add Apache ShenYu (incubating) component ID (#8796) (#8841)
+ERROR> HEAD is now at c4b813fc1 Fix a missing change log link (#8839)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+c4b813fc16a56f3c4dceabe85fa5e2816c1f7a11 2c8f754c206ec9c674ec2fee0089a248bddf825f 1178 1178 272107250 261761396 8400750 0
+ea154b20c36fddf52adda656c4ffb8bceef8ebdb
+ERROR> Previous HEAD position was c4b813fc1 Fix a missing change log link (#8839)
+ERROR> HEAD is now at ea154b20c Create README.md to avoid 404 (#8838)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+ea154b20c36fddf52adda656c4ffb8bceef8ebdb c4b813fc16a56f3c4dceabe85fa5e2816c1f7a11 1178 1178 272703804 272107250 8429120 0
+bb7a6ad9a7b98c5f5026ab74fb4659d3d36a8382
+ERROR> Previous HEAD position was ea154b20c Create README.md to avoid 404 (#8838)
+ERROR> HEAD is now at bb7a6ad9a Fix unsupported doc format. (#8837)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+bb7a6ad9a7b98c5f5026ab74fb4659d3d36a8382 ea154b20c36fddf52adda656c4ffb8bceef8ebdb 1178 1178 265416982 272703804 7462816 0
+0e7b25d9863fea2bb71dea48b4d52e6a0cad7e15
+ERROR> Previous HEAD position was bb7a6ad9a Fix unsupported doc format. (#8837)
+ERROR> HEAD is now at 0e7b25d98 Move changelog into website. (#8836)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+0e7b25d9863fea2bb71dea48b4d52e6a0cad7e15 bb7a6ad9a7b98c5f5026ab74fb4659d3d36a8382 1178 1178 261444439 265416982 7654457 0
+118ba3b56908ae71e64b0f8466c49891d9ad4dcc
+ERROR> Previous HEAD position was 0e7b25d98 Move changelog into website. (#8836)
+ERROR> HEAD is now at 118ba3b56 Fix wrong example in doc, sync Python E2E version and adjust E2E (#8751)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+118ba3b56908ae71e64b0f8466c49891d9ad4dcc 0e7b25d9863fea2bb71dea48b4d52e6a0cad7e15 1178 1178 290468464 261444439 8690364 0
+1133f3ad600fa07440c0e4af3dcd784b1bd6b2f0
+ERROR> Previous HEAD position was 118ba3b56 Fix wrong example in doc, sync Python E2E version and adjust E2E (#8751)
+ERROR> HEAD is now at 1133f3ad6 Fix nits in release doc (#8826)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+1133f3ad600fa07440c0e4af3dcd784b1bd6b2f0 118ba3b56908ae71e64b0f8466c49891d9ad4dcc 1178 1178 250267816 290468464 6806855 0
+91413a753c08f1dc2338f9b368314a1ff65b860a
+ERROR> Previous HEAD position was 1133f3ad6 Fix nits in release doc (#8826)
+ERROR> HEAD is now at 91413a753 Start 9.1.0-dev iteration (#8822)
+org.apache.skywalking:apm:pom:9.1.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+91413a753c08f1dc2338f9b368314a1ff65b860a 1133f3ad600fa07440c0e4af3dcd784b1bd6b2f0 1178 1178 270803415 250267816 6640630 0
+4e750e69fbe34a9d6e87b4db7dda955a335736db
+ERROR> Previous HEAD position was 91413a753 Start 9.1.0-dev iteration (#8822)
+ERROR> HEAD is now at 4e750e69f add missing unit (#8821)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+4e750e69fbe34a9d6e87b4db7dda955a335736db 91413a753c08f1dc2338f9b368314a1ff65b860a 1178 1178 245448003 270803415 5972039 0
+de978e18df79d6f65f6720bfb6145936463443c1
+ERROR> Previous HEAD position was 4e750e69f add missing unit (#8821)
+ERROR> HEAD is now at de978e18d Add trace of Browser dashboard (#8819)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+de978e18df79d6f65f6720bfb6145936463443c1 4e750e69fbe34a9d6e87b4db7dda955a335736db 1178 1178 270549477 245448003 5741979 0
+3be0c80870fd42352ac6995ca865c9f8df95c6b6
+ERROR> Previous HEAD position was de978e18d Add trace of Browser dashboard (#8819)
+ERROR> HEAD is now at 3be0c8087 update ui (#8816)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+3be0c80870fd42352ac6995ca865c9f8df95c6b6 de978e18df79d6f65f6720bfb6145936463443c1 1178 1178 240782535 270549477 5653059 0
+0d3c20b48fedebe71a87b72f787ad0e17df0b408
+ERROR> Previous HEAD position was 3be0c8087 update ui (#8816)
+ERROR> HEAD is now at 0d3c20b48 Update OpenFunction Doc URL (#8814)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+0d3c20b48fedebe71a87b72f787ad0e17df0b408 3be0c80870fd42352ac6995ca865c9f8df95c6b6 1178 1178 257210499 240782535 5865699 0
+c66111c0d26093f32be3977275448182b469f98b
+ERROR> Previous HEAD position was 0d3c20b48 Update OpenFunction Doc URL (#8814)
+ERROR> HEAD is now at c66111c0d Update `k8s-monitoring`, `backend-telemetry` and `v9-version-upgrade` doc for v9. (#8813)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+c66111c0d26093f32be3977275448182b469f98b 0d3c20b48fedebe71a87b72f787ad0e17df0b408 1178 1178 249680001 257210499 5622979 0
+34a4553e23530e8255efe6f5a0adff9e69555d64
+ERROR> Previous HEAD position was c66111c0d Update `k8s-monitoring`, `backend-telemetry` and `v9-version-upgrade` doc for v9. (#8813)
+ERROR> HEAD is now at 34a4553e2 Bump up versions for Apache httpclient, commons-io, postgresql, log4j2(test codes) (#8811)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+34a4553e23530e8255efe6f5a0adff9e69555d64 c66111c0d26093f32be3977275448182b469f98b 1178 1178 248078974 249680001 6543591 0
+2db93e198152b8a5f66e0ddd70b61e4420765830
+ERROR> Previous HEAD position was 34a4553e2 Bump up versions for Apache httpclient, commons-io, postgresql, log4j2(test codes) (#8811)
+ERROR> HEAD is now at 2db93e198 Fix wrong ignore paths in GHA workflows (#8805)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+2db93e198152b8a5f66e0ddd70b61e4420765830 34a4553e23530e8255efe6f5a0adff9e69555d64 1178 1178 265530463 248078974 7787013 0
+7b6f50b62be485a4c989034352a2c5fc54f36820
+ERROR> Previous HEAD position was 2db93e198 Fix wrong ignore paths in GHA workflows (#8805)
+ERROR> HEAD is now at 7b6f50b62 Polish doc readme. (#8804)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+7b6f50b62be485a4c989034352a2c5fc54f36820 2db93e198152b8a5f66e0ddd70b61e4420765830 1178 1178 251029674 265530463 8073756 0
+f280c6c384272f247f61caee6d7564934d34037c
+ERROR> Previous HEAD position was 7b6f50b62 Polish doc readme. (#8804)
+ERROR> HEAD is now at f280c6c38 Bump up Spring's core version to 5.3.18 in webapp dependencies. (#8802)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+f280c6c384272f247f61caee6d7564934d34037c 7b6f50b62be485a4c989034352a2c5fc54f36820 1178 1178 255540049 251029674 6676669 0
+a06feae1a6768c02f5777f5456d970760a497f86
+ERROR> Previous HEAD position was f280c6c38 Bump up Spring's core version to 5.3.18 in webapp dependencies. (#8802)
+ERROR> HEAD is now at a06feae1a Rewrite UI introduction (#8803)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+a06feae1a6768c02f5777f5456d970760a497f86 f280c6c384272f247f61caee6d7564934d34037c 1178 1178 244569080 255540049 7815996 0
+1ca53a12ed93ada216ba138736d5fb2596cddbcc
+ERROR> Previous HEAD position was a06feae1a Rewrite UI introduction (#8803)
+ERROR> HEAD is now at 1ca53a12e Sync UI and update templates (#8800)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+1ca53a12ed93ada216ba138736d5fb2596cddbcc a06feae1a6768c02f5777f5456d970760a497f86 1178 1178 242035543 244569080 8329282 0
+59b33f44fa0b0416ce8bdc523a4dc89d79af5a27
+ERROR> Previous HEAD position was 1ca53a12e Sync UI and update templates (#8800)
+ERROR> HEAD is now at 59b33f44f Update menu.yml (#8799)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+59b33f44fa0b0416ce8bdc523a4dc89d79af5a27 1ca53a12ed93ada216ba138736d5fb2596cddbcc 1178 1178 291399117 242035543 11829477 0
+78a41443e48af2f6342bc3dfefe37dfe8ee2f6cd
+ERROR> Previous HEAD position was 59b33f44f Update menu.yml (#8799)
+ERROR> HEAD is now at 78a41443e Add a doc for virtual database. (#8798)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+78a41443e48af2f6342bc3dfefe37dfe8ee2f6cd 59b33f44fa0b0416ce8bdc523a4dc89d79af5a27 1178 1178 311230309 291399117 9646786 0
+9ea40b2d62ce27ab520aee3afc7672ce17db5cc5
+ERROR> Previous HEAD position was 78a41443e Add a doc for virtual database. (#8798)
+ERROR> HEAD is now at 9ea40b2d6 Update UI submodule (#8797)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+9ea40b2d62ce27ab520aee3afc7672ce17db5cc5 78a41443e48af2f6342bc3dfefe37dfe8ee2f6cd 1178 1178 251502516 311230309 6133906 0
+b670ea6031d0e23c8947459ccb9c02ee435ca9f5
+ERROR> Previous HEAD position was 9ea40b2d6 Update UI submodule (#8797)
+ERROR> HEAD is now at b670ea603 Update ui-template and sync UI (#8795)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+b670ea6031d0e23c8947459ccb9c02ee435ca9f5 9ea40b2d62ce27ab520aee3afc7672ce17db5cc5 1178 1178 256374076 251502516 5177254 0
+bfdbd55285d04aba40fc8a0da2aae07a92e216c0
+ERROR> Previous HEAD position was b670ea603 Update ui-template and sync UI (#8795)
+ERROR> HEAD is now at bfdbd5528 Add template of OpenFunction (#8789)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+bfdbd55285d04aba40fc8a0da2aae07a92e216c0 b670ea6031d0e23c8947459ccb9c02ee435ca9f5 1178 1178 245367246 256374076 5259476 0
+f8feaa97b7aba577551e2db092a3c29306127eed
+ERROR> Previous HEAD position was bfdbd5528 Add template of OpenFunction (#8789)
+ERROR> HEAD is now at f8feaa97b update UI templates (#8788)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+f8feaa97b7aba577551e2db092a3c29306127eed bfdbd55285d04aba40fc8a0da2aae07a92e216c0 1178 1178 238052907 245367246 5441209 0
+74fbc3d8ecce103eeefc2a7e52b3d369b0b2c956
+ERROR> Previous HEAD position was f8feaa97b update UI templates (#8788)
+ERROR> HEAD is now at 74fbc3d8e update ui-template: browser, general, mesh (#8786)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+74fbc3d8ecce103eeefc2a7e52b3d369b0b2c956 f8feaa97b7aba577551e2db092a3c29306127eed 1178 1178 278615011 238052907 7330286 0
+98316f57f08f7b5ac1da64899740ecc0abee9a97
+ERROR> Previous HEAD position was 74fbc3d8e update ui-template: browser, general, mesh (#8786)
+ERROR> HEAD is now at 98316f57f Add profiling doc (#8785)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+98316f57f08f7b5ac1da64899740ecc0abee9a97 74fbc3d8ecce103eeefc2a7e52b3d369b0b2c956 1178 1178 219341790 278615011 5127030 0
+d600e7223f5717bbe549be0e551a8763b9de0e20
+ERROR> Previous HEAD position was 98316f57f Add profiling doc (#8785)
+ERROR> HEAD is now at d600e7223 docs: update UI licenses (#8783)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+d600e7223f5717bbe549be0e551a8763b9de0e20 98316f57f08f7b5ac1da64899740ecc0abee9a97 1178 1178 283021428 219341790 5251226 0
+d86880ce7e2e855ca93914020bf3a0d4caf23d7b
+ERROR> Previous HEAD position was d600e7223 docs: update UI licenses (#8783)
+ERROR> HEAD is now at d86880ce7 Upgrade depdencies (#8781)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+d86880ce7e2e855ca93914020bf3a0d4caf23d7b d600e7223f5717bbe549be0e551a8763b9de0e20 1178 1178 226150408 283021428 5181647 0
+faf6e2eb9e7c50e7e2dd507e65cf1da7d8a3ee7f
+ERROR> Previous HEAD position was d86880ce7 Upgrade depdencies (#8781)
+ERROR> HEAD is now at faf6e2eb9 Add `Error Prone Annotations` dependency to suppress warnings (#8774)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+faf6e2eb9e7c50e7e2dd507e65cf1da7d8a3ee7f d86880ce7e2e855ca93914020bf3a0d4caf23d7b 1178 1178 234084485 226150408 5414315 0
+eb5f755918dae0f5ac113a0c99c9618d95f996f6
+ERROR> Previous HEAD position was faf6e2eb9 Add `Error Prone Annotations` dependency to suppress warnings (#8774)
+ERROR> HEAD is now at eb5f75591 Reconstruction doc menu for v9 (#8780)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+eb5f755918dae0f5ac113a0c99c9618d95f996f6 faf6e2eb9e7c50e7e2dd507e65cf1da7d8a3ee7f 1178 1178 254851497 234084485 5313465 0
+d08faefe5f0527c75562b56b79f76fb472b33d15
+ERROR> Previous HEAD position was eb5f75591 Reconstruction doc menu for v9 (#8780)
+ERROR> HEAD is now at d08faefe5 Fix `DatabaseSlowStatement` miss-set service catalog. (#8779)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+d08faefe5f0527c75562b56b79f76fb472b33d15 eb5f755918dae0f5ac113a0c99c9618d95f996f6 1178 1178 238013621 254851497 7788271 0
+72e4b12dc3f05d697e9edfcce3f18483ef16c7c7
+ERROR> Previous HEAD position was d08faefe5 Fix `DatabaseSlowStatement` miss-set service catalog. (#8779)
+ERROR> HEAD is now at 72e4b12dc Add the Self Observability template of SkyWalking Satellite (#8776)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+72e4b12dc3f05d697e9edfcce3f18483ef16c7c7 d08faefe5f0527c75562b56b79f76fb472b33d15 1178 1178 233913453 238013621 5207938 0
+29453faa70f57dc6e19afde5e3e9b8f036de8f92
+ERROR> Previous HEAD position was 72e4b12dc Add the Self Observability template of SkyWalking Satellite (#8776)
+ERROR> HEAD is now at 29453faa7 sync-ui (#8775)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+29453faa70f57dc6e19afde5e3e9b8f036de8f92 72e4b12dc3f05d697e9edfcce3f18483ef16c7c7 1178 1178 255360758 233913453 5092520 0
+b57866eb677b47a43344c74d531846c86f3c2280
+ERROR> Previous HEAD position was 29453faa7 sync-ui (#8775)
+ERROR> HEAD is now at b57866eb6 Adjust MAL for V9 and update UI template  (#8772)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+b57866eb677b47a43344c74d531846c86f3c2280 29453faa70f57dc6e19afde5e3e9b8f036de8f92 1178 1178 263912455 255360758 5040223 0
+422bea7c458f827d9a643f41e97e3a807ce76e2c
+ERROR> Previous HEAD position was b57866eb6 Adjust MAL for V9 and update UI template  (#8772)
+ERROR> HEAD is now at 422bea7c4 Reduce false positives from Sonatype Lift (#8769)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+422bea7c458f827d9a643f41e97e3a807ce76e2c b57866eb677b47a43344c74d531846c86f3c2280 1178 1178 222572832 263912455 4994420 0
+1554c087f408aa8bbe34d37d001be8174b7a0e69
+ERROR> Previous HEAD position was 422bea7c4 Reduce false positives from Sonatype Lift (#8769)
+ERROR> HEAD is now at 1554c087f Refactor IoTDB storage plugin and bump up iotdb-session to 0.12.5 (#8755)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+1554c087f408aa8bbe34d37d001be8174b7a0e69 422bea7c458f827d9a643f41e97e3a807ce76e2c 1178 1178 237591865 222572832 4898025 0
+2a8bf4deff2dd44f5d9092d40a818f04be0c4f18
+ERROR> Previous HEAD position was 1554c087f Refactor IoTDB storage plugin and bump up iotdb-session to 0.12.5 (#8755)
+ERROR> HEAD is now at 2a8bf4def Support eBPF Profiling E2E (#8761)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+2a8bf4deff2dd44f5d9092d40a818f04be0c4f18 1554c087f408aa8bbe34d37d001be8174b7a0e69 1178 1178 245779509 237591865 4737092 0
+3577fe4988ec3efb778e3254c5b6832d879866ef
+ERROR> Previous HEAD position was 2a8bf4def Support eBPF Profiling E2E (#8761)
+ERROR> HEAD is now at 3577fe498 sync ui, add and update ui-templates (#8764)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+3577fe4988ec3efb778e3254c5b6832d879866ef 2a8bf4deff2dd44f5d9092d40a818f04be0c4f18 1178 1178 214416398 245779509 7364089 0
+81921c2953e234f623307f51dc34e5a5fe6caab1
+ERROR> Previous HEAD position was 3577fe498 sync ui, add and update ui-templates (#8764)
+ERROR> HEAD is now at 81921c295 UI template init and add control environment variable  (#8760)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+81921c2953e234f623307f51dc34e5a5fe6caab1 3577fe4988ec3efb778e3254c5b6832d879866ef 1178 1178 248132713 214416398 5290880 0
+bc2458cf150128bc90f9b55680baacd629315d8b
+ERROR> Previous HEAD position was 81921c295 UI template init and add control environment variable  (#8760)
+ERROR> HEAD is now at bc2458cf1 added the ignore rule for thread safety (#8736)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+bc2458cf150128bc90f9b55680baacd629315d8b 81921c2953e234f623307f51dc34e5a5fe6caab1 1178 1178 258210744 248132713 4760034 0
+ac5c4ab3c8d4b1b2006b4a510f69a25780d1e514
+ERROR> Previous HEAD position was bc2458cf1 added the ignore rule for thread safety (#8736)
+ERROR> HEAD is now at ac5c4ab3c Trim tag's key and value in log query. (#8739)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+ac5c4ab3c8d4b1b2006b4a510f69a25780d1e514 bc2458cf150128bc90f9b55680baacd629315d8b 1178 1178 246901879 258210744 4986640 0
+c8c045a90c5d1849b6ba67fd4f42594a9a3237e2
+ERROR> Previous HEAD position was ac5c4ab3c Trim tag's key and value in log query. (#8739)
+ERROR> HEAD is now at c8c045a90 sync-ui (#8756)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+c8c045a90c5d1849b6ba67fd4f42594a9a3237e2 ac5c4ab3c8d4b1b2006b4a510f69a25780d1e514 1178 1178 239170944 246901879 5178011 0
+d96eed9145db8004bba538ae0051b30ad63b69a9
+ERROR> Previous HEAD position was c8c045a90 sync-ui (#8756)
+ERROR> HEAD is now at d96eed914 Fix event type of export data, reduce redundancy ThreadLocal in MAL core. (#8754)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+d96eed9145db8004bba538ae0051b30ad63b69a9 c8c045a90c5d1849b6ba67fd4f42594a9a3237e2 1178 1178 269459894 239170944 7745385 0
+5a4d1fbb4654f1b70b43720e16e6b57737d684b2
+ERROR> Previous HEAD position was d96eed914 Fix event type of export data, reduce redundancy ThreadLocal in MAL core. (#8754)
+ERROR> HEAD is now at 5a4d1fbb4 sync-ui (#8753)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+5a4d1fbb4654f1b70b43720e16e6b57737d684b2 d96eed9145db8004bba538ae0051b30ad63b69a9 1178 1178 279556475 269459894 5341173 0
+d90e2e6ef67a43466dcdfae453369b299d3fd198
+ERROR> Previous HEAD position was 5a4d1fbb4 sync-ui (#8753)
+ERROR> HEAD is now at d90e2e6ef Enhance endpoint dependency analysis to support cross threads cases. (#8747)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+d90e2e6ef67a43466dcdfae453369b299d3fd198 5a4d1fbb4654f1b70b43720e16e6b57737d684b2 1178 1178 275270265 279556475 5836439 0
+547f1ede2d1665601cb9d9a3853ed205620d6c83
+ERROR> Previous HEAD position was d90e2e6ef Enhance endpoint dependency analysis to support cross threads cases. (#8747)
+ERROR> HEAD is now at 547f1ede2 remove redundant exception (#8738)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+547f1ede2d1665601cb9d9a3853ed205620d6c83 d90e2e6ef67a43466dcdfae453369b299d3fd198 1178 1178 254957733 275270265 5680125 0
+40c7eab8d0328c7043ce111a52c3053acd4da8af
+ERROR> Previous HEAD position was 547f1ede2 remove redundant exception (#8738)
+ERROR> HEAD is now at 40c7eab8d sync-ui (#8735)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+40c7eab8d0328c7043ce111a52c3053acd4da8af 547f1ede2d1665601cb9d9a3853ed205620d6c83 1178 1178 235704892 254957733 5192041 0
+e0be87b8a18904afa671330e0d76e74d5937cbc9
+ERROR> Previous HEAD position was 40c7eab8d sync-ui (#8735)
+ERROR> HEAD is now at e0be87b8a Add one new layers for k8s (#8732)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+e0be87b8a18904afa671330e0d76e74d5937cbc9 40c7eab8d0328c7043ce111a52c3053acd4da8af 1178 1178 247980103 235704892 30531619 0
+80c177f5712c5b1b4b1b7278706db3a609093587
+ERROR> Previous HEAD position was e0be87b8a Add one new layers for k8s (#8732)
+ERROR> HEAD is now at 80c177f57 change to more accurate naming (#8733)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+80c177f5712c5b1b4b1b7278706db3a609093587 e0be87b8a18904afa671330e0d76e74d5937cbc9 1178 1178 258971395 247980103 6679319 0
+80d3a4a1ba160c13a836ba05cc3c7cd420685cb2
+ERROR> Previous HEAD position was 80c177f57 change to more accurate naming (#8733)
+ERROR> HEAD is now at 80d3a4a1b Sync NodeJS version and adjust E2E (#8730)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+80d3a4a1ba160c13a836ba05cc3c7cd420685cb2 80c177f5712c5b1b4b1b7278706db3a609093587 1178 1178 256104824 258971395 7075469 0
+5114b95ac43035a7c6bd1f5f443011e4eec74a74
+ERROR> Previous HEAD position was 80d3a4a1b Sync NodeJS version and adjust E2E (#8730)
+ERROR> HEAD is now at 5114b95ac sync-ui (#8729)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+5114b95ac43035a7c6bd1f5f443011e4eec74a74 80d3a4a1ba160c13a836ba05cc3c7cd420685cb2 1178 1178 253669427 256104824 6411676 0
+81aad17ca2906792371355da12f2d38da76ba9b2
+ERROR> Previous HEAD position was 5114b95ac sync-ui (#8729)
+ERROR> HEAD is now at 81aad17ca Format change logs in a better way. (#8727)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+81aad17ca2906792371355da12f2d38da76ba9b2 5114b95ac43035a7c6bd1f5f443011e4eec74a74 1178 1178 239089988 253669427 5522694 0
+0dfb93a2d1637aa7514914858a2e082cd3327d30
+ERROR> Previous HEAD position was 81aad17ca Format change logs in a better way. (#8727)
+ERROR> HEAD is now at 0dfb93a2d Insure span analyze isNormal and Layer consistent. (#8724)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+0dfb93a2d1637aa7514914858a2e082cd3327d30 81aad17ca2906792371355da12f2d38da76ba9b2 1178 1178 216547113 239089988 5967110 0
+ba9cad6d8f3afce4953bb78479a223f18fa95a6a
+ERROR> Previous HEAD position was 0dfb93a2d Insure span analyze isNormal and Layer consistent. (#8724)
+ERROR> HEAD is now at ba9cad6d8 Update the eBPF profiling schedule entity (#8716)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+ba9cad6d8f3afce4953bb78479a223f18fa95a6a 0dfb93a2d1637aa7514914858a2e082cd3327d30 1178 1178 238003260 216547113 8316550 0
+27c094b35b423a3fe7f00cb2a62607eadbc06873
+ERROR> Previous HEAD position was ba9cad6d8 Update the eBPF profiling schedule entity (#8716)
+ERROR> HEAD is now at 27c094b35 sync-ui (#8722)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+27c094b35b423a3fe7f00cb2a62607eadbc06873 ba9cad6d8f3afce4953bb78479a223f18fa95a6a 1178 1178 243413132 238003260 7859083 0
+b9c5283468321f63a2ab364467120039e321b965
+ERROR> Previous HEAD position was 27c094b35 sync-ui (#8722)
+ERROR> HEAD is now at b9c528346 Fix the configuration of `Aggregation`  and `GC Count` metrics for oap self observability(#8707) (#8719)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+b9c5283468321f63a2ab364467120039e321b965 27c094b35b423a3fe7f00cb2a62607eadbc06873 1178 1178 265598564 243413132 7945281 0
+1207a661b539e06aa7a0daa71d8cbd763d0bd152
+ERROR> Previous HEAD position was b9c528346 Fix the configuration of `Aggregation`  and `GC Count` metrics for oap self observability(#8707) (#8719)
+ERROR> HEAD is now at 1207a661b sync-ui (#8714)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+1207a661b539e06aa7a0daa71d8cbd763d0bd152 b9c5283468321f63a2ab364467120039e321b965 1178 1178 233577388 265598564 8738395 0
+e4dac66e2fc815b3893a90559377eb1ef0db7d6f
+ERROR> Previous HEAD position was 1207a661b sync-ui (#8714)
+ERROR> HEAD is now at e4dac66e2 Implement the eBPF profiling query and data collect protocol (#8696)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======1176
+e4dac66e2fc815b3893a90559377eb1ef0db7d6f 1207a661b539e06aa7a0daa71d8cbd763d0bd152 1178 1178 258217011 233577388 5217451 0
+2bfa642d36f21e2d5bc81ac423c313538520c6c9
+ERROR> Previous HEAD position was e4dac66e2 Implement the eBPF profiling query and data collect protocol (#8696)
+ERROR> HEAD is now at 2bfa642d3 sync-ui (#8709)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+2bfa642d36f21e2d5bc81ac423c313538520c6c9 e4dac66e2fc815b3893a90559377eb1ef0db7d6f 986 1178 222955404 258217011 22645184550 192
+fed3df305ef2ba227cead177091c4a084e99aeef
+ERROR> Previous HEAD position was 2bfa642d3 sync-ui (#8709)
+ERROR> HEAD is now at fed3df305 Fix comments. (#8708)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+fed3df305ef2ba227cead177091c4a084e99aeef 2bfa642d36f21e2d5bc81ac423c313538520c6c9 986 986 244351244 222955404 1679494374 0
+2bf7f0f4e779e276d241cbf71773a3bba43735b8
+ERROR> Previous HEAD position was fed3df305 Fix comments. (#8708)
+ERROR> HEAD is now at 2bf7f0f4e Support ElasticSearch template mappings `properties parameters` and `_source` update (#8706)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+2bf7f0f4e779e276d241cbf71773a3bba43735b8 fed3df305ef2ba227cead177091c4a084e99aeef 986 986 228000967 244351244 1510915235 0
+f956484e21ace28de15b982120af59833b5da795
+ERROR> Previous HEAD position was 2bf7f0f4e Support ElasticSearch template mappings `properties parameters` and `_source` update (#8706)
+ERROR> HEAD is now at f956484e2 Add `Column.shardingKeyIdx` for column definition for BanyanDB (#8705)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+f956484e21ace28de15b982120af59833b5da795 2bf7f0f4e779e276d241cbf71773a3bba43735b8 986 986 263896638 228000967 1571919247 0
+6486b13a78f5edcac7932fb80d28d84e4f910c30
+ERROR> Previous HEAD position was f956484e2 Add `Column.shardingKeyIdx` for column definition for BanyanDB (#8705)
+ERROR> HEAD is now at 6486b13a7 Add complexity limitation for GraphQL query to avoid malicious query (#8703)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+6486b13a78f5edcac7932fb80d28d84e4f910c30 f956484e21ace28de15b982120af59833b5da795 986 986 222614989 263896638 1578886005 0
+eccca8506f83715d44372d6011f9f1f804bad225
+ERROR> Previous HEAD position was 6486b13a7 Add complexity limitation for GraphQL query to avoid malicious query (#8703)
+ERROR> HEAD is now at eccca8506 Remove fake required workflows (#8692)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+eccca8506f83715d44372d6011f9f1f804bad225 6486b13a78f5edcac7932fb80d28d84e4f910c30 986 986 218217777 222614989 1645296849 0
+bf03d9f67a5b821ca4e713f306c5badd510675b2
+ERROR> Previous HEAD position was eccca8506 Remove fake required workflows (#8692)
+ERROR> HEAD is now at bf03d9f67 Improve CI with the GHA new feature (#8691)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+bf03d9f67a5b821ca4e713f306c5badd510675b2 eccca8506f83715d44372d6011f9f1f804bad225 986 986 236833705 218217777 1557843012 0
+a68f2d02fc2267b9c24474564e3f975c8bd54970
+ERROR> Previous HEAD position was bf03d9f67 Improve CI with the GHA new feature (#8691)
+ERROR> HEAD is now at a68f2d02f Remove the hard requirement of BASE64 encoding for the binary field (#8685)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+a68f2d02fc2267b9c24474564e3f975c8bd54970 bf03d9f67a5b821ca4e713f306c5badd510675b2 986 986 207268353 236833705 1535634020 0
+91a82e056a9b1593afd4c3753085debe42a1aac4
+ERROR> Previous HEAD position was a68f2d02f Remove the hard requirement of BASE64 encoding for the binary field (#8685)
+ERROR> HEAD is now at 91a82e056 Add storage column attribute `indexOnly` (#8679)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+91a82e056a9b1593afd4c3753085debe42a1aac4 a68f2d02fc2267b9c24474564e3f975c8bd54970 986 986 228896118 207268353 1542242307 0
+4def159162b1c55b223f0ae1494d92a982d513f0
+ERROR> Previous HEAD position was 91a82e056 Add storage column attribute `indexOnly` (#8679)
+ERROR> HEAD is now at 4def15916 Refactor the core Builder mechanism (#8684)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+4def159162b1c55b223f0ae1494d92a982d513f0 91a82e056a9b1593afd4c3753085debe42a1aac4 986 986 250193076 228896118 1541929363 0
+4c7ac43d05c2fc13fc2d385f47b9b8554a7778b9
+ERROR> Previous HEAD position was 4def15916 Refactor the core Builder mechanism (#8684)
+ERROR> HEAD is now at 4c7ac43d0 Polish Zipkin HTTP receiver with Armeria APIs (#8680)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+4c7ac43d05c2fc13fc2d385f47b9b8554a7778b9 4def159162b1c55b223f0ae1494d92a982d513f0 986 986 230398255 250193076 1516321937 0
+289427990aa857298e498782ad97a1d8db68ae4a
+ERROR> Previous HEAD position was 4c7ac43d0 Polish Zipkin HTTP receiver with Armeria APIs (#8680)
+ERROR> HEAD is now at 289427990 Migrate the HTTP server from Jetty to Armeria (#8673)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+289427990aa857298e498782ad97a1d8db68ae4a 4c7ac43d05c2fc13fc2d385f47b9b8554a7778b9 986 986 248854556 230398255 1559017850 0
+bbc53dddae813ee32eb95b4b82c152568f72f78e
+ERROR> Previous HEAD position was 289427990 Migrate the HTTP server from Jetty to Armeria (#8673)
+ERROR> HEAD is now at bbc53ddda Revert part of #8644, disable otel rules `k8s-cluster` and `k8s-service` by default (#8677)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+bbc53dddae813ee32eb95b4b82c152568f72f78e 289427990aa857298e498782ad97a1d8db68ae4a 986 986 241649227 248854556 1475690344 0
+08d481e5fc4164f1e9c7e352c833b08bd62915e5
+ERROR> Previous HEAD position was bbc53ddda Revert part of #8644, disable otel rules `k8s-cluster` and `k8s-service` by default (#8677)
+ERROR> HEAD is now at 08d481e5f Enhance DataCarrier#MultipleChannelsConsumer to add priority (#8664)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+08d481e5fc4164f1e9c7e352c833b08bd62915e5 bbc53dddae813ee32eb95b4b82c152568f72f78e 986 986 258305615 241649227 1470761744 0
+9c46d6f8d4d9ef8f5becaa05930fd0a7ac3ad346
+ERROR> Previous HEAD position was 08d481e5f Enhance DataCarrier#MultipleChannelsConsumer to add priority (#8664)
+ERROR> HEAD is now at 9c46d6f8d Fix es normal index couldn't apply mapping and update (#8661)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+9c46d6f8d4d9ef8f5becaa05930fd0a7ac3ad346 08d481e5fc4164f1e9c7e352c833b08bd62915e5 986 986 224191572 258305615 1541030610 0
+ee519c74c6a4ce22c6ee7c499e6db843f934e9c6
+ERROR> Previous HEAD position was 9c46d6f8d Fix es normal index couldn't apply mapping and update (#8661)
+ERROR> HEAD is now at ee519c74c Update frontend-maven-plugin to 1.12 and npm to 16.14.0 for booster UI build. (#8660)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+ee519c74c6a4ce22c6ee7c499e6db843f934e9c6 9c46d6f8d4d9ef8f5becaa05930fd0a7ac3ad346 986 986 208663619 224191572 1577587867 0
+d1f5b58f5c6603a2126c3766dffc029ce93b23d3
+ERROR> Previous HEAD position was ee519c74c Update frontend-maven-plugin to 1.12 and npm to 16.14.0 for booster UI build. (#8660)
+ERROR> HEAD is now at d1f5b58f5 [Breaking Change] Deprecate `All` from OAL source. (#8656)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+d1f5b58f5c6603a2126c3766dffc029ce93b23d3 ee519c74c6a4ce22c6ee7c499e6db843f934e9c6 986 986 221153184 208663619 1603959607 0
+b1d3f3b63701dff4195a5178b1f93240740fcc3e
+ERROR> Previous HEAD position was d1f5b58f5 [Breaking Change] Deprecate `All` from OAL source. (#8656)
+ERROR> HEAD is now at b1d3f3b63 Expose more ElasticSearch health check related logs (#8652)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+b1d3f3b63701dff4195a5178b1f93240740fcc3e d1f5b58f5c6603a2126c3766dffc029ce93b23d3 986 986 222312804 221153184 1412084151 0
+6bc2c3307a7175f1aba7ccee674631812b2379ad
+ERROR> Previous HEAD position was b1d3f3b63 Expose more ElasticSearch health check related logs (#8652)
+ERROR> HEAD is now at 6bc2c3307 Implement process metadata query protocol (#8649)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+6bc2c3307a7175f1aba7ccee674631812b2379ad b1d3f3b63701dff4195a5178b1f93240740fcc3e 986 986 197845941 222312804 1446117083 0
+3a31cbe222676e85ef834735b26a64e791c8f9c3
+ERROR> Previous HEAD position was 6bc2c3307 Implement process metadata query protocol (#8649)
+ERROR> HEAD is now at 3a31cbe22 return all Layer definition names within OAP (#8651)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+3a31cbe222676e85ef834735b26a64e791c8f9c3 6bc2c3307a7175f1aba7ccee674631812b2379ad 986 986 258943200 197845941 1484420046 0
+c7c4c6770d55271d4063d4c9f344d50be316dae2
+ERROR> Previous HEAD position was 3a31cbe22 return all Layer definition names within OAP (#8651)
+ERROR> HEAD is now at c7c4c6770 sync ui (#8642)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+c7c4c6770d55271d4063d4c9f344d50be316dae2 3a31cbe222676e85ef834735b26a64e791c8f9c3 986 986 214241967 258943200 1539363211 0
+f3743ee017cca7d165a25c0319ffe870ea9d1791
+ERROR> Previous HEAD position was c7c4c6770 sync ui (#8642)
+ERROR> HEAD is now at f3743ee01 Introduce booster-ui and implement v9 template management protocol (#8637)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+f3743ee017cca7d165a25c0319ffe870ea9d1791 c7c4c6770d55271d4063d4c9f344d50be316dae2 986 986 228833832 214241967 1525446790 0
+eb7529adb6017d6509cb2c081c53e6cbc29f62c9
+ERROR> Previous HEAD position was f3743ee01 Introduce booster-ui and implement v9 template management protocol (#8637)
+ERROR> HEAD is now at eb7529adb Support large service list query and replace deprecated API of Armeria (#8628)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+eb7529adb6017d6509cb2c081c53e6cbc29f62c9 f3743ee017cca7d165a25c0319ffe870ea9d1791 986 986 239121151 228833832 1487937622 0
+4b0504fd5dacd031afcad7ca43f0812e488c6c4d
+ERROR> Previous HEAD position was eb7529adb Support large service list query and replace deprecated API of Armeria (#8628)
+ERROR> HEAD is now at 4b0504fd5 Update codeStyle.xml to fix incompatibility (#8623)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+4b0504fd5dacd031afcad7ca43f0812e488c6c4d eb7529adb6017d6509cb2c081c53e6cbc29f62c9 986 986 244864285 239121151 1460059809 0
+ff024ce7a244403788659b958a3540a95b95d968
+ERROR> Previous HEAD position was 4b0504fd5 Update codeStyle.xml to fix incompatibility (#8623)
+ERROR> HEAD is now at ff024ce7a Limit the length of Event#parameters (#8622)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+ff024ce7a244403788659b958a3540a95b95d968 4b0504fd5dacd031afcad7ca43f0812e488c6c4d 986 986 216849143 244864285 1401346041 0
+ddde0c9612d6b4a6e315493243289ba9e9d3d9da
+ERROR> Previous HEAD position was ff024ce7a Limit the length of Event#parameters (#8622)
+ERROR> HEAD is now at ddde0c961 Set the length of event#parameters to 2000 (#8615)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+ddde0c9612d6b4a6e315493243289ba9e9d3d9da ff024ce7a244403788659b958a3540a95b95d968 986 986 224971732 216849143 1415697956 0
+f06c220e50d6d08f00153923f657688d84159aa0
+ERROR> Previous HEAD position was ddde0c961 Set the length of event#parameters to 2000 (#8615)
+ERROR> HEAD is now at f06c220e5 Introduce the entity of Process Type (#8617)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+f06c220e50d6d08f00153923f657688d84159aa0 ddde0c9612d6b4a6e315493243289ba9e9d3d9da 986 986 211462372 224971732 1475664267 0
+ff1103ec1d2d7c6a1a896730cfe3024e1e99782f
+ERROR> Previous HEAD position was f06c220e5 Introduce the entity of Process Type (#8617)
+ERROR> HEAD is now at ff1103ec1 Unify module name `receiver_zipkin` to `receiver-zipkin`, remove `receiver_jaeger` from `application.yaml`. (#8616)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+ff1103ec1d2d7c6a1a896730cfe3024e1e99782f f06c220e50d6d08f00153923f657688d84159aa0 986 986 224884270 211462372 1414870425 0
+057fdf553e5c0dd4939f6930cf09dd596bf3f944
+ERROR> Previous HEAD position was ff1103ec1 Unify module name `receiver_zipkin` to `receiver-zipkin`, remove `receiver_jaeger` from `application.yaml`. (#8616)
+ERROR> HEAD is now at 057fdf553 Use the plugin version defined by the Apache maven parent (#8613)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+057fdf553e5c0dd4939f6930cf09dd596bf3f944 ff1103ec1d2d7c6a1a896730cfe3024e1e99782f 986 986 183552084 224884270 1429634712 0
+d8786503979a3e441fb611c568a0e57ac30c7e9a
+ERROR> Previous HEAD position was 057fdf553 Use the plugin version defined by the Apache maven parent (#8613)
+ERROR> HEAD is now at d87865039 Replace UI repo (#8601)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+d8786503979a3e441fb611c568a0e57ac30c7e9a 057fdf553e5c0dd4939f6930cf09dd596bf3f944 986 986 200718107 183552084 1409841620 0
+5d034a0fc0a17eda74e3ef047bd378bf83bcf448
+ERROR> Previous HEAD position was d87865039 Replace UI repo (#8601)
+ERROR> HEAD is now at 5d034a0fc Fix a change log nit (#8600)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+5d034a0fc0a17eda74e3ef047bd378bf83bcf448 d8786503979a3e441fb611c568a0e57ac30c7e9a 986 986 198874313 200718107 1442086404 0
+7e83ca9e59f7bf6ab8ad1ee7672800d636e6150a
+ERROR> Previous HEAD position was 5d034a0fc Fix a change log nit (#8600)
+ERROR> HEAD is now at 7e83ca9e5 Add STAM paper to doc and Academy menu for listing important articles. (#8599)
+org.apache.skywalking:apm:pom:9.0.0-SNAPSHOT
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:oap-protocol:null {
+	null:apm-network:null
+}]
+
+null:oap-protocol:null {
+	null:apm-network:null
+}
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol
+apm-protocol
+[inherited]:oap-protocol:pom:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[null:apm-network:null]
+
+null:apm-network:null
+pom
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/pom.xml
+/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network
+apm-network
+[inherited]:apm-network:jar:[inherited]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/main/java]
+[/home/qledilav/hyperAST/instances/skywalking/apm-protocol/apm-network/src/test/java]
+[org]
+
+
+==============size=======984
+7e83ca9e59f7bf6ab8ad1ee7672800d636e6150a 5d034a0fc0a17eda74e3ef047bd378bf83bcf448 986 986 222086214 198874313 1537113451 0
+User:
+263.83
+Sys:
+29.10
+Elapsed:
+2:22.15
+Cpu:
+206%
+MaxMem:
+1657416
+major page_faults:
+173
+minor page_faults:
+6689864

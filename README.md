@@ -1,4 +1,4 @@
-# Reproduction package for "Computing Source Code Semantic Diffs at Scale"
+# Reproduction package for "Computing Source Code Diffs at Scale"
 
 ## Content
 
